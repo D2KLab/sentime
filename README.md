@@ -35,7 +35,7 @@ SentimeSystem   package: fr.eurecom.sentime
 ## Examples
     "I drove a Linconl and it's a truly dream" -> positive
 
-    "I drove a Linconl and I was awful" -> negative
+    "I drove a Linconl and it was awful" -> negative
 
 ## Team
 * ..
