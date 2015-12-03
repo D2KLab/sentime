@@ -16,13 +16,15 @@ import org.apache.commons.lang.StringUtils;
 
 public class SentimentanalysisSemEval {
 
-	private Set<Tweet> tweetList = new HashSet<Tweet>();
-	private String PATH =  "";
+	protected Set<Tweet> tweetList = new HashSet<Tweet>();
+	protected String PATH =  "";
 	
 	public SentimentanalysisSemEval(String path) throws FileNotFoundException, UnsupportedEncodingException {
 		this.PATH = path;
 		loadTweets(path);
 	}
+	
+	public SentimentanalysisSemEval() {}
 	
 	public void trainSystem(int system, String savename) throws IOException, ClassNotFoundException {
 		switch (system){
@@ -268,7 +270,7 @@ public class SentimentanalysisSemEval {
 		System.out.println("recallNeg: " + recallC);
 	}
 	
-	private void printResultToFile(Map<String, Integer> resultMapToPrint) throws FileNotFoundException {    
+	protected void printResultToFile(Map<String, Integer> resultMapToPrint) throws FileNotFoundException {    
         int errorcount = 0;
         Map<Integer, String> classValue = new HashMap<Integer, String>();
         classValue.put(0, "positive");

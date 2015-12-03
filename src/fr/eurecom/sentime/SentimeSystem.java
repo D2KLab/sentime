@@ -1,11 +1,15 @@
 package fr.eurecom.sentime;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.GnuParser;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 import en.weimar.webis.SentimentanalysisSemEval;
+import en.weimar.webis.Tweet;
 
 public class SentimeSystem {
 	
@@ -17,6 +21,7 @@ public class SentimeSystem {
 		String nameOfNRCTrain = "";
 		String nameOfGUMLTTrain = "";
 		String nameOfKLUETrain = "";
+		Tweet singleTweet;
 		//String nameOfTeamXTrain = "";
 		int evalmodelmode = 0;
 		int trainmodelmode = 0;
@@ -55,11 +60,22 @@ public class SentimeSystem {
 			if(line.hasOption("tm")){
 				trainmodelmode = Integer.parseInt(line.getOptionValue("tm"));
 			}
+	
 			
 			String[] argList = line.getArgs();
+			if(argList[0].equals("single")){
+				BufferedReader strin=new BufferedReader(new InputStreamReader(System.in));
+				System.out.println("Please enter the tweet:"); 
+				String str = strin.readLine();
+				singleTweet= new Tweet(str, "neutral", "1");
+				SentimeRequestHandler sentimentanalysis = new SentimeRequestHandler(singleTweet);
+				sentimentanalysis.process(nameOfNRCTrain, nameOfGUMLTTrain, nameOfKLUETrain);
+				return;
+			}
+			
 			PATH = argList[1];
 			
-			SentimentanalysisSemEval sentimentanalysis = new SentimentanalysisSemEval(PATH);
+			SentimeRequestHandler sentimentanalysis = new SentimeRequestHandler(PATH);
 			
 			switch (argList[0]){
 				case "eval":
