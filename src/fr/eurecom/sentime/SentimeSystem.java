@@ -98,7 +98,7 @@ public class SentimeSystem {
 			System.err.println("Parsing failed.  Reason: " + exp.getMessage());
 		}
 		long endTime = System.currentTimeMillis();
-        System.out.println("It took " + ((endTime - startTime) / 1000) + " seconds");
-				
+        System.out.println("It took " + ((endTime - startTime) / 1000) + " seconds");	
 	}
+	
 }

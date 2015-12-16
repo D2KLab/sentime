@@ -98,7 +98,7 @@ public class SentimentanalysisSemEval {
 			this.evalAllModels(nrcResult, gumltltResult, klueResult);
 	}
 	
-	private void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
+	protected void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
 		File file = new File("resources/tweets/" + path + ".txt");
 		Scanner scanner = new Scanner(file);
 		int multiple = 0;
@@ -128,7 +128,7 @@ public class SentimentanalysisSemEval {
 		scanner.close();
 	}
 	
-	private boolean storeTweetUni(String tweetString, String senti, String tweetID) throws UnsupportedEncodingException{
+	protected boolean storeTweetUni(String tweetString, String senti, String tweetID) throws UnsupportedEncodingException{
 		Tweet tweet = new Tweet(tweetString, senti, tweetID);		
 	    if(this.tweetList.add(tweet)){
 	    	return true;
@@ -289,6 +289,7 @@ public class SentimentanalysisSemEval {
                 String senti = classValue.get(resultMapToPrint.get(id));
                 if (senti != null){
                     line[2] = senti;
+                    
                 }
                 else{
                     System.out.println("Error while printResultToFile: tweetID:" + id);

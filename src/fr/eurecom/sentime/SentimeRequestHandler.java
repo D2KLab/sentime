@@ -22,6 +22,7 @@ import en.weimar.webis.Tweet;
 public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	
 	private Set<Tweet> inputTweet = new HashSet<Tweet>();
+	private Set<String> id_cache = new HashSet<String>();
 
 	public SentimeRequestHandler(String path) throws FileNotFoundException, UnsupportedEncodingException {
 		super(path);
@@ -34,6 +35,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	@Override
 	protected void printResultToFile (Map<String, Integer> resultMapToPrint) throws FileNotFoundException {
 		int errorcount = 0;
+		int multiple = 0;
         Map<Integer, String> classValue = new HashMap<Integer, String>();
         classValue.put(0, "positive");
         classValue.put(1, "neutral");
@@ -48,35 +50,47 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
             if (line[0].equals("NA")){
             	id = line[1];
             }
-            if (line.length == 4 && !line[3].equals("Not Available")){        
-                String senti = classValue.get(resultMapToPrint.get(id));
-                String tell = line[2];
-                if (senti != null){
-                    line[2] = senti;
-                    if (!tell.equals(line[2])){
-                    	String midman = line[1];
-                    	line[1] = "Actual:" + tell;
-                    	tweetPrintStreamError.print(StringUtils.join(line, "\t"));
-                    	tweetPrintStreamError.println();
-                    	line[1] = midman;
-                    }
-                } else {
-                    System.out.println("Error while printResultToFile: tweetID:" + id);
-                    errorcount++;
-                    line[2] = "neutral";
-                }
-            } else if (line.length == 4 && line[3].equals("Not Available")){
-                errorcount++;
+            if(this.id_cache.add(id)){
+	            if (line.length == 4 && !line[3].equals("Not Available")){        
+	                String senti = classValue.get(resultMapToPrint.get(id));
+	                String tell = line[2];
+	                if (senti != null){
+	                    line[2] = senti;
+	                    if (!tell.equals(line[2])){
+	                    	String midman = line[1];
+	                    	line[1] = "Actual:" + tell;
+	                    	line[3] = line[3].toLowerCase();
+	                		line[3] = line[3].replaceAll("@[^\\s]+", "");
+	                		line[3] = line[3].replaceAll("((www\\.[^\\s]+)|(https?://[^\\s]+))", "");
+	                    	tweetPrintStreamError.print(StringUtils.join(line, "\t"));
+	                    	tweetPrintStreamError.println();
+	                    	line[1] = midman;
+	                    } else {
+	                    	line[3] = line[3].toLowerCase();
+	                		line[3] = line[3].replaceAll("@[^\\s]+", "");
+	                		line[3] = line[3].replaceAll("((www\\.[^\\s]+)|(https?://[^\\s]+))", "");
+	                		tweetPrintStream.print(StringUtils.join(line, "\t"));
+	                        tweetPrintStream.println();
+	                    }
+	                } else {
+	                    System.out.println("Error while printResultToFile: tweetID:" + id);
+	                    errorcount++;
+	                    line[2] = "neutral";
+	                }
+	            } else if (line.length == 4 && line[3].equals("Not Available")){
+	                errorcount++;
+	            } else {
+	            	System.out.println(line[0]);
+	            }
             } else {
-            	System.out.println(line[0]);
+            	multiple ++;
             }
-            tweetPrintStream.print(StringUtils.join(line, "\t"));
-            tweetPrintStream.println();
         }
         scanner.close();
         tweetPrintStream.close();
         tweetPrintStreamError.close();
         if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
+        if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
 
 	public void process(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE) throws Exception{
@@ -112,6 +126,36 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 				}
 			}
 		}
+	}
+	
+	@Override
+	protected void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
+		File file = new File("resources/tweets/" + path + ".txt");
+		Scanner scanner = new Scanner(file);
+		int multiple = 0;
+		while (scanner.hasNextLine()) {
+			String[] line = scanner.nextLine().split("\t");
+			if (line.length == 4){
+				if (line[0].equals("NA")){
+					if (!storeTweetUni(line[3], line[2], line[1])){
+						System.out.println("Tweet already in list: " + line[1]);
+						multiple++;
+					}
+				}
+				else{
+					if(!line[3].equals("Not Available")){
+						if (!storeTweetUni(line[3], line[2], line[0])){
+							System.out.println("Tweet already in list: " + line[0]);
+							multiple++;
+						}
+					}
+				}
+			}
+			else{
+			    System.out.println("Wrong format: " + line[0]);
+			}
+		}
+		scanner.close();
 	}
 }
 
