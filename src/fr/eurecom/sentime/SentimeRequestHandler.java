@@ -131,6 +131,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	@Override
 	protected void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
 		File file = new File("resources/tweets/" + path + ".txt");
+		PrintStream stanford_file = new PrintStream(new File("resources/file/tmp.txt"));
 		Scanner scanner = new Scanner(file);
 		int multiple = 0;
 		while (scanner.hasNextLine()) {
@@ -147,6 +148,20 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 						if (!storeTweetUni(line[3], line[2], line[0])){
 							System.out.println("Tweet already in list: " + line[0]);
 							multiple++;
+						} else {
+							line[3] = line[3].toLowerCase();
+	                		line[3] = line[3].replaceAll("@[^\\s]+", "");
+	                		line[3] = line[3].replaceAll("((www\\.[^\\s]+)|(https?://[^\\s]+))", "");
+	                		line[3] = line[3].trim().replaceAll("\\.+", ";");
+	                		line[3] = line[3].replaceAll("!+[^$]", ";");
+	                		line[3] = line[3].replaceAll("\\?+[^$]", ";");
+	                		line[3] = line[3].replaceAll(";$", "\\.");
+	                		line[3] = line[3].replaceAll("!+", "!");
+	                		line[3] = line[3].replaceAll("\\?+", "\\?");
+	                		if(!line[3].matches(".*!$") && !line[3].matches(".*\\?$") && !line[3].matches(".*\\.$")){
+	                			line[3] = line[3] + ".";
+	                		}
+							stanford_file.println(line[3]);
 						}
 					}
 				}
@@ -156,6 +171,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			}
 		}
 		scanner.close();
+		stanford_file.close();
 	}
 }
 
