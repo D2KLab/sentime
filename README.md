@@ -1,4 +1,4 @@
-# sentime
+# Sentime
 ... Tweet Sentiment Analysis ...
 
 ## Approach
@@ -7,7 +7,7 @@
 
 ## How to run
 ### Main class
-SentimeSystem   package: fr.eurecom.sentime
+SentimeSystem        package: fr.eurecom.sentime
 
 ### Training command
     train <training_data> -tm <which_system_to_train> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
