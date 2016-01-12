@@ -16,6 +16,7 @@ import en.weimar.webis.ClassificationResult;
 import en.weimar.webis.SentimentSystemGUMLTLT;
 import en.weimar.webis.SentimentSystemKLUE;
 import en.weimar.webis.SentimentSystemNRC;
+import en.weimar.webis.SentimentSystemTeamX;
 import en.weimar.webis.SentimentanalysisSemEval;
 import en.weimar.webis.Tweet;
 
@@ -43,6 +44,8 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
         File file = new File("resources/tweets/" + this.PATH + ".txt");
         PrintStream tweetPrintStream = new PrintStream(new File("output/result.txt"));
         PrintStream tweetPrintStreamError = new PrintStream(new File("output/error_analysis/error.txt"));
+        tweetPrintStream.println("    TweetId    Tweet_Number   Golden_Standard            Tweet_Text");
+        tweetPrintStreamError.println("    TweetId     Golden_Standard   Classification          Tweet_Text");
         Scanner scanner = new Scanner(file);
         while (scanner.hasNextLine()) {
             String[] line = scanner.nextLine().split("\t");
@@ -58,7 +61,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                    line[2] = senti;
 	                    if (!tell.equals(line[2])){
 	                    	String midman = line[1];
-	                    	line[1] = "Actual:" + tell;
+	                    	line[1] = "GS:" + tell;
 	                    	line[3] = line[3].toLowerCase();
 	                		line[3] = line[3].replaceAll("@[^\\s]+", "");
 	                		line[3] = line[3].replaceAll("((www\\.[^\\s]+)|(https?://[^\\s]+))", "");
@@ -131,8 +134,6 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	@Override
 	protected void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
 		File file = new File("resources/tweets/" + path + ".txt");
-		PrintStream stanford_file = new PrintStream(new File("resources/file/tmp.txt"));
-		PrintStream stanford_file_GS = new PrintStream(new File("resources/file/tmp_GS.txt"));
 		Scanner scanner = new Scanner(file);
 		int multiple = 0;
 		while (scanner.hasNextLine()) {
@@ -154,8 +155,6 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                		line[3] = line[3].replaceAll("@[^\\s]+", "");
 	                		line[3] = line[3].replaceAll("((www\\.[^\\s]+)|(https?://[^\\s]+))", "");
 	                		line[3] = line[3].trim();
-							stanford_file.println(line[3]);
-							stanford_file_GS.println(line[2]);
 						}
 					}
 				}
@@ -165,8 +164,34 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			}
 		}
 		scanner.close();
-		stanford_file.close();
-		stanford_file_GS.close();
+	}
+	
+	@Override
+	public void testSystem(int system, String trainname) throws Exception {
+		switch (system){
+			case 0:
+				SentimentSystemNRC nrcSystem = new SentimentSystemNRC(tweetList);
+				this.evalModel(nrcSystem.test(trainname));
+				break;
+			case 1:
+				SentimentSystemGUMLTLT gumltltSystem = new SentimentSystemGUMLTLT(tweetList);
+				this.evalModel(gumltltSystem.test(trainname));
+				break;
+			case 2:
+				SentimentSystemKLUE klueSystem = new SentimentSystemKLUE(tweetList);
+				this.evalModel(klueSystem.test(trainname));
+				break;
+			case 3:
+				SentimentSystemTeamX teamXSystem = new SentimentSystemTeamX(tweetList);
+				this.evalModel(teamXSystem.test(trainname));
+				break;
+			case 4:
+				SentimentSystemStanford stanfordSystem = new SentimentSystemStanford(tweetList);
+				this.evalModel(stanfordSystem.test(trainname));
+				break;
+			default:
+				throw new IllegalArgumentException("Invalid system: " + system);
+		}
 	}
 }
 

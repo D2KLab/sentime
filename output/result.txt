@@ -1,1028 +1,505 @@
+    TweetId    Tweet_Number   Golden_Standard            Tweet_Text
 220880422320603137	T14114138	negative	 hate my life, because i can't see you at the roskilde festival on saturday, promise me to come back again, soon.
 224000915634520064	T14112002	positive	checked out our lady peace at bluesfest tonight and spending the day at the beach for hope volleyball tomorrow. gotta love summer weekends!
-255713054224949249	T14114382	positive	hello from the foundation trekkers! we're up in chilly haltwhistle getting ready to trek hadrian's wall tomorrow :-) 
 267404127213060096	T14114875	positive	tomorrow we will be proud to play at the remembrance service at south hetton church
 266350263764393985	T14114623	negative	impulsively bought resident evil: operation raccoon city. probably won't play it till tomorrow though. have so much editing to do with 06.
-229523369538768896	T14113020	neutral	just arriving in madrid from moscow tomorrow going to hvar, croatia
-212138200385331201	T14113874	neutral	by the end of today i will have worked 14hrs, done my workout and attended part of hot jam. hitting the ground running this monday.
+223365454452891649	T14113863	negative	your plans of attending the great yorkshire show may have been washed out because of the weather, so how about... 
+278353426096738306	T14115078	neutral	check out this weeks the  scoop column looking back on sat nights win over the thunder!  #smashemsixers #bbl02
 244043385944539136	T14112740	positive	three day weekend a head. tonight grand bend forracing, saturday grand bend with the inlaws more racing. sunday first #sting game for us.
-278528076445523968	T14115541	positive	i've found lyrics of kiryu - kaika!!! yes!!! but i've sat down to listen a song and write it already...))
-239496123524468736	T14113931	neutral	jonathan kozol is the leading author on educational advocacy and social equality. he will be on campus wednesday,... 
 221521873408765955	T14113516	negative	  that's the 1st.2nd: nadia &amp; mysa about mysa break dgn adam. 3rd: this bullshit thingy -.-
-240117467488325632	T14112353	positive	thanks to all those who joined uysa and the university of utah in celebrating youth soccer month last saturday,... 
 285609537480826881	T14114259	positive	 well it was either that or watch you play raccoon city, so.. i think i may have won?
-254388019765850112	T14113030	positive	day 1 at the socal college fair @ pomona fairplex--1st person to get to our booth &amp; say "your story matters" wins something special! #doit
-218234337097826304	T14111930	neutral	anybody going to that 4th of july pool party in knollwood?
 275763510150053889	T14113459	neutral	#tunewiki "how to see the sun rise" by ben sollee 
-207097523523956736	T14113571	positive	morning!!!! soundset was popin and hot as a tity but time to waken bake easy the sun burn haaa
 272216625795698688	T14114524	positive	teddy bear toss, a brad mills goal and more fun from maverik center in a tough loss friday. see you tomorrow at 7! 
 278722624220196864	T14115323	negative	 a close 2nd is playing nothing but rse on my drive to soundset from california. then nothing but rse on the way back.
-197400442790096896	T14114512	neutral	dr joe will kick off his australian tour with a lecture at the conscious club in sydney, australia, thursday, may 17!  
 247286539611152384	T14111904	positive	have a lovely sunday and keep it mysa
-282528927883354113	T14112806	positive	just only for true liverpudlian, download this song on itunes idr15.000. keep it on 1st in xmas chart! #ipho 
-276302833844891648	T14114728	neutral	save the date !! next saturday, the 14th of december, circoloco is back at showcase - paris live club with dan... 
+264433109209063424	T14114997	negative	having the ny marathon on sunday is like having a parade in raccoon city right after the t-virus went airborne.
 278164121197895682	T14115044	neutral	a new work, threshold, will be read by the african american repertory theatre of virginia this friday at the... 
 267682008099090432	T14112588	positive	i went to a remembrance service today for the 1st time and can say it was so touching.
 259002412986163200	T14111564	positive	sun got the best of me at soundset #tbt 
-276782324551667712	T14114004	neutral	check out what's happening at the san diego county fair (del mar fairgrounds) this saturday! 
 272427872575176704	T14115549	positive	transformers prime is being syndicated to the cw network for their saturday morning cartoon programming block. very interesting.
+281317077623635968	T14113051	neutral	 the friday we got off of thanksgiving break
 269124991642132481	T14113678	positive	 thanks again for tix to last nights passafire show! bout my tix to the rndm show for tomorrow night!
 277968019437780993	T14112974	positive	i hope we watch the concert tomorrow..  i need to see danee!!
 283628517772640257	T14111371	positive	kiryu to release 9th single  this christmas visual kei band kiryu surprise their fans with great news! the band... 
 224187394822385664	T14113396	positive	tomorrow at knollwood, tyler graham and ashley mayhall compete!  any body i'm missing, let me know!  zoe is on vacation..enjoy the trip!
-246692511605739521	T14113849	neutral	parkdale students, take a break from homework and head to the polish festival! saturday and sunday only!
-229742859765551104	T14113022	positive	congratulations to  for being the first one from wv to ever be a miss teen usa 1st runner up!!! could not be more proud! love you
-241799723458113536	T14113882	positive	gah, i still can't believe i got to meet  at phoenix comicon, back in may. still excited about it!!!(: 
-237890878411255808	T14115376	neutral	feels like a monday. (@ fm kirby center for the performing arts) 
+256500849684131840	T14113652	neutral	and you're all just going to have to accept the fact that i'll be slipping in and out of the liverpudlian accent tomorrow ok okay
 249328279947997184	T14112191	negative	spent about 9 hours straight in the sun for waterparks video shoot, going to spend the same amount tomorrow at riot fest.  kill me.
 265541029535555584	T14113317	positive	 if you love pinups and burlesque check out the burlesque assassins film premiere in baltimore on nov 9 at creative alliance.
-274534692462657537	T14111890	positive	omigod you guys i get to see holy motors tomorrow.
 243995106741473280	T14111314	negative	everyday i'm like "shit is it the 17th yet!? did i miss the kiryu project!?" &gt;&lt;
+247840804301856768	T14114612	neutral	anyone got peeps at #harvard? going to hear jonathan kozol speak tomorrow. hoping they allow motorscooters at the bike racks?
 209360783367344131	T14115051	negative	lol, all the people on the facebook live chat on rock im park are real idiot's.  i explain them that evanscence have performed on friday...
-274579923480477697	T14111609	positive	enjoying some  for lunch today because it's friday, and i'm finally finished with thanksgiving leftovers :)
 257261500207620097	T14112389	negative	omigod worst moment when you realise that its the last day of the holidays, school starts tomorrow and you still haven't done your homework!
-243452625851400192	T14113366	positive	funky mojos saturday with the girls, sunday my birthday, next sat circoloco then ibiza!!! loving life #happydays
 222537928860106752	T14112315	positive	gotta love it, and snoop is playing tomorrow night at bluesfest! 
-260079824742252545	T14112993	positive	 we're at the beverly gardens park for the art show. we're here til 5pm!! art museum to the art park - perfect sunday!!
 236434275162013696	T14113614	positive	   ... see you on fhv at 6pm ..... and hope to see you at westfield parramatta on sunday at 1pm  :-)
-255666719681552384	T14111412	neutral	youth soccer pictures are this saturday (10/13)! check out the youth soccer schedules on our website!
-267902739818897408	T14115038	positive	veteran day ballin. ... glad i dnt got no class tomorrow so i'm vibin
 256212349873176576	T14112790	positive	 big fan of your work! star trek, threshold, fresh hell, alphas, etc and may meet you in person at dstl! yay! you rock!
-208664069979385858	T14114945	positive	happy bacon fat friday ya'll. copper river salmon rillettes tonight &amp; the selena gomez dog. gonna be a good friday!
-271106510669615105	T14111678	positive	 watching on livestream tonight you guys put on a hell of a show as always, see you in binghamton ny next saturday love u guys
+261845866229399552	T14114029	negative	rndm has a beef with music videos debut album "acts" out on oct 30, 2012 
 226798114596610048	T14114293	negative	 haha. i've got to cut down mate, not looking forward to going through the warners. might try and sort small set tomorrow vestron.
-244419049344348160	T14113471	positive	excited for all of the youth soccer teams today!!!!  go get a "kick" out of this saturday!  #mysl
-244087933349535745	T14111643	neutral	mitch steele from stone brewing, our guest on today's wilk friday beer buzz! click for the video! 
 235407422200631297	T14115145	positive	if you participated in our adult summer reading club, we've got a great program on saturday! laughter workshop: 
 236806293204115456	T14115388	positive	 love those sun mountain bags.had fun at lough erne - roll on the grove.
-272485197168115713	T14114861	positive	amazing football with tons of thanksgiving leftovers is making for the laziest saturday of all time
-234388370468524032	T14113524	neutral	 2nd dyz - acid black cherry - dir en grey - dog in the pwo - kiryu - maximum the hormone - nightmare - plastic tree - satan -
-230461213316878337	T14114780	positive	seeing the nekromantix on thursday.. i shall wear mufe moulin rouge lipstick &amp; my pug jack-o-lantern necklace, all thanks to 
-247781214721810432	T14112063	neutral	mt  sculptors! have you submitted for new art park on telegraph &amp; 19th in #oakland? 36 hours left! 
+223853872802836480	T14112241	neutral	so i've been sat watching the junior champs not realizing the london grand prix was on -.-
 242594420736806913	T14112304	positive	de la soul's eye know playing in pret - the perfect monday tonic!
 266255026350088192	T14115328	negative	gc event update: friday's event fire in the ashes, with jonathan kozol &amp; brian jones, has been cancelled.
-258884230308839424	T14115075	neutral	today's thermomix creations, vanilla fudge for the scout fundraiser, moggill markets this saturday, bread rolls for lunches tomorrow!
+276791630412017666	T14113745	positive	nekromantix, the black rose phantoms, the spoofs and clownvis will be performing at the house of blues on dec 21! i got 4 free tix! lets go!
 270680248692125696	T14113830	positive	 yep, it should be pretty good. did you see our interview with morgen about crossfire hurricane? 
+208973452881829888	T14111625	negative	vermalen and  in defence! belgium are going to be difficult to score against when playing their 1st back 4 #england
 240925046347034624	T14111766	positive	 i believe i just got ur msg. so chill out.... splash dance happens every thurs night at surrender. its a pretty good party
-242981812022964224	T14114641	positive	 today is 1st day in school.. wish me luck, maite!!! #tqm
-269340425297489920	T14114937	positive	mr blue sky to make this friday even more awesome. quickly followed by eagles of death metal.
-260036543383760896	T14113528	neutral	 check us out   airs every friday on the cw network and covers charleston, sc to brunswick, ga
-242855843341680640	T14114556	positive	just finished watching the 1st season of breaking pointe (new tv doc about ballet west) and was pleasantly surprised. what did you think?
-244472789195710465	T14113561	neutral	wetherby reading club. 11 sept, 2.00 - 3.30pm, wetherby library. places are limited. please contact the library for details: 01937 583 144
+267978730964676608	T14114015	neutral	veteran day video makes me think of 5th grade #mylife
+251380740133113856	T14114252	negative	arr! last wednesday, on international talk like a pirate day, some pirates invaded mobius for a day of pirate science! 
 263649986703679489	T14114543	positive	tomorrow is international talk like a pirate day. drink some of this, and the heart of the fair maiden will be yours! 
-227883811092971520	T14114987	positive	 just found out about binghamton ny next saturday - can't wait! :) #spiediefest #roadtrip
-227511394092867585	T14112742	neutral	 finally replying! in brac at the moment, moving onto hvar wed , den dubrovnik fri, and fly home monday!
-246826095721197568	T14112574	neutral	youth soccer continues this saturday. check with chandra farnsworth if you need schedules and times.
+235048139713826817	T14112870	negative	lol rt fact that almost all the"styled to rock" candidates are on twitter  who's ready for stalking?they may spoiled a lot?
 248550399991230464	T14112350	positive	did you know september 19 is international talk like a pirate day? and a mighty fine day it is mateys! arrrrrrrrr!
-271021749511016448	T14113921	positive	next meeting - tuesday, nov 27th at 7pm at the creative alliance.  see you all there!!
-212318307125178368	T14115360	neutral	rival schools has just announced their australian tour dates this september. tickets on sale june 15. 
-216087284188061699	T14114832	neutral	 model search tomorrow between 9am-12.30pm at westfield parramatta. applications available on the day.
 222927006919163904	T14112090	negative	very disappointed to learn that the great yorkshire show has been cancelled  . had planned to go tomorrow.
-262549341976272896	T14113719	neutral	fact: trying to escape the bed in the morning may require some expertise in jiujitsu.
-238202047680352257	T14113003	positive	can't wait for tomorrow when some of my liverpudlian family arrive for the bank holiday weekend! :d
-256216762150973440	T14114096	positive	everyone in the summersville area come watch our game tomorrow at nicholas county!!
 277281587186524160	T14114101	positive	so excited you're coming home tomorrow! love you mitchie. #onlychildprobs #imbored 
-279838164808503296	T14111980	neutral	i'm going to sing different summers on monday, by mitchie torres/demi  ..
-267946358261039105	T14114173	positive	antonio carluccio may tweet about going to the dentist and napping but i still love him.
 266190740609175552	T14115093	positive	veteran day is on the 11th, remember to thank a vet or soldier for the fact that you had the right to vote on tuesday.
-237677809156362240	T14115539	positive	$1 daiquiris at rum runners tonight and i don't have class til 2 tomorrow..... yesssss!
 242593103356235776	T14115570	neutral	found footage festival: hey, whatever happened to that vhs tape?... sunday, september 9th, the creative alliance... 
-260145473703247872	T14111424	neutral	i just noticed mysa squared us in our friday game (-__-)
-236604641184460800	T14113834	positive	 that's the 2nd best programme i've watched all week. jimmy mcgovern knows how to make drama
-248444829497962496	T14113385	positive	this just in!!! i will be performing in the nina tribute show this friday at the creative alliance!! as a special guest of jonathan gilmore
 261077453592731649	T14113145	positive	brilliant that the edinburgh derby is at night on the 3rd! can't beat the atmosphere of these games under the floodlights #hibs
-238860186884927488	T14111112	positive	 tonight, light up the night at our 2nd edition of neon night light. bring out those bikinis and splash dance! &lt;3
-246331370849329152	T14111380	positive	 what is going on young man! teamltd misses seeing u on monday's at the kee for our 'casual' drinks. catchup in toronto soon
-282628582294056961	T14115007	positive	i want to go to grand bend for may 24
-274956342568030209	T14111859	positive	got my sunday sussed out start with russian game,mk dons,edinburgh derby for starters.!
-259211398662479873	T14111814	positive	locked and loaded for igtoa this weekend at lough erne, home to lk tonight playing  tomorrow forecast looking good! #linksgolf
 256347985028468736	T14115053	positive	i love the new antonio carluccio show on sbs. beautiful food in gorgeous liguria italy. watch it every thurs 8.30pm. #bellissimo
 249603054050082816	T14113220	positive	going to warhorse at the winspear opera house tomorrow. really really excited! anyone else seen this?
-240427760684785666	T14113681	positive	finally made it back from french storms to luton sun. and in time not just for acting debut 9pm but jimmy mcgovern on  215pm
-250368670231040000	T14112160	neutral	2016 summer olympics will be in brazil, the 6th largest economy in the world.  crazy fact: fewer than 15% of roads in brazil are paved.
-255406391743881217	T14111451	positive	catelynn and tyler from teen mom are apparently going to be at bethany tomorrow! looks like i'm going snooping...#dreamcometrue #highhopes
-200769052329783296	T14111566	neutral	this sat., i'll be at the whole earth festival in davis, ca. chatting with kim stanley robinson about sf and the environment, from 1-3pm.
 279576572695031808	T14113753	negative	 i think i go tomorrow.  cuz im on my way to my dad first cuz i have no money to go to interlaken t.t i just hope hes there tomorow
-272804540762435584	T14112414	positive	  have you been watching crossfire hurricane, the documentary, last 2 saturday nights? superb.
-269180365216833536	T14114076	neutral	you want to see wrestling in binghamton ny, then get your tickets for this saturday as 2cw returns to the american legion post 80. #iam2cw
 254995624213221376	T14114274	negative	every time i see a runner slide into 1st, i see kenny lofton laying on the ground, arm limp like a dead fish.
-253587487245598720	T14114874	neutral	 one for 3rd eye arsenal v olympiakos vermalen falls off the crossbar  into the olympiakos goal around 60th minute
-240830544240312321	T14111764	positive	lots of appointments booked in for shaun's trip to the satellite office in haltwhistle tomorrow. its good to keep him busy!
 279733791113748480	T14111621	positive	2 hours and 15 minutes away from utah and alaska. come on over to the maverik center for friday night hockey.  it's always a good time!
-236213113551216640	T14112254	positive	super pumped to celebrate with my k/1st graders who made it through summer olympics: training in truth  #lovekids #lovejesus
 272392284056715264	T14112933	negative	thanksgiving leftovers loses its appear after the 2nd day... gotta find some otha shit to eat today.
-278173666188079104	T14114572	positive	 hi jessica--looking forward to having you do your ijnet chat on tuesday. hope you saw maite's email.
-264370006547128320	T14113780	neutral	climbing mount snowdon tonight, have a feeling a may need crampons, can someone ask  if he has any spare i could borrow?
-279037052304113664	T14112279	positive	may be leaving in may to tour canada with of temples ;). beckley / summersville shows the first of the year aswell. see you guys soon!
 267552869807448064	T14112603	positive	happy veteran day! back in the day! 2nd 75th ranger 
-207524389300862976	T14113038	positive	hope you all tuned into the chelsea flower show - some of the exhibitors will be at the kent garden show beginning on the 2nd of june!
-238008041218400256	T14114203	positive	we are blessed with the writing of jimmy mcgovern in this country. long may that continue #theaccused
-254986265563377665	T14112368	positive	watching this u10 tournament on the #turf at mysa really shows how much 1st touch and possession go hand in hand - for my hs team too! :)
-268071063638908928	T14112929	positive	sucks that i left warners after they sign one of the hottest uk artists   can't wait to see her live in march! #liannerocks
-226182981625184257	T14112923	neutral	come see the performing arts institute performance of "west side story" at the kirby center in wilkes barre pa on august 2 and 3 at 8 pm
-282679997733408768	T14113072	positive	fighter fit camp tomorrow at 11am!!!!  1st timers are free!!!!  open mat jiujitsu at noon.  it's going to be a... 
 209725578193018882	T14111428	positive	 did you enjoy rock im park? :) i was at the front = so epic! see you tomorrow in berlin! any surprises? ;) linkin park rocks! :)
-273688535561797633	T14115021	neutral	who else is going to see catelynn and tyler at anthony hall on thursday?
-236390336249876481	T14115229	neutral	who's going to be our penalty taker next season? i'd go for vermalen or cazorla 3rd choice podolski #arsenal #afc
-272377947598491648	T14112278	neutral	tapatio lemon chips, thanksgiving leftovers and pimento cheese ...: if it's friday and this post is going up, it... 
 211134288870125569	T14111210	positive	friday's poll question: what are you most excited for at the red earth festival...?
-280930653611102208	T14114357	positive	9 months from friday there is going to be another ginormous baby boom #callinit
-220807947368931328	T14114867	positive	mrs splash can't wait to meet everybody for the early years dance workshop, sunday am at splash dance. thanks  
 273461669332676608	T14114127	neutral	who wants to go see catelynn and tyler from teen mom with me on thursday???
-252035565925593088	T14113087	neutral	what i just realized re #retribution the date it came out here in the uk matched the day jill set off to escape raccoon city september 28th
-222068986081320961	T14111639	positive	 don't forget brad has got maillot jaune. he may have a long way to go yet but can do it, and we have cav too..
-266842351706710016	T14113390	neutral	  bryan's australian tour is on april 2013 i just bought the tickets yesterday for the sydney concert are you going?
+265925694528290816	T14111354	negative	 2nd half couldn't cope. they kept coming at us, shalke crossed, vermalen turned it in..we were playing so well till just b4 ht
+211606820928757762	T14113304	positive	good night everyone tomorrow is the last day of star wars weekends :( &lt;/3
 227063245503074304	T14115116	positive	marginal gains wins le tour -  wins maillot jaune,  wins on the champs for the 4th time #chapeau
-211193927389290497	T14111849	positive	if you're going to star wars weekends tomorrow, come see me at my very last #sww event signing! come say hello and get some vinyls signed!
-210683346672549891	T14112876	positive	 lol i mean i would go, but it'd be a lot harder for me... lol just come back to ohio june 18th&amp; we'll see them in columbus :)
+272405018152423424	T14112157	negative	"i'm fuckin joel skinners daughter!" "you mean the same asshole that held kenny lofton at 3rd in game 6 of the alcs" 
 259956585646940161	T14113945	negative	pro tip: don't attempt to visit the blackpool illuminations in a car on the first saturday evening of school half-term holidays. gridlock.
-278945066171629568	T14112441	neutral	david sedaris at winspear opera house on april 23.  buy tickets before they go on sale to the general public tomorrow.
-251597390799314944	T14111426	positive	it's baby boom friday and the sun is shining for our location/adventure sessions today :)   baby boom at jm style... 
-235654217195474944	T14112501	neutral	you can catch these guys performing late night at the gin mill and grille in northampton, pa this friday!! this... 
+252806186469048320	T14114264	neutral	sun is setting in sarajevo. split and then hvar next in the plan :-d 
 251099505833959424	T14113810	positive	looking forward to the  tomorrow in grand bend! see you there
 247068930454200320	T14112099	positive	massive good luck to everyone doing the #greatnorthrun tomorrow &amp;  at ironman wales... let's help them do some epic fundraising!
 207087899034914817	T14115024	negative	the day after soundset is the day i find out where i didn't put sun screen.
+261503114778136577	T14114542	neutral	just started an #fm13 game as hibs. beat hearts in the edinburgh derby in my 2nd match: 
 272113328552280064	T14113607	positive	  thanks, see you at warners tomorrow!
 264015092327280640	T14112632	negative	 "and i waslike omigod! fire! and then i waslike omigod? you know? fire? and i was likeah may zing you know..hang on? texting"
-223717348929048578	T14114649	positive	did you miss the espy awards on wednesday? check out the amazing tribute video to pat summitt. rocky top books... 
 201296973712728064	T14113545	positive	happy #national nurses day! today kicks off  national nurses week which ends on may 12th, the birth date of florence nightingale. it is...
-235534762054410240	T14112630	neutral	we also wrap up our discussion of the summer olympics, present our weekly box office report &amp; discuss how 2 of nbc's fall shows may be doa.
 269112277897211905	T14112020	positive	sun going down over lough erne, beautiful. 
-211201718065696770	T14113726	neutral	a 355-pound woman works to lose weight so she can start a family on #emwl, abc sunday at 9pm
+245567506851454976	T14112480	positive	come see sac ay lait this friday at the creative alliance!... 
 223426563109158912	T14114912	neutral	or i may have to invest in an eyebrow pencil and start speaking with a liverpudlian accent. what to do?
-222522910005411841	T14112793	positive	  awesome! i've tried 9 new beers this weekend, &amp; i'm going to stone brewing tomorrow! :)
-225038940879597568	T14114590	positive	green bay packers at the espy awards: july 11, 2012  3 of my favorite people !
-257126192241573888	T14114715	neutral	that game saw kenny lofton clinch the pennant for the giants with a single to score david bell in the 9th.
-228804281850007552	T14112221	positive	whos prob going to see 1d in concert in ohio june 18th ? this girl ;d
-268329258320015360	T14111548	negative	i don't care what you say but no tuesday can start without a blast of jon bon jovi's "blaze of glory"
-221783666181939200	T14112426	positive	  you weren't expecting him to lose were you??  good luck in tt monday!  get back the maillot jaune!
-239130303086604288	T14112731	neutral	 download of the wkend. just coz runrig are playing in inverness after game tomorrow. "dance called america - live" by runrig.
-246631409521938432	T14113953	neutral	in the news! the ballad of emmett till in mysa by deborah martin. see the final performance on sunday @ 3:00.... 
 262176033711738880	T14113675	positive	think i'm going to mount snowdon and to bangor tomorrow ... exploring wales! :d
-206685017173278720	T14113925	neutral	in other news, tune in to  tonight at 11.30pm for "take 5 with slash" &gt; australian tour goes on sale friday 9am
-258494178944757760	T14114653	neutral	a player appearance will be taking place tomorrow at westfield parramatta. all the details are here:  #gowanderers
-281988787381350401	T14113417	positive	 i really liked it actually :) may not be happy that miley's back but it's understandable why mitchie would take her back
-243045724235919360	T14112436	neutral	short week at the tdr shop in nc...tomorrow we will head to eldora speedway for the 42nd annual running of the... 
-265839433251688448	T14111689	positive	homecoming weekend in statesboro and we will be playing at rum runners friday night... bring it!!
-272497153983795200	T14112668	positive	sports-soccer-home: youth soccer program. pre-k through 8th grade. soccer is the world's most popular sport and ... 
+223192703993774080	T14113732	negative	ballet west reality show raked in a million viewers, may be canceled: in the wake of the success of films such a... 
+280465395515805696	T14113208	neutral	tomorrow is international talk like a pirate day. have i left it too late to become fluent in somali?  #topsomalianlies
 257032919414095873	T14113309	neutral	writer keith giffen will take on threshold, a new ongoing series launching in january that explores the cosmic ... 
-244161961825284096	T14112030	neutral	photo friday: kurt shot this image at the winspear opera house, downtown dallas...  #photography
-226282817083043842	T14113587	positive	10 best ideas of the week: the espy awards, 'project runway' 10th anniversary party, calgary stampede 
-239936830231941120	T14111654	neutral	 oh, and it is stone brewing night at the  on september 22. 32 stone beers on tap.
+222381760007249920	T14113158	positive	niki &amp; the dove make a beautiful performance of "tomorrow" and "dj, ease my mind" at roskilde festival 
 267291512272998400	T14111478	negative	fuck you bitch . mitchie made me , she was like " c'mon drew she's cute " .
-268801918627889152	T14114155	positive	giveaway time! reply with your favorite letter for your chance to win tix to rndm in the mainroom tomorrow night 
-277161618918498305	T14113782	neutral	it's saturday in the bay and  our shop is open from 10am till 2pm. our amazing intern, melissa is @ art park 
 223617586636652546	T14113871	negative	de la soul were disappointing. lazy &amp; uninvolving performance that seemed to be made up on the spot. c'mon, guys. entertainment, right? #fib
-230686754217287680	T14113292	neutral	 by becoming the 1st briton to win the maillot jaune and the kom the same year? say, chris froome for instance.
-274631677186306048	T14114168	neutral	  any thoughts on lough erne on friday? looks like my only day off before christmas #puttingitoutthere
 249398744745918464	T14114960	positive	saw you at riot fest last sunday-incredible as always-this will be my fourth time seeing you all. love to you! 
-244700247027232768	T14111568	neutral	blackpool illuminations run now up till 4th november. but who remembers the illuminations closer to home ?  we... 
-242858331142778881	T14113439	positive	 i want to thank u and  for meeting me at westfield parramatta on friday 
-238803786309722112	T14112695	neutral	george benson and chaka khan perform live at the l.a. county fair, pomona fairplex, thu, sep 13 @ 7:30pm, 50% off, 
-275421799968288768	T14112124	positive	totally buying the new batman movie on blu-ray december 4th!
+247130786803900416	T14115193	neutral	the jimmy mcgovern doc just highlights everything that was released on wed 'do you think id protect people if i thought they'd kill me son?'
 239104419885625344	T14115538	neutral	is anyone going to runrig tomorrow
 226892838854610945	T14111703	positive	holy shit! the girl that drums for the nekromantix may be the most beautiful woman on the planet earth.
-278120532073934849	T14114514	positive	on sunday the direct tgv from paris arrived in interlaken for the first time. :-)  am sonntag ist der direkte... 
 252254866532081664	T14114982	positive	twitters you  checkout this new show next saturday at 8 pm on thw cw network great cast and funny man  
-272383761197461504	T14113785	positive	thanksgiving leftovers still good the 2nd &amp; 3rd time around. #yum #smashing
-225269065277652993	T14114266	neutral	for those in the dc area, check out the living earth festival on the mall - this saturday and sunday. 
-207573887142203393	T14114824	neutral	"breaking pointe", reality tv about ballet, featuring my client ballet west, premieres on the cw thursday 5/31 at 8pm: 
 235073304816390144	T14112894	positive	the summer olympics may be over, but there is still plenty of summer left to enjoy the warm weather.  what are some of your favorite...
 254003137038409729	T14114163	neutral	at the creative alliance for the 1st time to see a screening of directing dissent about john roemer. full from mathews pizza. #datenight
-211366634273771521	T14114510	positive	that's it for kiryu for now. hoping to wrap up the main story by the end of the day. before the 10th is here. it's almost june 12th....
-264824485163696129	T14113798	positive	yes it's november 3rd and yes all the halloween candy is on clearance #targetrun
-255990893541212161	T14113168	neutral	if you need tickets for the 2cw live event in binghamton ny on nov 17th, text 607-237-9247 or email me on fb. 
 272037361343418368	T14111674	positive	best part about black friday...thanksgiving leftovers
-248124689933815809	T14115104	neutral	just a few of the 300+ #haikudecks created in the last 24 hours: violet's 3rd birthday, langa vulindela reading club, want shiny hair?
+256412601414737920	T14115142	negative	i'm officially 2 for 2 with my friends getting kicked out of rum runners on their 21st
+272417889578000385	T14113196	negative	  doesn't know what he's talking about mate. wilshere being saved for wednesday same with vermalen!!
 220651109952393216	T14114285	positive	" we are now in a big top instead of outside due to stinky rain but should still be amazing on sunday." see you at splash dance!
-221597330556731396	T14114998	neutral	spending a rainy saturday afternoon in the shops kitchen making a new crumbly vanilla fudge, rain like in tennis can effect play.
-241125013523165184	T14114129	positive	  yes! ahhh gonna be great! are you 2 going to westfield parramatta on saturday? please follow me bella :) x
+216681277691142145	T14115334	negative	falcao makes it 2-1 in the 26th minute. he is on the red team. i refuse to call them the red stars and black masters.
 274847802918567937	T14114327	positive	" new batman movie is the best! #batman #movie #hollywood #chillin #saturday"  agree... excelent message! "without the rope..."
-201054373541969921	T14111168	neutral	trip begs bree to tell him what happened the night of alejandro's murder as in the series finale of #desperatehousewives, abc sunday at 9pm
 246246817929519105	T14112412	negative	jiujitsu test tomorrow... i think it might be the first time im nervous about... anything in almost a year
-249466761689321473	T14114989	positive	would love to see  at westfield parramatta tomorrow, maybe you'll come by? i wish! :) &lt;3 xo #justsaying
-273549040287883265	T14112890	positive	2nd part of crossfire hurricane was ace. would like to be in 70s era rolling stones please. get it on ol' iplayer etc: 
-271839583619145728	T14112062	neutral	 visiting from seattle and going to check out stone brewing tomorrow.  i'll say hi from you sir.
 235122428710379522	T14112637	positive	congrats to our  athletes for coming in 13th overall with 18 medals! 3rd best we've ever done in summer olympics!
 223938732712136705	T14114401	positive	starting 11th in heat one with the world of outlaws at eldora speedway!
 228233652075655168	T14115049	positive	great day out with everyone at lechlade! #sun #jumpingoffbridges #cowfish
 249213062391947264	T14113856	positive	2nd trip to see 'the ladykillers' at the theatre royal! a fantastic play :)
-208667762531373057	T14115547	positive	 yeah - you're playing tomorrow - obv you aint going tho against barbarians - then aussies away - next home are september :)
-270202429981724674	T14114105	positive	7 dec going to hat yai :)
 239045003190603778	T14112257	positive	new blog post: top five things i love and will miss about the summer olympics!  
 224506259058073600	T14114724	positive	 chris brown ran a season best in the 400 meters for 2nd place in 44.95 at 2012 aviva london grand prix
+269569441233260544	T14114271	neutral	if you don't have your tickets to tomorrow nights eric church concert at the maverik center then get them now,... 
 206572185542852608	T14112224	positive	 glad you could make it to the phoenix comicon. you also did a great job on rookie blue this past thursday. 
-245906492144902144	T14112805	neutral	brisfest brings live music and the festival spirit back to #bristol on 22 &amp; 23 sept. de la soul, roni size &amp; loads more 
 277927997741338624	T14113730	positive	sunday atfernoon - time for the perfect ipa, courtesy of stone brewing  
 270459275233619968	T14113959	positive	finally getting to watch the stones stuff from sat night. crossfire hurricane stuffed with fine footage indeed. great belfast clips from 65
-264326040820801536	T14113212	positive	home from mysa conference. glad it went good after all the hustle and bustle. haha i missed work and tomorrow, i'm doomed! :p
-284737726018891776	T14111783	positive	well yes, it has been announced that i will be back for my 3rd year as host of disney's star wars weekends!  i'm... 
 240717817899544576	T14113824	neutral	 you want sat go art park?
-221734306932981760	T14114597	positive	vanilla fudge chunks omfg. you may come to me
-203866428888203264	T14114181	positive	still so happy  won battle of the bands and they get to play on abc sunday night. cannot wait to play with them june 1st.
 248759528512950272	T14111924	positive	 nice job at riot fest. sadly i couldnt make it that early on saturday but i heard you guys killed it :) good job
 242113867700916224	T14112167	negative	clg may have lost to dignitas but i do know this: eagles of death metal are off the chain,   
-242287439660584960	T14114312	neutral	carly rae jepsen rolling up at the pomona fairplex. nbd. yes, the average age at the concert may have been 1 
-272391655502540800	T14113729	neutral	see marcello giordani in concert on feb 2 w/ the dallas opera orchestra @ winspear opera house for only $25. 
-281681137129095168	T14111418	neutral	the democratic union of madrasha army takes full control in raccoon city.: thu oct 20, 3083. after the attack, t... 
-261454397618413568	T14111309	neutral	from the twitter just now from rndm: "rndm has a beef with pearl jam radio on  channel 22. tune in thurs... 
-263742466342137856	T14115261	neutral	its going down this saturday at rum runners st cloud...btw where the party at tonight?
 246943356654063617	T14114685	positive	hope the weather is like this for ironman wales. lovely and sunny yet not too warm. good luck all. may the wind be behind you all the way.
 205741601098698752	T14113791	positive	 manchester, just seen de la soul are playing the sunday as well. the lineup is quality.
-238469196734930944	T14114353	positive	saturday aug 25th rum runners will be hosting the captains hangover...come celebrate the ccdjo champs birthday. i might even do the wobble..
-249640601384022016	T14111876	positive	spaghetti dinner/movie for the barbarians football team. big game tomorrow vs upland!! go barbs!!!
-253634407779426304	T14113126	neutral	 are you in the land of my fathers*?  (*just the one father. ignore what you may have read of liverpudlian sexual mores)
 268167571122053121	T14113488	neutral	learn how to make soup with danny elfman's recipe: 
-244938631188467712	T14115198	neutral	 we are done for the rest if the day. tomorrow we will be in hollywood's art park for dinner
-207984727729246210	T14113160	positive	 drake will be in ohio june 6th with waka flocka j cole 2chainz and a bunch of other really good artist. we're fuggin going!!!
-251192427271032832	T14114880	positive	it's thuuuuuursday and my bestie is arriving tomorrow, antonio carluccio shortly after that and then a fabulous event with reiss on tuesday!
 228883376197734400	T14112106	positive	we're just over 24 hrs away from the wpsl elite championship in rochester vs the formidable  3rd time's a charm red stars!
-210449221210488833	T14113351	positive	fresh copper river salmon this weekend! starts friday night, don't miss it!!
-232772482099183617	T14115296	positive	 great! all down to hard work of sagg and others. getting increasing reports of reds in haltwhistle too. long may it continue!
 208684518478069760	T14113331	positive	 it's my best friends 19th birthday today and she loves you! we saw you at soundset on sunday, show my girl  some love
 275993827154747392	T14114856	positive	tonight at home vs summersville! good luck to our boys. play with the same fire you ended with saturday against thayer &amp; alton #lovemyealges
-272468268843950081	T14113927	neutral	ep #126: psychobilly friday from space! - terminal signal: psychobilly from mad sin, nekromantix and the quakes!... 
 207849540617895938	T14111397	neutral	bill cosby live at the winspear opera house on june 9th!    #billcosby
-237832670992801792	T14111149	neutral	silver lining: even if you missed their performance at the creative alliance on august 12, you can still enjoy the... 
-267737385943572481	T14115306	neutral	nov 11, boston celebrity chef class - what to do with thanksgiving leftovers: the bcae teams up with local food ... 
-236999439355621376	T14112431	neutral	will be on abc sunday night 10pm with    dr joe tucci &amp; prof liz handsley re sexualisation &amp; commercialisation of kids
+254279844924366848	T14114674	neutral	hope to see everyone at eldora speedway tomorrow for the full ump nationals event! this evenings events have been... 
+249558271244001280	T14114210	negative	ironman wales highlights on channel 4 tomorrow morning at 6.35am. i hope there's no footage of me being sick on the run!
 201842803544829952	T14115120	negative	yup, guess what? citizen weren't the happiest supporter last night, liverpudlian were. the fact is: finis in 8th, below everton asses #lol
-223843639099523072	T14113717	neutral	#thailand parcels packed with ammunition and illicit drugs were friday intercepted at songkhla's hat yai post of... 
-267748098678341632	T14113065	positive	saturday nov 24th fm kirby center in wilkes-barre,pa...hope to see you there... 
 238010022464987136	T14114968	negative	#accused olivia colman, joe dempsie; jimmy mcgovern always comes out with gold, pity i missed the 1st episode
 272978007407349760	T14113591	positive	a quality weekend in manchester with  :) runrig were superb on friday night!
-284756382534758401	T14111274	positive	i love how thanksgiving break had hella bangers and we're in the 2nd week of winter break and have failed to have one yet
 235619802301992960	T14115472	neutral	 how are things in "vegas"? when do you start "monday"? do you know where you're shooting? fox, universal, warners, paramount? lol
 265664321860825090	T14112919	positive	 good night we waiting for tomorrow can we have twitcam please with maite
-277033658563579904	T14111792	positive	runrig tonight!! cant wait. then off to oban to play in coasters bar with murdo ewen cameron tomorrow night. come along if you're free :)
-248152612359266305	T14111307	neutral	just got an e-mail from eldora speedway with the 2013 kings royal dates, july 12-13.  #kingsroyal
-216890520440553472	T14112071	positive	game day! red stars meet philly fever for the 1st time this season at 6:30pm ct in egg harbor, nj. follow twitter for live updates.
-196206481463443456	T14113300	positive	de la soul the 25th of july in amsterdam! ah i wanna get my dela dunks signed!
-238279719999643652	T14113409	positive	quite looking forward to blackpool illuminations with  next friday. #neverhadtheshits
 285294684979466240	T14112898	negative	i don't know why i played resident evil operation raccoon city, but i did. and i'm not happy about it or the video i made of it for tomorrow
-272629662553866241	T14115399	positive	 i'm actually probably gunna buy it. (danny elfman enthusiast, can't help myself!), but i'll let you know tomorrow!
 208648489922592769	T14113827	positive	happy friday! come for copper river salmon. the freshest, most wonderful salmon in the world! and dessert too of... 
-249666285338755072	T14112293	positive	the canopy survived the winds today! hoping to see a lot of people tomorrow at the new earth festival in atlanta, in
 240375961449803776	T14111900	positive	i've won tickets to blackpool illuminations!!!!! see you friday  xx
 196020570939334656	T14112605	positive	 sure enjoyed seeing you on abc sunday, especially you and george talkin' baseball.
-267631115009945600	T14114298	positive	kira the 1st person to send me a veteran day text she just made me feel proud
-256214219203149824	T14113966	neutral	 do we know who is gonna play bass for daughtry on the tour with 3 doors down see you again on dec 1st in binghamton ny
 235709305230336000	T14115451	neutral	have you watched  's new fashion tv show 'styled to rock' 1st episode? no? here's the link 
-220701764675059712	T14112444	positive	got a free ticket to the san diego county fair for indepence day in del mar, ca for anyone who wants it.
-251369226227568640	T14115202	neutral	sunday itv1 10:20pm jimmy mcgovern's docudrama hillsborough. harrowing but shows how media can question authority and bring about change
 254404138736185344	T14113762	positive	 i loved racing grand bend. got my 1st top fuel win there against shirley muldowney in the final
 233597165296046080	T14113232	neutral	i gots to make vanilla fudge tomorrow
 284730054603309057	T14112511	positive	   2nd best sports moment:  rob riggle hosting the espy awards  #funny
 264326155283337216	T14114886	positive	happy birthday mitchie and #twittlessluis! ill bring you stuff monday :p 
+258715125660385280	T14112274	positive	in other news (realised i seldom tweet these days), i climbed mount snowdon on saturday with two wonderful friends. sh-boom! #wales
 281861699433287680	T14113206	neutral	two of the guys on our day out at lechlade last monday 17.12.12 
-249495762717773826	T14115560	neutral	#xc-dsign the digital installation built for 2nd nature gardens at the chelsea flower show used a ge 
-260879875710259203	T14113018	positive	big weekend ahead at maverik center friday and saturday at 7. oktoberfest specials. saturday is angel's hands night with cowbell giveaway!
-201284085228900353	T14114709	neutral	the reason that nurses day is held on the 12th may each year is because this is the birth date of florence... 
-273934222572523520	T14111821	positive	buy a dg membership between nov 1 and 30 and you could win tickets to ballet west's the nutcracker! 
-223720448523894784	T14111583	positive	looking forward to the london grand prix tonight and tomorrow
 225700905020964864	T14112058	positive	 saw you play at bluesfest last sunday, your lead guitarist blew my freakin' mind!! wow... what a rock star !! great show
 235508781180669953	T14114942	negative	do i ring up warners tomorrow and tell them i put the wrong number on or do i leave it and cry
-265407192654569472	T14114920	positive	beautiful sun rises these days and still mild with no wind. we are heading out to some islands on lough erne we've never been to before!
 240305520597147648	T14115173	positive	good afternoon on a beautiful tuesday from the unseen high-angle view in hat yai! 
-224263004517171201	T14113388	positive	you must read!  karina smirnoff wows in a low-cut yellow dress at the espy awards (photos)
-217047909768769537	T14115409	neutral	red stars fouled at 20 yards. chalupny takes the free kick but gk gets in front of it. 1 minute left in 1st half.
 258151110873845760	T14112572	positive	 it was a saturday when i went, stopped off en route for a few jars at haltwhistle and haydon bridge so was good fun.
 283678656398770176	T14115421	positive	 sweet keep me updated i'm getting ready for our big jiujitsu promotion at the end of feb.
 276693266479607808	T14113606	neutral	who got that new batman dvd and trying to let me hold it till april
-270054598390190080	T14111590	positive	sitting on the floor watching the stones doc crossfire hurricane for the 3rd time.     
-250435512744161280	T14113486	positive	#eafirstplay at westfield parramatta is going off! we are there from today until sunday so come and say hello
-276356090021695488	T14113680	neutral	rndm: 8 november 2012 - bowery ballroom, new york (notes from the road) 
+223062243665903618	T14112911	negative	typical that when the great yorkshire show gets cancelled the sun comes out. oh well. that's england for you.
 209003847895625729	T14111897	positive	the band enjoyed a day of sightseeing in berlin today. we hope to see you at rock im park tomorrow! -preset
-239360273650167809	T14115061	neutral	#wwe debuting new children's series "saturday morning slam" on the cw network at 10 a.m. est today. .
-208578971934269442	T14111831	positive	to all going to cardiff for barbarians game tomorrow- have fun jammy buggers..c'mon hogia ni
-274368900236455936	T14114796	positive	super saturday is on tomorrow at westfield parramatta. one day to grab some pre christmas bargins.   for one day... 
-242902624603627521	T14113063	neutral	 i go back next tuesday to enrole mate i think you do too
-268792988044492800	T14113651	neutral	tomorrow (11/15): #kitchenparty live with kent whitaker: what to do with thanksgiving leftovers 
+202937251410358272	T14112781	neutral	ain't got a drug problem but a love problem, but then again that may be one in the same.   _de la soul
 267648181419012096	T14113166	positive	 very moving remembrance service with our new minister, rev william heenan. for our tomorrow, they gave their today.
-208681220446498816	T14114326	neutral	sam warburton wales exclusive interview: when wales play the barbarians in cardiff on saturday afternoon, sam wa... 
-202026097217515520	T14113888	neutral	copper river salmon season is just days away from starting...call us on may 17th for pricing 
-241270330004480000	T14114932	neutral	charlie daniels band, .38 special and the outlaws hit the fair, pomona fairplex, fri, sep 28 @ 7:30pm, 50% off, 
 234846082893508608	T14114263	neutral	world stand off is set for this friday  aug18th for push kick promotions at the pomona fairplex, down 2 scrap mma... 
 261268938728558592	T14111350	positive	great night of jiujitsu!  huge day tomorrow with the dynamite ninjas, striking then advanced gi!!!!  don't miss it!
-235283545453629440	T14111588	positive	super excited to see waiting for the barbarians on thursday at the 
 245119758373109760	T14113694	positive	super advance notice to save the date....  stone brewing will be in the house on september 24th. and, there will... 
-249567920550723584	T14113156	positive	ironman wales on channel 4 tomorrow 6.35am - sky plus it - or do as i am excited to watch it real life with a cuppa!! #ironman #ironmanwales
 201170312388296704	T14115248	positive	when a child comes to the world, he makes his 1st landing in the arms of a #nurse lets wish all of them a 'very happy nurses day'
-277693929166630912	T14114665	positive	 'omigod you guys' has been stuck in my head since i seen the show on wednesday!! super catchy :d
 256063890830553090	T14113012	negative	no, danny elfman. no you may not.
-217802495701950465	T14114600	positive	i love it! june 13th is officially matt cain day in san francisco! #sfgiants #beatla
-251129165791780864	T14112977	positive	so excited for jonathan kozol tomorrow i can't even stand it.
+238557845359038465	T14113665	neutral	 and you were played on styled to rock on tuesday night :-)x
 269158726349508608	T14113338	negative	rubbish day not helped by helpful academic who says i've rendered my unborn baby irreparably stupid by having a glass of wine on sat nights
-243427510287732736	T14113152	positive	 yup but got to be at trinity next tuesday to enrole, wednesday is a good day to brake the week
 238747228628463617	T14115101	positive	catching up with #accused #seanbean jimmy mcgovern is one of the best writers on tv today! part 2 tomorrow with anne-marie duff. can't wait!
-217804120847941632	T14113817	positive	aww! matt cain just given a key to the city &amp; a proclamation of june 13th as matt cain day in sf for his perfect game. yay matty! #mattcain
-243591701757841408	T14111807	neutral	boots electric (jesse hughes from eagles of death metal's band added at last minute to the show tomorrow night! thur. 9/6 doors @ 9pm. $5
 208667158585155584	T14114605	positive	for those who may not know, rock im park streaming metallicas set live right now..! "one" just finished! -randy! 
 261685090512433152	T14114406	positive	well i am excited for tomorrow's hot jam with suzanne show from 11-1 i have learned its a great thing to have... 
 262169150259089408	T14111585	positive	nice piece about  in tomorrow's scotland on sunday, pegged to his new stage production of the ladykillers. man gives good quotage.
-243936536775782400	T14112991	neutral	just a thursday. #monstertruckrally #firsttimeforeverything    @ pomona fairplex 
-265879264619016193	T14111693	positive	any of you wanting fab fun childcare for your little ones in haltwhistle, get along to little star on thursday... 
 264514822765412352	T14114320	negative	i dont work til monday but no one is fucking with me sooooo ill be on some de la soul just me myself n i
 277496340613828609	T14114305	positive	watched "the ladykillers" this afternoon. the perfect film for saturday afternoon. or any other time of the week.
 269369164194529280	T14114040	negative	de la soul is sunday at clockenflap?! wtf! at least they had the decency to sched uptown rockers for saturday  #nyinhk
-229048349402218496	T14115458	neutral	usa coming up...last time this many americans were in london the 8th air force started the baby boom.
-246354879164055552	T14114722	positive	jimmy mcgovern's 'hillsborough' airing again this sunday on itv3 for anyone that might want to see it.
 233643830392520704	T14115263	neutral	anybody trying to go to summersville with   and myself tomorrow?
 246567452023087105	T14113951	positive	good luck to  and the it team climbing mount snowdon tomorrow for bristol based charity paul's place. send a picture from the top
-231734756558114816	T14115037	neutral	i'm going to nekromantix at hifi in sydney, australia - oct 5 
-241279311099858944	T14112178	neutral	9 to 5 will be premiering at the art park players october 12, 13, 14, 19, 20, 21, 26, 27 2012  call 281-794-2448 for more information
-236579350110146560	T14112622	positive	wondering what you made of 1st episode of jimmy mcgovern's 2nd series of 'accused'? in my view, sean bean good but stephen graham excellent.
-280606795813240832	T14111692	neutral	pattaya mail: songkhla, dec 16 - hotels in hat yai, the business center of this southern province, have been ful... 
 272263022465150976	T14113916	negative	damn i just gave her a reason to ground me 4 da whole festve season... omigod wont evn go ta my pensdown on mon:( shidd!
-243574451642458114	T14113359	neutral	tomorrow for splash dance we have digitalism   going to be wet &amp; wild...
 246733759519522816	T14115566	positive	good luck and lots of energy to  who is competing in the ironman wales this sunday!! come on chris!
-264423602227646464	T14114246	positive	thanks, lyndsey ...hairstrks sometimes red, sometimes pink!     we're going to see the ladykillers in nott'ham tomorrow!!
-260534108915134465	T14111453	positive	 it was awesome. ohhhhhh we won 1st place by just doing that oldschool weird :3 danny elfman style :p
-234766009494556673	T14115522	neutral	is anyone else going to see sheryl crow at art park on tuesday?
-267356999916851200	T14113380	positive	big day sunday - christchurch park at 1045am for the remembrance  service - we will remember, ipswich will remember
-235846687933997056	T14111487	positive	join us at main library, 12 p.m. on monday, 8/20 for the 2012 kiwanis corporate regatta. lunch is $5, helps support summer reading club.
-242246470735110147	T14111695	positive	six sentence sunday - "blaze of glory" - and it's free! 
+248870383317569536	T14112598	neutral	i was just reminded by  that tomorrow is international talk like a pirate day.  #whimsy
 258675450153410560	T14114566	positive	we have a busy saturday coming up at knollwood!  our experts will be on hand to help you find the perfect academy... 
 264806965677531136	T14113270	positive	i love giving out halloween candy and seeing happy neighborhood kids even if it is nov 3. #sandy
 279960686950498304	T14115346	positive	good way to start the day.  #nowplaying how to see the sun rise by ben sollee on #spotify  
-232988173712629761	T14113036	positive	next friday the 9-12 year olds get to make a gnome house in reading club. how cool!!! 
 225345334921007104	T14111949	positive	 is such an encourager! loved the conversation on the way home from barbarians! ready to action tomorrow!!
 284758357699600384	T14115134	positive	jiujitsu tomorrow - then ufc 155 - it's gonna be a great day i can already tell
-268413043438923776	T14112943	neutral	check out rndm (jeff ament of pearl jam, joseph arthur &amp; richard stuverud) this sunday at the fox theatre in boulder. 
-198231686331383808	T14111173	neutral	one more game and  are toast from the playoffs as  beat new york 87-70 at msg to lead series 3-0, game 4 on abc sunday.
-249016014220689408	T14115492	positive	the first hickman reading club meeting is thursday, september 27 from 3:00 to 4:00.  see you there!  :)
 206484659633262592	T14114302	positive	 well thanks and that's cool, if you're in ohio june 2nd you should come to my show at heart and sole
 208293017143083009	T14113376	negative	the 80yr old woman arrested for streaking at the chelsea flower show had on 1st prize in the dried bush arrangement.
 200061934932983809	T14111439	positive	copper river salmon season starts may 15th!  we're hoping to have fish on the 17th.  want a great recipe for... 
-246768194122022912	T14111170	positive	meet and greet tonight at hartigan's irish pub and restaurant. welcome to charlotte, barbarians and blockade! ready for tomorrow?!
-272399682033045505	T14111517	neutral	sunday brunch: thanksgiving leftovers eggs benedict: editor's note: each saturday morning we bring you a sunday ... 
 241984087936626689	T14115281	positive	delightful day in old town hastings with my nephew &amp; niece - even without sun. highlights definitely were the swan boats and vanilla fudge.
-261043177719492608	T14114135	positive	 it was really nice to hear from u thanks hope ur enjoying ur time off i'll c u dec 1st in binghamton ny
+280126148577484800	T14114925	neutral	 i dont know if you listen to wgts, but they have an evening program as well on sat nights
+280513332962795521	T14115381	neutral	i've been waiting for winter break since the monday we came back from thanksgiving break!
 217210295624531969	T14113434	positive	there are some great opportunities for young people at the moment...  journals at splash dance 8 july 2- 3pm.... 
-231902663372046336	T14112587	neutral	sunday, 05 august 2012: nekromantix with the casualties / down by law / the lower class brats @ the observatory 
-223781525836148736	T14112347	positive	  and i are going to bluesfest on sunday! wanna join?! wolfgang garnter is awesome! &lt;3
+278128377184022529	T14112678	positive	elegant and intimate: ben sollee at the carnegie center, december 6. 
+252997406805860352	T14114894	neutral	proof you're older now than 1st time you saw "baby boom": you think, "elizabeth shouldn't have been alone in that room" and "ooh, nice sofa"
 230772271504035840	T14115180	neutral	ladies if your in las vegas come to the splash dance party with me tomorrow night at  your bikini it's about to get wet
-238228741787099136	T14112179	positive	it's the edinburgh derby on sunday for swfitba as hearts welcome hibs to foresters park with a 14:00 ko time. we... 
-201197725176430592	T14112503	neutral	see you tomorrow, uc davis. see you tomorrow. (1pm at the whole earth festival)
-238833281007771648	T14111473	neutral	in binghamton ny for the night, leaving at 8am, back in va sometime tomorrow just to find out where im going monday
-215689441434533889	T14115326	positive	not gonna lie, kinda excited for #gfmodelsearch this sat at westfield parramatta. looking to be a killer day!!!!!! 
-262257019166285824	T14112892	positive	 meant to say i enjoyed ur butter at lough erne monday night! gave the table a full brief on ur wares!!
-231970719083413504	T14115119	neutral	going to pa tomorrow then doctor monday then after going to summersville (: #yaya
-230752780283957250	T14114656	positive	stone brewing just got added to our list of brewers attending the 2nd ann riverside blues &amp; bbq! 
-248570530079313921	T14115168	positive	i want to start "international talk like a grunt day" in honor of the 4 years i served in the us army infantry. every oct 3.
-222748211482333186	T14112362	positive	 check out become the sun at bluesfest on the 13th. drummer had had reattached 4 years back. they need some ink and love!
-239281429140365312	T14113295	positive	leeds - that was incredible. eagles of death metal and  stole the entire show. time to do it all again on sunday in reading!
-238910029602897921	T14114468	neutral	mysa annual girls tournament final preparations underway... join us at the nairobi technical field from tuesday... 
-245682892745871360	T14114520	neutral	the 2013 san diego county fair theme will be "game on," all about board, pinball, tv and computer games. begins june 8. #sdfair
-203262228231749633	T14111492	neutral	this reality series about ballet west premieres in 2 weeks: may 31st. check your local listings or visit the... 
-249499063878299649	T14114923	neutral	this is where it all began. pictures from the 1st human library held at roskilde festival, denmark on july 4,... 
+249384702455193601	T14115551	positive	work hard, play hard. i'll see you busters at riot fest tomorrow #imastartariot
+280138373472088064	T14111183	negative	maybe going out on thurs, fri, sat nights is a bit harder than i thought when i also work tues, wed, thur, fri, sat, sun, mon, tues....
 262830866659692544	T14111846	positive	 good morning sue, mum was good yesterday, she going to blackpool illuminations tomorrow, &amp; fish &amp; chip lunch, she'll enjoy...
-241707091297988608	T14114692	negative	i may do jiujitsu but i'll punch you in the fucking face.
-221217992355229697	T14113320	positive	 how did i miss you at the kee on tues? we all missed you at  "dockside glow" in muskoka. congrats on new line!
 271797011777474560	T14111493	positive	this is how you party! happy friday everyone!  eagles of death metal - cherry cola... 
-203362147642773506	T14113513	neutral	 i'm going to feedme in ohio june 3rd
-198008041671634946	T14112539	neutral	films on tv tonight: four weddings and a funeral, the ladykillers, the mask, run fatboy run, american pie 2 and tsotsi 
 227852114095915008	T14112969	negative	 i don't know what is going on with your phone but what's going on tomorrow for hype park?
 236775174270251008	T14111369	positive	 so excited to meet and see you perform at westfield parramatta tomorrow
+223147766405279744	T14112162	neutral	 that sounds like del mar to me, mostly because of the "san diego county fair" #butitshouldbedelmarfair
 277143664713674752	T14114668	neutral	we have the new batman trilogy on blu ray. at start of week pete declared we're going to order pizza &amp; watch them back to back on saturday.
-254283169216491520	T14113854	positive	interlaken kissed by the sun. taste them saturday 
-263199231559475200	T14114307	positive	watching the pll halloween special for the 3rd time. i can't get enough. looking for cluesssss
-275251426899406849	T14111514	neutral	off to er, for the edinburgh derby, c'mon the hibs
+258605583291281409	T14111740	negative	"you cannot run a modern sophisticated economy the way you run a tuck shop at eton" jimmy mcgovern in  (
 211498135892135937	T14112967	negative	so sad i can't be at star wars weekends today. but alas i'm going tomorrow.
 242546976376385536	T14114044	positive	beautiful morning. schools back tomorrow, so last swim  at lovely outdoor pool in haltwhistle before it closes for season. may go twice!
-220499197567311875	T14114115	positive	working san diego county fair's main parking lot on 4th of july for the first time... challenge accepted...
-246502776023154690	T14112458	positive	can you spare your tuesday night october 2nd ??? i certainly wish i could make it! nekromantix, supported by... 
-248933406279360513	T14113693	neutral	as 19 sep is international talk like a #pirate day &amp; 21 sep is international #peace day, maybe 20 sep could become international #irony day?
-271098866189885441	T14113460	positive	 you guys are killing it out there, i love you. i'm watching on livestream tonight. see y'all in binghamton ny next saturday
-224141614371717122	T14113280	positive	come see us tonight at eldora speedway for the 29th annual kings royal!  this afternoon starting at 2:30 p.m. is... 
-213479949691125760	T14114718	neutral	okay, friends ... you have heard me mention a book signing event in akron, ohio june 24th ... here is the... 
 233168414779265024	T14111165	positive	another great day in croatia. bring on hvar tomorrow
 226750106337173504	T14115042	negative	today's nonsense: in response to the shootings, warners won't release batman box office stats until monday. and that brings back zero lives.
 212376134527094784	T14115009	negative	#iwillneverunderstandwhy hot jam is on a monday shit dont make any sense
-223866007876411392	T14112177	positive	all #breakingpointe fans - join us here this tuesday 6 pm pst where you can ask ballet west's allison debonna questions about the show!
-240121232345948160	T14115429	positive	tomorrow at 9, i'll be fangirling over the tv show "styled to rock" which has fashion designing and  - omfg i'll be in heaven
 265487938631114752	T14113497	neutral	what will you be doing with all of your extra halloween candy tomorrow - here are a few tips!... 
 249683327555104768	T14111246	positive	amazing day! got 4th place in the dallas urban beer hunt w/  &amp;  &amp; then saw some killer bands at riot fest!
 278938752271908864	T14113565	positive	it's wednesday, you know what that means... new batman! 
-222579845639581697	T14115330	neutral	did you miss the last mamaway breast feeding workshop?  next session is on at westfield parramatta store thursday... 
-236713387994775552	T14113050	positive	  hahaha i'm going with my cousin to meet her at westfield parramatta tomorrow - so i'll buy it then :) pumped!
-261581524149874688	T14115186	positive	tomorrow i must watch the new pll halloween episode and watch the video for mcfly's new song.
 247076500510232576	T14114635	positive	best of luck to everyone racing tomorrow be it padstow, ironman wales, challenge henley or one of the countless... 
-254283506266562563	T14113514	neutral	if you're going to saturday's ben sollee show, make sure to stop by and see abby at the kftc table, and if you... 
 246276178070077440	T14113530	positive	a little write up about creative alliance. great place to work. &gt; 
 277603383026786305	T14112593	positive	 cant wait for tomorrow!!! see you at the kirby center!
 245582419191808001	T14112164	positive	off to ibz tomorrow. paradise, zoo project, we love..., and circoloco all on the cards
-208665383241125888	T14111618	positive	awesome first show last night with killswitch in utrecht! dank u wel !!! rock im park tomorrow! #smaaashhh!!!
 251331956984406016	T14113491	neutral	new main terrain art park coming to the southside #cha 
 267676539024445440	T14111572	positive	enjoy your sunday; on this veteran day take a moment to thank any and all active &amp; veterans who served in the military. 
-275320994690912257	T14111750	neutral	i will be buying the new batman movie on tuesday, just to let everyone know
-282195564756627456	T14114020	positive	very heavy band of snow just w of grand bend likely close to 0 visibility and may drop a fast 5-8 cm of snow.  #onstorm
 242729011602653185	T14112409	negative	the tragedy of only thinking up hilarious tweets for the summer olympics now is that in four years there may be no place for them.
-223427807194255360	T14115285	positive	it was such a shame that the great yorkshire show was cancelled but we still really enjoyed tuesday and can't... 
-264449555796484096	T14112213	neutral	running class tomorrow at 8.00am and 9.30am, hype park, get faster with the transformers.
 229393461177110529	T14111656	positive	big congrats to  sister queen  on 1st runner up at miss teen usa! #wv is so proud of you, elizabeth! xoxo
-238055156187537409	T14115171	positive	 cun. me and william are going to enrole tomorrow for our new course;)
-267548461157728257	T14115293	neutral	all uniformed up and ready to go for the remembrance service then march to the cenotaph. we will remember th 
+254514167564869632	T14113987	negative	i want it to be tuesday to i can watch styled to rock. actually, while i'm watching it, ta will be playing. that's awfully depressing.
 221276452333682688	T14112333	negative	sadly the fair at splash dance on sunday has been cancelled due to flooding, but you can still get your fix of... 
 217802866843324416	T14111398	positive	june 13th was just declared matt cain day! this shall be my new favorite holiday #perfectcain
-280337772424867840	T14113187	positive	chili cooking on the stove top and am watching crossfire hurricane. good start to sunday.
-222684963806527488	T14111361	positive	 it's nice to get out of here at 5 though i won't lie.  may go see snoop dogg at bluesfest tonight
-278823250660831232	T14114774	neutral	interlaken, switzerland may 18th to 26th (6 nights at the camp) 
-265160686152343552	T14111327	positive	ben sollee with luke and jordan lit up the cactus cafe last night. can't wait to see them gsdm tomorrow. 
 217802515150942208	T14112486	positive	#perfectcain now has his own day! june 13 will, from here on out, be known as matt cain day!
-263695783784747008	T14113912	positive	i don't want october to go :''''( its been sucha good month; the vampire diaries s4, taylor's album, the pll halloween episode. wow!
 207123200117719041	T14114644	negative	the sun sucked the life out of me yesterday at soundset
 199495813964107776	T14113032	positive	happy 13th birthday to chip, the newest member of the knollwood lesson horse gang! 
 225614307285671936	T14113793	positive	 more good news: i recently won 4th place at the san diego county fair homebrew competition for my dunkelweizen.
-261060859483267072	T14114768	neutral	les is back in haltwhistle tomorrow at the partnership office, feel free to call in for a cuppa &amp; a chat about your business 10-4pm
 220697092237172736	T14111527	positive	happy 4th from the studykas:)  @ pomona fairplex 
-276029153109741569	T14111580	positive	looking forward to runrig on friday night at barrowland. it'll be worth the 5 hour car journey down.
-212407864344576000	T14111142	positive	being at hot jam made me feel like it was a friday night and the weekend was ahead......nope it's only monday night
 262502643363090432	T14112722	negative	last thing you need on your tv on a sunday morning is a ranting mehdi hasan.
-200951875070201856	T14114547	positive	we would like to wish all the ladies &amp; gentleman in the nursing profession a happy nurses day for tomorrow, 12 may... 
 230143662611386369	T14111769	positive	tomorrow is nurses day, and msc is celebrating it in a very special way. just stop by and make any purchase to... 
-215568196881743873	T14112908	positive	free beer tasting with stone brewing in oregon this friday!  come hang out with me and erin and taste some beers!... 
 264247293316841472	T14114812	positive	the covers of the penguin lantern classics are brilliant. love the feel.content is good too! signing tomorrow westfield parramatta at 11am.
-280284457246785536	T14115058	positive	fishing for my 1st time ever today... danee just fell into the dam must admit this is fun!!! #bunchofdrunks
-236406846481629184	T14114454	positive	 anyone who plays football manager knows vermalen is 1st choice captain. besides, arsenal play better with a defender in charge
-254314417527865345	T14112655	neutral	psst... here's the latest... the fashion show starts tomorrow at 1:30pm featuring splash dance, lullaby, &amp; yodephy! #buzz
-267540997049815040	T14114798	neutral	getting ready to join 1st kilmacolm scout group at the remembrance service. vital that young people understand what today is about #iscout
-268554563278237696	T14113103	positive	this time tomorrow rndm will be rocking the house. they're the best new group out there!! playing milwaukee come check them out.
 234157372359192576	T14111239	positive	well that was a great success at bluesfest tonight! looking forward to saturday night! #tdbluesfest
 241000140561870848	T14112680	positive	kind of excited to get back to the home state when we race with the outlaws on september 21st at eldora speedway!
+244100444991934465	T14111917	positive	amazing opportunity to get to take class with ballet west principal dancer christopher ruud next wednesday... 
 285742331217469440	T14113014	positive	we may be next to last in time zones, but we're first in the summer olympics, and we all know that's what really matters.
 242987361582063618	T14114502	positive	hype park, sun and shopping in london! today is a good day! :d
-217802680549122048	T14111515	positive	sf mayor ed lee has declared june 13th as matt cain day &amp; then gets a key to the city, awesome! #sfgiants #mattcainday
 207985903501713409	T14113642	negative	went to soundset on sunday and got the worst sunburn i've ever had in my entire life :(
-229315561560092673	T14111789	neutral	 do you know how long alexandra burke will be on stage on thursday at hype park?
+256056321026191360	T14113999	positive	book it: the lit show plays tomorrow at the creative alliance 
+281850883698995201	T14112169	positive	exciting news - our keynotes for the 2013 event are official.  wednesday we have the legendary, jonathan kozol... 
 268451174070489089	T14112949	positive	this may top the "i ate my kids halloween candy" from   #nud 
-280905411350126593	T14115270	neutral	free walking tour of luneta park and video art viewing at art park the night before christmas, sunday december 23.... 
 227818224224444416	T14113138	positive	 we live 5mins from kirby center we always make great food.  lol  any free tickets my birthday is thursday would love to go!
-236206966790299648	T14111881	positive	just caught up on jimmy mcgovern's accused, very good. new silent witness on sunday too, it's no lympics but 2 hours of entertainment.
+229268412734513153	T14112490	neutral	  #carriehfletcher  are you going to hype park on the 4th?:)
 257518014537297920	T14113548	negative	oh mehdi hasan. being anti abortion may not make you any less of a lefty but it does diminish you. and that's a shame.
-254406898529468416	T14113802	neutral	photo: first friday #maythethirstbewithyou (taken with instagram at rum runners) 
-269524448774877184	T14111947	positive	pre-order this super awesome riot fest shirt with all the bands on it as chicago wards. we'd be in about the 5th... 
+209021367415341057	T14113756	negative	#afailedtextfromtoday "you going to soundset?"-name withheld. "uh, soundset was last sunday...."   ahahahaha
 261590046862364672	T14115066	positive	sitting watching #qt with my marxist sister in law. certainly makes it interesting and the 1st person i've heard who agrees with mehdi hasan
 266008082864275457	T14114050	negative	so i went to a school to fill out a form with a #2 pencil omigod just realized i accidentally took the sat instead of voting today
-272341210373447680	T14113200	neutral	#musictoday ben sollee - how to see the sun rise (with lyrics) - hd  #blipfm
-264548097521221632	T14112352	neutral	day 2: halloween candy #november #photo #a #day #challenge 
-249065249909637120	T14115185	neutral	#chess_news #chess_previews_2012 #previews london grand prix opening ceremony: a party at the the 18th...  #chessdom
+247795727818973184	T14114785	neutral	   i may be wrong but i think he was at ironman wales !
 273488344569241600	T14114930	negative	man it's tuesday you shouldn't be eating thanksgiving leftovers still
 222330971507277824	T14113979	negative	 gav, what the eff is this? i've just gotten home from roskilde festival, 1st internet in a week...does this mean i am out now?
-276099025340612608	T14113423	neutral	 have you seen the ladykillers is on more 4 this saturday aternoon 1.10pm??
 241185836366983168	T14112682	positive	hey my charlotte, nc friends! i'm playing the gin mill downtown tomorrow, friday, night! show starts around 9! come party!
 261375653243400192	T14114538	positive	it's our 3rd anniversary! can you believe that? many thanks to all who have supported &amp; are continuing to patronize mitchie's sweet petites!
 272468431415177216	T14112420	positive	crossfire hurricane, amazing film and finally some proper music on saturday night tv!! oh to have seen the stones live back then!
-280349432145403904	T14114442	positive	-agent april is going with me to raccoon city. i bet carla got something in store for us... but im always ready to fight-
-229908080706584576	T14114413	positive	huge congrats to cbc former student tim glencross whose debut novel barbarians has now just sold in germany. uk is 4th estate!
 285115914263871488	T14111706	positive	stone brewing is taking over smoqued bbq on tuesday, january 6th! it's going to be a great night! rsvp on facebook. 
-261693747459416064	T14112592	neutral	make sure your coach has turned in your chevy youth soccer ticket stubs for the cruz or equinox drawing in december! 
 226709442182406144	T14112616	positive	 shook your hand in 'tolos' in may, proud to have shaken the hand of the maillot jaune, congratulations!
-228986203343552512	T14112088	neutral	 did you see that the "world famous pub" in lechlade from monday made an appearance in the opening ceremonies?
-216000415572033536	T14111237	positive	we're all no one! party w/ nervo tonight at surrender nightclub! grab ur bikinis &amp; swim trunks for splash dance thursday! txt me 714.8785254
 224349970046787585	T14111574	positive	watch video tribute to dan wheldon from the espy awards on july 11  makes me sad yet happy to see dan so happy...then
-224020793514934272	T14113484	positive	hey  is you could keep it down while mastodon plays tomorrow at bluesfest that would be the best. thank you for your time.
-269106264519360513	T14112808	neutral	in #dallas tomorrow night? see  petronio co @ winspear opera house.read  interview re dancing with trisha brown.
 199713355332714498	T14112713	negative	wheww i leave ohio june 3rd i don't even want to think about leaving
-276955216350416896	T14111599	neutral	what's that you say? the ladykillers single is out on monday? you're going to buy it?
+223733038721400832	T14113900	negative	i can't believe i forgot today and tomorrow is the aviva london grand prix at crystal palace!
 228999458774462465	T14113324	neutral	a 435-pound woman struggles with the hard work and commitment needed to get healthy on #emwl, abc sunday at 9pm
 218697952774979584	T14113875	positive	defeat the red stars tomorrow night! best of luck 
 225224769405059074	T14111115	neutral	anyone fancy meeting  &amp; me for coffee &amp; cake at the tea chest in lechlade tomorrow
-278816420199034881	T14114850	positive	 is hoping to get him the special beer 12/12/12 from stone brewing comp and save it for jt for his 21st birthday. :)
-246697758751354881	T14115214	positive	don't forget to check out the polish festival on roncesvalles this weekend - we'll be screening polish shorts from 2-4pm sat/sun!
-225259862001582081	T14115423	neutral	recap: espy awards 2012 - in case you missed the espy awards,held in la last friday - here are the... 
 277150163431211009	T14112069	positive	best way to spend a friday afternoon, watching the new batman.
-214770113763753984	T14113416	neutral	#ayowaka  you did ya thing at hot jam in hartford, ct. last monday #bsm #tripleflife #squaaaadddd!!!!!!
-242658258446327808	T14111874	neutral	i'm going to vance lee at rum runners in cocoa beach, fl - sep 7 
-252051531887677440	T14112329	neutral	#chessbaron news; jonathan rowson reviews the art of chess - on sunday the participants of the london grand prix can... 
 263370653602820098	T14114430	positive	free stuff!  seriously!  come out to the maverik center tomorrow morning for kzht 97.1 fm's pumpkin drop and win... 
-200404174142316544	T14111374	neutral	the clippers are guaranteed their first ever appearance on abc sunday, either game 7 against the grizzlies or game 1 against the spurs.
 240522870755827712	T14111305	negative	i still don't even know what the fuck i'm taking at a level and i have to enrole tomorrow
-267312230230528002	T14111258	neutral	also, remember to have dinner at maverik center monday with the grand openings of little italy and el pasado cantina in the arena.
-250812495076392960	T14114695	neutral	jonathan kozol: educator, author, activist will be speaking wed. september 26 at 7 p.m. at the dekalb high school... 
-254425030920912896	T14111978	positive	bowling then dinner w/ the family tomorrow for maite's birthday (:
-275328456932347904	T14111288	positive	new batman comes out tomorrow ! cannot wait to buy it haha
-202588257811308545	T14112701	positive	hope you're all planning to tune in to ballet west's breaking pointe premiering on the cw on may 31st!!! you... 
-281782076158644224	T14113350	neutral	did you know, in jiujitsu when you get to your 4th dan, instead of a black belt, you wear a red and black belt? #jiujitsu #ottawa
-261036602510438400	T14112834	neutral	edinburgh derby at tynie put back 24 hours to 3rd january with a 7:45 ko.
 277576064925040641	T14114240	positive	part 2 tour of hat yai. look at the amazing warm welcome and love for miss tourism 2012 world final on 16th 
-225321544572874753	T14112699	positive	new hqs!  chanel iman arrives at the 2012 espy awards, la, july 11 2012 
-261996725928087555	T14111715	positive	don't forget our beauty editor laura will be at westfield parramatta at 1.30pm today (sat) with plenty of great tips! come &amp; meet her. #bwob
 271941807678558208	T14114659	positive	lots of artists in and out today stocking up for tonight's late night shopping in haltwhistle. glad to see the sun out! see you later.
 217783960103686145	T14111794	positive	huge weekend coming up at the kee to bala! come and celebrate kee-anada day with us on sunday!   we have a huge... 
-257883179531264001	T14115031	positive	pretty awesome. jonathan kozol sat in on my session at the  conference!
-262039772174901251	T14112888	neutral	grizzlies come back late to tie the game in regulation and then win 4-3 in a shootout friday night at maverik center.
+245552113445392384	T14112832	neutral	be prepared to serve the baby boom market! some homeowners in this segment may be unearthing buried plans to... 
 240559122465042432	T14111394	positive	 please come to phoenix comicon again!  the weather is so great here in may...maybe not but it is sort of "fresh hellish".
-264535735372226561	T14112067	positive	got floor seats for bon jovi in april! i can't wait! dead or alive, livin' on a prayer, or going out in a blaze of glory. #superstoked
 249470600341487616	T14114800	positive	harrogate is a spa town and the site for the great yorkshire show in july.  this cottage is a great base for visiting 
-235750823584485376	T14111244	neutral	playa vista baby boom leads to a new school playa vista elementary opens its doors tuesday, serving 200 children in the coastal community
 225300174812102656	T14113189	neutral	lechlade's view on the upcoming clash with marlborough cc on saturday 
-207155807417155585	T14113421	neutral	"the ladykillers" is to play the theatre royal in glasgow after a critically acclaimed run in the west end. it will open on 19 nov.
 267994186144436224	T14113479	positive	    happy monday folks!! love the show aka pulse of jiujitsu!! 
+243913329062596609	T14111320	negative	went to grand bend saturday.. someone drowned that night in the lake.
 269968588113342464	T14112460	positive	score! i can say i had a nice day at the rndm show on thursday :) 
-231489026396389376	T14111446	positive	in the middle of downtown dallas, is the winspear opera house. where i saw  on may 24th. best night ever. 
-205702962612420611	T14113518	positive	great price on salmon! copper river salmon is just $9.99 a pound, fillet only, thursday 5/24 thru monday 5/28 while supplies last.
-212937769637527552	T14114026	neutral	blaze of glory... the bon jovi experience performs live at concerts in the park this saturday, 6/16! what's your favorite bon jovi song?
-265511565921497088	T14114533	neutral	buy your ticket to see ben sollee at the lexington opera house dec 19 
-255305272803880960	T14111532	neutral	training camp resumes today and tuesday at maverik center at 10:30 a.m. and is open to the public. the team returns to the oval wednesday.
 267635216603045889	T14114761	positive	happy veteran day....may god continue 2 bless all current &amp; former vets. thank you 4 all you do/done!
 258747100815319040	T14111130	negative	omigod! how dare they stop xfactor for a baseball game, than air it next tuesday. shitty ass channel
-260272734024646656	T14114631	positive	 since before pmr :d hehehe. ooh mitchie asked me to tell you you're invited to her sweet 16th! hehehehe
+249443511684964352	T14113685	negative	ego still bruised after poor day of racing @ ironman wales on sunday. one more rest day then i think i should start doing something about it
 265110048353701888	T14113269	neutral	how about walker rd (top of hill) and streets off walker (spring hll, knollwood, maple, oak)? out since monday. trees/wires on walker down,
+267580208746463232	T14111242	negative	the pitch for sat nights game is going to me atrocious due to the coldplay concert #iwantaamiparkback #mvfc
 238204754566721537	T14111988	negative	if you are still mourning the cancellation of the great yorkshire show why not head to  at boroughbridge on 2 sep!
+248575718332706816	T14112230	positive	international talk like a pirate day's 10th anniversary celebrated: by kevin dolak ( across the world to... 
+248563158942371840	T14113823	neutral	for international talk like a pirate day (september 19th) representing the kitties! 
 248824711591628800	T14114047	positive	happy day after international talk like a pirate day sept 19th!!! some great pirate facts in the latest edition... 
 273162646340124674	T14112525	neutral	watching crossfire hurricane for the 5th time 
 285059807579365377	T14114637	positive	guysss please sponsor me and give as much as you can.. i'm climbing mount snowdon in feb!  
 245868257385529344	T14113649	neutral	danee's fanbase told to me if her bday on dec 99, but still dunno the day
-277260373625819136	T14114740	neutral	i'm going to ben sollee at lexington opera house in lexington, ky - dec 19 
-254829978829611008	T14114452	positive	ooh operation raccoon city is 19.99, i may pick that game up, if i have the strength to..man i gotta sleep earlier.
-265255080473800704	T14111448	positive	stone's bandmate jeff's new band rndm is playing the jimmy fallon show tomorrow night.  check it out.
 267871687691890688	T14113056	negative	tomorrow im going tell all my teachers , we not even supposed to be here ; its veteran day
-223233078854811648	T14113963	positive	forget the 10 hour bus trips! now you can fly from subang to hat yai comfortably in just 1 hour 20 mins. the 1st... 
-253916094245502976	T14113453	positive	 like tomorrow, i'm going to get more ink my self, and probably go see ben sollee play! ha good day!
-227162226841251840	T14112561	neutral	one hour til kickoff v  in long island. w/thursday's unfortunate forfeit, red stars are playing for 3rd/4th place in the standings.
-261500427776958466	T14113251	positive	thank god for having a sub in 2nd, watched the pll halloween special i missed the other night
+276452052647948288	T14115341	neutral	 i am going to the london grand prix on the saturday next year! might meet you there!!
 210754914387886080	T14114479	positive	#lallysmarine #boardbash 2012 coming to ohio june 30th! make sure to check it out! 
-243079753316315136	T14112093	neutral	five bottles left of stone brewing's 16th anniversary double ipa. 10% abv, brewed with lemon verbana and rye. $7.49 for a 22oz.
-229296591528394752	T14111785	neutral	alkek is down on the field and walks off to get looked at. red stars only have one sub left: a goalkeeper. 20th minute.
+222780152176844801	T14114500	negative	have tickets for great yorkshire show on thursday - very disappointed with this weather!
 222695259870728194	T14111869	neutral	reminder that today is the final day to signup for knollwood's michelob open happening tomorrow ( $60 for members &amp; $80 for non-members
-254648776466247681	T14114865	positive	tuesday night the cw  network will be showing "dr horrible's sing-a-long blog". if you haven't seen it, you should!
 237511492415672320	T14112247	negative	 - after the 3rd goal there is a clip of me, my son &amp; his mate going mad in front of a very depressed liverpudlian!
-247828041412247552	T14111931	neutral	just a gentle reminder that this years polish festival is on the 18th of november
 222540796195389440	T14112754	positive	yup, bluesfest was wicked tonight. epic roofing job tomorrow. this is the life.
 268553662551433216	T14114037	positive	come out and join  on december 15, 2012 at the creative alliance for a wonderful christmas show and our dvd release party!!!
-245803216527310848	T14112746	positive	you can be a 'switch on superstar'! every saturday,u get chance to turn on blackpool illuminations - it could be you! text lights to 80039!
-229377491763093504	T14113474	positive	watching the live stream of miss teen usa while watching the olympics. great saturday! :)
-216359856372846592	T14113766	neutral	a little taking back sunday as the sun goes down.   @ pomona fairplex 
-268500640815276033	T14115528	positive	can you believe it's the 13th and i still have unopened bags of halloween candy???
-217802733502201857	T14112704	positive	june 13th is now matt cain day in san francisco!! he also just got the key to sf.  #perfectgame
-239022089942745088	T14115453	positive	threshold opens for the fab 4 thursday oct 25 and friday oct 26 at the cove in normandy park wa... don't miss it! 
 230254490777964544	T14113609	positive	good tuesday morning. its the last day of the month which means at northside in summersville we are going to be moving cars. come see me!
-243869742144819200	T14113284	positive	#thenext is on the cw network in 30 minutes! you may already be in front of the tube, so tune in and support  w/us!
 222795389009526784	T14114080	negative	 o no!!! the great yorkshire show was cancelled for tmrw &amp; thursday,its such a shame. so many businesses the weather is affecting
-216306003581476864	T14114491	positive	 saw your shout out on copper river salmon. you may like our take on it from seattle w/this recipe 
-222443478532104192	T14112499	neutral	tomorrow's barbarians game at west harrow has been postponed due to the weather.
 252152201919729664	T14114562	neutral	if you missed ben sollee in studio [avl] check out his interview online tomorrow at   again ben... 
-250613753975037953	T14115483	neutral	attention! the final release of tickets for circoloco go on sale this thursday at midday. please note the first 2... 
-236806740535021568	T14112875	neutral	have you seen the 1st episode of "styled to rock", the fashion talent produced by rihanna, dedicated to kanye... 
-247726752619696128	T14111411	neutral	did anyone attend the polish festival in ealing on sunday and see the #uwl team there? 
-220300052759973888	T14113723	neutral	tomorrow we play roskilde festival @ the apollo countdown stage 
-227066993881251840	T14112494	positive	7 stage wins from brits, maillot jaune for wiggins, 4th win on the champs elysees for cav, team sky hattrick to end with. #dominance #proud
 224651044645380096	T14112696	positive	last day of my vacation! it was a great one! shinedown concert kicked ass on the 9th at bluesfest in ottawa!! :) 
-222829323512586241	T14113363	neutral	wed. am, my two part interview with blues legend edgar winter. listen to 98.1 free fm at 6:20 and 8:10am. he's at bluesfest on sat.
-261055065513684993	T14114582	positive	ive just heard the edinburgh derby has been moved to the 3rd of jan. is this true?? but as long as its still a night time ko im happy #pyro
-273870488139358209	T14115439	positive	tomorrow night 9/8c on the cw network watch a new episode of #beautyandthebeast !! set your dvr for an exciting episode!!
+244531642067197954	T14112276	negative	 haha did you hear on friday when i like shouted fock me in a liverpudlian accent xd tate was just like -_-
 283257984732262401	T14113624	positive	danee better still match with me tomorrow .
-235163271173378048	T14114345	positive	come down to hype park this sunday for food, drink, and a video shoot with myself, kinetik, superior thought, the locksmiths and many more
 252517389302898688	T14115000	positive	  yeah she is still at ballet west now in the 3rd year!
-206052638029123585	T14112215	neutral	 yes, near the winspear opera house in the dallas arts district. we have them mon-fri. here's a map: 
-281390627927764993	T14113699	negative	 come on.u mean to tell me u wouldn't prefer to act alongside maite once again for the 3rd time?  u just don't want ppl talking
-261615048982675456	T14113773	positive	watched the pll halloween special. good!! have to wait till january for its return.
-231056889591513089	T14112202	neutral	jfaa 48th annual art show opens this saturday at 12. we'll be kick'n it off with an array of activities &amp; demonstrations in the art park.
-226227728632913920	T14112850	neutral	solar gazing with pro equipment. meet 1pm sat 21 july, cawfields, hadrian's wall north of haltwhistle. check here... 
+247643042855665664	T14112983	positive	fantastic event in tenby on sunday with the second running of the ironman wales triathlon. more than 40 nations... 
 238474730313764864	T14114229	positive	stone brewing celebrates 16 years! thurs we'll tap their 16th anniv ale, the new uber-fresh enjoy by ipa &amp; a cask... 
-233905970588291073	T14115014	neutral	with only two weeks to go until the release of threshold's brand new studio album "march of progress", you can... 
 271246225527951360	T14114177	positive	thanks so much to all of you who came to the remembrance service on the 11th.   i had a great time and i love... 
-285530914941964288	T14114759	neutral	 are you coming down to check out the 2013 phoenix comicon on may 23-26?
-229873283250667520	T14111914	positive	travelling to hat yai on 18 aug for 3 days and travelling to brunei on end of nov with some of my close friends! #excited #heaven #pinchme
 273375618098413568	T14111559	negative	2pm today - live webchat with antonio carluccio. we're not excited at all. no, really *jumps up &amp; down &amp; squeals a bit* 
 224105548667297792	T14112811	positive	congrats to  for winning best male tennis player award at the 20th annual espy awards! i'm so glad i voted! :d
 284701403090395136	T14112718	neutral	theater review: the blue man group at winspear opera house ignites wonder and exposes the inner child in all of us 
-257960060104355840	T14114189	positive	glad to see the response was ready by the time i got around to reading mehdi hasan's article.  thanks 
 224090230284759040	T14114560	positive	full results from eldora speedway! finished 2nd with the nra! 
 217802989920980992	T14113249	positive	matt cain just got hooked up! key to the city and june 13th is matt cain day. #beatla
 180522202440007681	T14114517	negative	de la soul is the shit too no lie
-265522075966529536	T14112037	positive	monday morning laugh! my mom sent me this and said she did this to us once, just for fun  "i ate your halloween candy"
 278505062047813632	T14114776	positive	omigod! tomorrow is gonna be 12/12/12. wow! opposite day? hmm. x
-243054059077120000	T14111501	neutral	go see the marley movie wednesday night at the f.m. kirby center with george wesley opening. you will be... 
-281555172604391424	T14112361	neutral	the deadline to sign up for islamic relief fundraising mount snowdon challenge will be on friday the 21st. sign up on: 
-278318835508064256	T14111857	neutral	i just bought: 'danny elfman &amp; tim burton 25th anniversary music box' by tim burton via  
-258658516670230528	T14114232	neutral	stone brewing's pasadena store officially opens tomorrow, right by the del mar gold line station (via  
+276307594031800320	T14111125	neutral	on the 5th day of advent we have our double deck for  chelsea flower show #obadventcalendar 
+254390999055495168	T14112360	neutral	coastal coffee will be at the thanksgiving farmers market in grand bend tomorrow morning.
 201382345528455168	T14115105	positive	   hellaw jan - should i wish you happy nurses day??
-251112060086276096	T14112308	neutral	time for some nekromantix, gotta get them all up ins my head for the gig next saturday ^_^
-210554629027672064	T14114201	positive	if you are travelling to phuket before 31st august, we have a great deal to stay at the kee resort &amp; spa, email us at honeymoon
-267340243856932864	T14112952	positive	i wrote my espy awards speech in 12th grade, i still  plan on using this in the future...
-217803712234663938	T14115355	positive	june 13 is now officially matt cain day every year in san francisco. i'm just hoping to someday have a wing place name a sauce after me
 252314997382848512	T14114377	positive	enjoyed taking leigha on the train to the top of mount snowdon sat
 262959382701146113	T14114074	positive	great interview by  with bassist jeff ament from rndm:  new album out tomorrow. 
-284432221232848897	T14114125	neutral	casual friday: weekend events &amp; outdoors report: it's the final weekend to see ballet west's "the...  #utpol
-240761510501175297	T14114844	positive	thrilled to hear jimmy mcgovern has bought the rights to alastair campbell's 1st novel. huge opp. to get message to millions 
-259629632981172224	T14115486	positive	  will go near interlaken, don't be surprised if my pics tomorrow look familiar to you:-) region's super popular in bollywood:-)
 248985462885187586	T14112468	negative	for the 3rd year in a row,i total spaced and missed international talk like a pirate day...argh
-272196572765380608	T14112026	neutral	got a spare ticket to warners at the bay beer fest tomorrow. let me know?
 201240694768148480	T14111772	positive	finished for the week now and getting ready for congress starting tomorrow! and, happy nurses day to all my fab colleagues :)
-207905157315440640	T14112659	neutral	check out me and the hubby at phoenix comicon this past saturday: medieval batman &amp; wonder woman 
+251953253313544192	T14115205	positive	avast, maties: international talk like a pirate day that's right, today's the day. the 10th anniversary no less. tim... 
 198746359216615424	T14114646	negative	 why would i steal mejibray and kiryu stuff? i don't listen to them ~ but i may mess with the shipping so it will arrive late hahaha
-247735766367748096	T14112330	positive	it's monday and it's a full week 3! jonathan kozol tonight on campus &amp; club fair on wed #weareallwinners
+237229390373744641	T14115317	positive	sometime this afternoon  will give you a chance to see  at the kee to bala this coming saturday! know your trivia
 220000650421997568	T14113971	positive	check out the scene at stylish wave extra on april 22! guild, zuck, vneu, hero, born, unite, micro head4ns, kra, kiryu! 
-240409336529162241	T14112552	neutral	 i get back on sunday. i was in split for a couple of days but in hvar at the minute then back to split tomorrow
 220578402174906368	T14111407	positive	happy 4th to everyone! a day of fun and excitement awaits at  cccr, plus blaze of glory - a tribute to bon jovi... 
-240947922353664002	T14112320	negative	asif got to enrole at college tomorrow at like 9:( takin the piss
 248229962895745024	T14112556	negative	damn my best friend is not going to riot fest this saturday since she has a test that night :(
 189160140841295872	T14111717	positive	 wife & i made a day trip from paris just to see the ladykillers matinee last wed. absolutely loved the show!
-267415533798957056	T14114703	positive	looking forward to seeing plenty of people out tomorrow, who are showing their respects at the remembrance service at leeds town hall
-252449941576888321	T14113364	neutral	 btw, am at the ladykillers tomorrow. are you going to that one?
-265342362333638656	T14112057	neutral	  mojo stone plays this wednesday night with luke reynolds and ben sollee... 
-222389246491754496	T14114730	positive	don't miss allison debona from ballet west &amp; the cw's "breaking pointe" teaching this thursday at 1:30pm sign in early! 
-233469610333192192	T14111396	neutral	tee shirt thursday! first person to tell us where (which town)  the art park studio and  @  
-261669370663694336	T14115499	positive	 dude!! im going to a polish festival on sunday with my room mate :d
 271211509131116544	T14111734	positive	may 21 2012. the biggest day ever for chelsea fans. one year later, may 21 2013, the biggest event on that day is the chelsea flower show.
-241213245069860865	T14115410	positive	 i hope not! not a cloud in the sky so far! travelling to split tomorrow then in hvar next couple of days.. how're you getting on?
-278517094876864514	T14113926	neutral	any webcomic creators (besides the locals who i know will be there) plan on attending phoenix comicon in may?
 262278378139291648	T14114681	positive	 yep had a fair few lol, good job didn't hurt myself there, although worth it for him, gives me something to watch on sat nights
 211487957151006720	T14112206	positive	heading to the last saturday of star wars weekends for some intergalactic fun. #sww2012
-248727886939447296	T14111311	neutral	any recommendations for a courier to take a data secure box 8kg from haltwhistle to london. preferably same day delivery next mon or tues.
-230420446145835008	T14113273	positive	all nurses specialy  &amp;  "happy nurses day. even if it may be a tough and tiring work for you. never doubt your job." :))
+273845437599997952	T14114732	positive	all are invited to the remembrance service this sunday at 4 p.m. in the chapel. this is a beautiful way to pay... 
+243778654738464768	T14113495	positive	plus side jiujitsu practice was fantastic today.  also there's a chance i'll attend the judo competition class tomorrow.  #coolbeans
 201197254655229954	T14114802	neutral	just watched some of the video i took from the public enemy's 25th anniversay australian tour last night at the... 
-251310865826062336	T14113673	positive	goodbye herbet lom - the ladykillers, spartacus, and a shot in the dark, that would make a great saturday afternoon triple bill
-268124059806613504	T14111348	neutral	 joseph arthur tomorrow at lincoln hall with rndm, a new project feat. jeff ament from pearl jam.  
-243483290756063232	T14111985	positive	just caught up on tuesday nights accused,  was quality in the last two. all 4 have been quality jimmy mcgovern = great writer
-217803082472493056	T14113868	positive	 9k day! they just honored matt cain. gave him the key the city and made every june 13th from here forward matt cain day!
 244211779733950464	T14111841	positive	beach trip is winding down. good day of sun, jiujitsu, and surplus shopping.
-209369121324941314	T14111134	positive	mark you calendar for june 16th catch me performing at the first annual earth festival! be there! 
 272087617401659392	T14113053	positive	share if you think the only thing better than thanksgiving leftovers is an incredible black friday deal on your... 
-242327915981844481	T14115085	positive	yay going to see blackpool illuminations on tuesday with oli :d
 208663891746623488	T14112336	positive	great sets as well by  and  we do it all again sunday at rock im park.  
-246520749186220032	T14115236	positive	rainy friday night in perfect for losing myself in the beauty of the chelsea flower show on 
-278921765550440449	T14112666	positive	 gina's my 4th? :) i went on nov 19th and omigod fell in love with her portrayal in 1 show!! i couldnt really get used to...
-224818231259566080	T14113684	neutral	an update from  an athlete sponsored by birkett long who attended the london grand prix on saturday 
 273446500296695808	T14114023	negative	is it sad that if i didn't have pom on thursday i would go and see catelynn and tyler from teen mom speak?
-257596338911457280	T14115462	positive	judas kiss on friday, horse riding in hype park and shopping yesterday, bbc tour and westfields and dinner with friends today. good weekend.
-279239280457555968	T14112641	positive	don't miss the tron reunion with cindy morgan,  and bruce boxleitner,  at phoenix comicon in may! #phxcc ~sm
 247793195017199616	T14112432	positive	well done to all the competitors of ironman wales. it's the taking part that counts!! a special congrats to my hubby, your 10th ironman xxx
-263011243776937984	T14114052	positive	just to let you know, antonio carluccio might mention us on the great british food revival, bbc2 at 7pm tomorrow.
-276533513661054976	T14112608	neutral	does anyone in my challenge &amp; change class have the baby boom sheet for the test tomorrow?
-270578824389988352	T14114904	positive	 hello maite good to hear from you sa. no worries sa, already spoken to jj. good man, carnage sunday sa
 255554427660935168	T14114256	positive	aww yiss,   and i are going to look at pretty tattooed boys at nekromantix tomorrow!
 238051214502285313	T14111277	positive	 very good idea! i have to go college next wednesday to enrole! how was you're holiday!? :)
-236177430010802176	T14112679	neutral	on sunday, hours after the summer olympics officially came to a close in london, nbc aired their pre-ceremony mo... 
-251538631834103808	T14111854	positive	"the hub" channel is it is f'ing awesome!  thurs night lineup from 12 am on: transformers, gi joe, new batman, alf! i dont want to sleep!
-231457655976235009	T14115223	neutral	british invasion: hollywood summer nights goes uk with the ladykillers on aug 23 
+285372904827412480	T14111456	negative	pearl jam's 2000 european tour ended in tragedy on june 30, with an accident at the roskilde festival in denmark.... 
 220227867819257856	T14111523	positive	excited for a day off tomorrow to celebrate and enjoy the san diego county fair! what's more 'merican than a county fair, and fried butter?
 240411022945562626	T14115437	positive	we have just won our 1st match in the mysa international girls tournament! go girls go
-272125978296320001	T14112720	positive	i miss black friday with  . when her mother always had us eat up all the thanksgiving leftovers !
-245816124061671424	T14115443	neutral	couple spare tickets for circoloco on saturday. plus we also got transport to &amp; from the destination. get @ me or text me of ur interested.
-223704995160272897	T14113148	positive	is looking forward to doing the  800m at the london grand prix tomorrow but really needs to start shifting this cold!!
-235025681187229696	T14115504	positive	little bit excited about going to hvar on thursday with    #bringonthesun
-231339404671721472	T14114791	positive	 are you going to be at hype park tomorrow? :)
-269423739043725312	T14114712	positive	finally friday!!!! let's make it through the day, see  compete for miss teen usa tonight, then bridesmaids dress shopping tomorrow!
-273103326386733056	T14111578	positive	just got my tickets for the edinburgh derby on sunday #hibeees
-261420244759871488	T14112673	positive	pretty excited to be singing at westfield parramatta this saturday at 10.30 &amp; 2.30 on the main stage! who lives in sydney???
-274301153741770752	T14114449	neutral	time to finalize weekend plans. grizzlies host sfo fri and sat at maverik center. $5 off with can of food both nights. 
-226869168123834368	T14111260	neutral	is anyone gonna go see the nekromantix on the 3rd!!??
 218852602077659137	T14115156	negative	on #afhv, abc sunday at 7pm - animals on the attack, weddings gone wrong, &amp; a girl's hair gets caught in an electric mixer.
 272545543228620800	T14114618	negative	i am really missing hockey on sat nights, really board with nothing on tv end this strike soon please nhl!!! #nhl
-274579064004698113	T14111208	positive	jersey friday, danny elfman, does it get any better?  
+237966825076445185	T14114577	negative	 thursday night, didnt know we had to enrole during the 2nd year aswell?
 229906802760892416	T14112581	positive	 it is widely disputed.this recent article by mehdi hasan in the guradian is quite good  
 243777121527422976	T14112887	positive	check out derby on the big screen at tomorrow night's screening of  at creative alliance! 
-235462183503400961	T14111550	neutral	playa vista baby boom leads to a new school: the weekly saturday farmers market is now filled with baby stroller... 
-207258702590394369	T14113184	neutral	max martin talks with lou ferrigno at the 12th annual phoenix comicon. see this video at: 
 232797211057065984	T14115426	positive	monday is over &amp; it's good mood tuesday! at northside in summersville, we are in a good mood. so come &amp; see me. ask for barry!
 256471779852304385	T14113558	positive	win  tickets right now for their impressive 3d-enhanced performance at the kirby center this tuesday: 
-272211735983820801	T14113170	positive	 hope you have a blast at  and #daughtry tomorrow night i am going next saturday i cant wait binghamton ny here i come
 284167750178459648	T14113182	positive	hopefully, summersville or somewhere tomorrow with my girls. or something.  
-239609873229299712	T14111742	neutral	fastrackids back to school reading club - you may have started getting your child back into the routine of an... 
-268414049748934656	T14113017	neutral	 plays lt. joe bishop on the hit new series #beautyandthebeast !! check it out every thur. 9/8c on cw network!!
-244762005809029120	T14112358	positive	loving the sun this weekend, went to lechlade for a picnic with hollie yesterday and will soon be heading over her mum's for a bbq :)
-268537610035683328	T14111228	negative	net net and danee gon beat my ass at school tomorrow especially net net she be on dummy
-221035888203931648	T14115415	neutral	tv: thursday on utah tv: ballet west takes a bow o...: scott d. pierce writes about television for the salt lake... 
-248288154401005568	T14114078	positive	 saw them at riot fest last saturday in chicago.  hopefully you'll have a moshtastic time like a i did!
-273256180531478530	T14112340	neutral	november days of gratitude day 25 - thanksgiving leftovers - i've eaten them every day since thanksgiving and i'm... 
-250942826769162241	T14113124	neutral	 wednesday's featured property of the day is knollwood place apartments, in... 
+257736613726134272	T14114223	positive	eagles of death metal definitely get you going on a monday morning.
+225146014527537153	T14111682	negative	 just the hoys qualifiers that didn't take place on wednesday and thursday of the great yorkshire show.
 221168534082945025	T14115212	positive	come enjoy splash dance with robbie riviera this thursday 
 228161989111853056	T14112518	negative	and then, warners has hobbit &amp; gatsby n december.  so the schedule is so dense that there's really no slot left to move gangster squad later
 231669179206479872	T14113567	positive	this saturday &amp; sunday come join us the  at the pomona fairplex! your ticket can win you a brand new car! 
 283799552480382976	T14114381	neutral	 are you going to danee's thursday?
-281938435512598528	T14114032	neutral	question: i wore this shirt one time and it was the monday before thanksgiving break its too soon for a repeat right?
 238222751918333952	T14112661	negative	let me tell you two things that don't mix: tuesday night eagles of death metal gig, and wednesday morning 8.00am meeting #sleepyflora
-222749479185555456	T14113866	neutral	 where will i find out tomorrow at bluesfest? i'm just going to see grimes and then a bit of airborne toxic event.
 205104562539991041	T14115033	positive	copper river salmon is here- enjoy the 1st taste of summer, even though it's raining outside! &amp; mark your calendars for friday-one day sale!
-255220178655277056	T14113708	positive	ooh, a friend just offered me a ticket to the antonio carluccio show on wednesday. i like having nice friends.
 241507547792691200	T14111480	positive	sorry about mac's passing but glad to hear threshold is coming back with something solid. 
-242732653621690368	T14115412	positive	 i think the thought of styled to rock being on tomorrow evening is going to get me through school tomorrow :')
+270608611338760192	T14115441	negative	 it's gonna be a lot of walking, running, and jumping on the tops of sticks.. may just want to get a gun and learn jiujitsu
 255554370861678592	T14115126	neutral	i took this on saturday night at the nekromantix gig in sydney #nekroman #lux #nekromantix #psychobilly  
 200973694183538689	T14112709	positive	celebrating international nurses day, 12 may - closing the gap: from evidence to action. happy nurses day. 
-232898857393090560	T14115189	positive	miss teen usa - just met with essence magazine ;) watch for my interview on their website this thursday!
 281140146898866176	T14111291	neutral	there's going to be a baby boom about 9 months after december 21
 253892160619962370	T14112851	neutral	i'm going to threshold at celebr8.2 festival in kingston upon thames, united kingdom - may 11 
-198440659500269568	T14113690	neutral	masked warriors live is coming to the alamo city on friday, may 11. check out our feature in mysa!... 
 220801580751007744	T14114516	neutral	1st game played under solar powered floodlights in the world happened in mysa,nairobi kenya. #philipsled
 245020949714452480	T14111633	positive	 hope to see you at threshold:rebound on folsom sunday! 
-249104723876130817	T14113672	neutral	watch  first lady out the water " ironman wales is on channel 4 this sunday at 6:35am.
-242714495145893890	T14114770	neutral	college tomorrow...might just lie about my age and go enrole in year 7 at the hawthornes....
-224619309413044224	T14115299	positive	hype park may have finished me off this weekend but i loved it! the boss yest topped paul simon today for me though..i have the best boy!
 281278408061767680	T14115383	negative	 hey nigga genevieve cant go shes going to cali and ill talk to maite tomorrow bc she wasnt at skool today
-261068657814278145	T14112946	positive	threshold's new video for "staring at the sun", which was selected from a fan video contest. 
-247409502335430656	T14112749	positive	blackpool illuminations on a sunday night, you gotsta!
 211846440270573572	T14112310	positive	wow, what's good time last night!!!  love the old skool jams!   today i rest... tomorrow back to the kee to bala... 
-226169541259063296	T14111128	positive	the living earth festival is going to be pretty sweet!! if you're in the dc area be sure to stop by the american indian smithsonian tomorrow
-271016059497222144	T14114696	neutral	obama, merkel, hollande and others are headed to lough erne for the g8 in june - huge story. i'll have more on #bbcnewsline in a few minutes
 279020756799733761	T14111202	positive	 pratchett rocks. he's always 1st choice for britlit kids picking 1st book for reading club
 220527633610448896	T14111562	positive	very excited about roskilde festival tomorrow! on pavillion stage at 7.30pm 
-196741127263625216	T14115179	neutral	gotta make my dinner run before my abc sunday lineup starts...
 199621041537028099	T14114141	negative	mysa has closed the laurel point fields, due to the weather conditions. all sessions there on monday are canceled. :(
-199605497819697152	T14112643	neutral	we just received more tickets for blue rodeo at the kee to bala saturday may 19th and sunday may 20th. tickets... 
 201218496850440193	T14114220	positive	  - the sun is shinning so happy nurses day!
-279420102825361408	T14111759	neutral	back in the air chair tomorrow as hot jam media's hot jam with suzanne returns from 11am-1pm with a tweak! the... 
-262495488060837888	T14114225	neutral	mehdi hasan will be debating the issue of drones on sunday live in a few minutes
 240116283063025664	T14112040	negative	keep thinking its tuesday &amp; get excited because styled to rock will be on then i realise it's only monday &amp; i have to wait till tomorrow:(((
 256144052582494208	T14115195	negative	10.10.12: my 1st encounter with snow at jungfraujoch. bad weather today in interlaken
 267780713116495872	T14111433	positive	happy birthday  i got you a red letter day once in a life time fishing trip on lough erne. mon round and get it.
 224343028406550529	T14115253	positive	baha , as if i'm singing in front of people at bluesfest tomorrow ! everyone is going to be so great! #sinkingin #feelingsick
 218424443771437057	T14114657	positive	thursday night features with a bonus!  its the end of copper river salmon  season so get it while you still can:... 
 246928303515111424	T14112371	positive	 get well soon, danee :) take a rest well tonight! hope tomorrow will be a good day for you \(^-^ )/ hwaiting~~
-255046239387799552	T14113765	positive	sunday november 11 join me in st petersburg for the faerie and earth festival.  i will be painting live all day.... 
 259198140266205186	T14113892	neutral	 climbing mount snowdon tomorrow. any idea what the weather will have in store for us??
-222246608371318784	T14114007	neutral	photo: tomorrow i go back to work after the roskilde festival. life goes on. nevver: 
-222872297910972417	T14114563	positive	we are working hard to fix the motor so we can race for the 1st time at eldora speedway for the kings royal. hope to see you there
 265296259349352448	T14115339	neutral	"where have you been since 5th grade?" - sandra to maite
-270317650968735744	T14111194	positive	 russmalone has a late shout out and thanks to the grizzlies, plans to be at maverik center on friday as usual #gogrizz!!
-228289346590089216	T14112615	neutral	low shot from 18 yds by weissenhofer, but it rolls harmless to the right of the post. 31st minute. still 1-0 red stars.
-252251525060116483	T14113034	neutral	going to barbarians at the gates: paintings ... at dac gallery on tue, oct 16 
-231204947990020097	T14113267	positive	there is still time to get over to the gin mill in northampton-week 6 qualifying round thursday night!  and facebook!
-225242054349950976	T14112526	positive	to my dc friends! saturday is the living earth festival including an organic farmer's market, native american... 
 252752693590904833	T14111540	positive	some "baby boom" with diane keaton and corn flakes - happy monday!
-235061020303978497	T14112951	neutral	make sure you tune in to skyliving tomorrow at 9pm if you live in the uk to catch  new fashion show 'styled to rock'
 276452721370988544	T14111722	positive	nice to see ironman wales made the top five bike course list 
-251797402988716032	T14111536	positive	 catelynn and tyler are speaking tuesday, the 9th at 8:30 pm, in the south ballroom of the bernhard center. fo' free!
-254846778019557378	T14112973	neutral	next thirst, fri, sat nights  will be here. original signed pic on the agora office wall 
+236089827911692288	T14111999	negative	after arsenal sell song to barcelona we may as well sell vermalen,give szczesny away on a free and make sure our complete spine has gone.
 273061338929041408	T14114010	positive	 yeah honestly, going up to see my gran plus my cousin got tickets for the edinburgh derby on sunday. yeah course you can
-264126711589908482	T14112917	positive	day off tomorrow, family day out to blackpool illuminations!!
 272906416635904000	T14112971	positive	come to the baltimore screenwriters coffee club - this tuesday at the creative alliance!!  it's always fun!!  
 209943187341578242	T14114426	negative	when we all agreed that we wanted to see the return of the tour i don't think we mean tuesday tests and meaningless barbarians games.
-236544087686258688	T14112809	positive	we want to wish good luck to all our red stars that are kicking off their college season tonight around the country! we'll recap on monday.
-245677298815229953	T14114335	positive	for fans of classic progressive metal... threshold's new one march of progress is out now!  find it online:... 
-268376159245434882	T14115112	neutral	volunteer time! remembrance service invitation mail out will be here at the christi center on thursday nov 15th... 
-238187479587504129	T14112942	neutral	heading to split and hvar today, then tomorrow in hvar and the following day on pag island
-282837639374180352	T14115485	neutral	if you think your sleep patterns were off during thanksgiving break... wait until jan 2nd. 
-221860397123256321	T14113851	positive	  i mean 6th to 2nd of course ... 2nd to maillot jaune tonight !!! go cadel !!!
-229396892071632896	T14114012	positive	congratulations to jessica lee morgan, who placed 3rd runner up tonight at miss teen usa.  jessica also won miss... 
+274179703328358400	T14112035	negative	sat in the library trying to give laryngitis to several people via mind-power. especially the liverpudlian girl. #stfu
+281004602973904896	T14112802	negative	omigod! you are sooo good at stupid. so if i didn't call you, you'd have sat there on your high power train n watch me wait?
+275044287182417920	T14112651	neutral	knowing i can stay up all night coz its saturday and i can sleep in on sunday just makes me sleepier on sat nights
 230654634686029824	T14111833	positive	 just seen you live at the enmore in sydney. amazing !!!!! best solo gig i've ever seen. are you at bluesfest in march???
-236777426338865153	T14114342	positive	and the hat yai fashion festival kicks off! the 1st of the 300 models tonite! thks  fr the opportunity ;) 
-236614434817208320	T14115230	positive	drake tomorrow at the kee to bala. this might be the most excited i have ever been for a concert
 243181455902117892	T14112842	negative	 ..catelynn, tyler, april.. now farrah is on, she's so hateful!
-257476777633517568	T14114569	positive	looking forward to presenting at the  conference tomorrow in saratoga and getting to spend time with jonathan kozol again. #edchat
-206125762443620352	T14114088	positive	special from tim brown only tonight and saturday!!! copper river salmon (available only for 3-4 weeks a year) 
-264087506918727680	T14113383	positive	 thursday:d and well it's that winter wonderland at hype park (google it) it looks fab!
-243748212136083456	T14114859	positive	anyone want to come to art park tomorrow after school with a few others ? if you do tweet me :)x
-220278925832622080	T14112175	positive	monster truck show on 4th of july? oh i think sooo ! kaboom show at the pomona fairplex tomorrow(: i hope its fun.
+222783125334409216	T14113738	negative	we were going to go to the great yorkshire show on thurs. for hub's bday. it got cancelled. he is v sad.
+247327306731892736	T14113044	negative	at the hotel room in dannok, thailand... so tired for a long trip last friday night and shopping at hat yai yesterday...!!!
 230072297082478594	T14112031	negative	it's a monday, i'm in muskoka, yet i'm not going to the kee for resort night. what the fuck is happening?
 223558717113769985	T14112454	neutral	the nfl cleaned up at wednesday night's espy awards: from the blog shutdown corner: of the 10 awards that could'... 
-225778059234643968	T14114926	neutral	i'm going to nekromantix at reverb in reading, pa - jul 24 
 276865931827896320	T14114149	positive	 ima just go with danee tomorrow, thanks tho
 247482615005855744	T14111225	negative	i'm so sad it's still not tuesday yet because i want to watch  on styled to rock!
-237912940743913472	T14112128	neutral	does anyone have photos from the  show this past saturday at the kee? one of our own,  was on stage! 
-285790791232802816	T14114218	neutral	may aswell wear my new batman tshirt and watch nolan's trilogy tonight
 238646586664689664	T14112155	positive	 come visit the grand national roadster show in january at the pomona fairplex. literally hundreds of sweet rides!
-252593054840664064	T14112766	positive	nekromantix with blazin' entrails tomorrow night @ the rosemount. make it if you can! 
-276016144756928512	T14112601	positive	 i'm in thailand laa. hat yai to be exact. will be going to krabi tomorrow :)
-238756901062578176	T14113290	neutral	the b-52s rock the l.a. county fair with berlin featuring terri nun, pomona fairplex, fri, sep 7 @ 7:30pm, 50% off, 
 252899683586953216	T14115096	negative	 looks like i'm going to do that 1st &amp; i have yet to play the re:operation raccoon city game its always out of stock on redbox
 268005613202706433	T14113467	positive	day #12 - monday, 11/12 - thank a veteran day. brave men and women who have served their country with honor surround us. find a veteran t...
 207288755365744641	T14115466	negative	you know, soundset was the shit but i don't like this sun burn
 227338179647258624	T14114917	negative	omg i wanna go hype park on thursday, so jealous of everyone going
-271183235504017409	T14115177	positive	   got my gt! june is gonna be marsmonth! berlin, rock im park and rock the beach! can't wait to see you again
-282185773732745216	T14114594	positive	climbing mount snowdon for charity in february!! would love for you to sponsor me (pretty please!!) :d 
 200737969584349184	T14115217	positive	#awesome tomorrow starts the 3-day festival, @ uc davis, known as the whole earth festival. this weekend is gonna be sunny! ;-) i'm off too!
-260541470363246592	T14113954	positive	kenny lofton threw the 1st pitch!! glad i seen that!
 217804839483215874	T14114091	positive	city of sf honors matt cain's perfect game with june 13th, now known as matt cain day. quite an honor for his perfect game-well deserved
-241442100795826176	T14115154	positive	we just found out we got accepted to race at the l.a. county fair at pomona fairplex on september 8th, yippeee!!
-233641453694373889	T14111317	positive	the ya summer reading club ends on august 18. register and record your books to earn cool prizes before it's too late! 
 221261784747745280	T14111800	negative	missed  at soundset due to tornado. now they are going to in dsm tomorrow. do i want to put up with crowds and spend $45 more?
 281265321392873472	T14113696	negative	omigod, she's gone hysterical. i think she may actually be weeping from laughter.  #startrekvoyager #cardassians #notkardashians
 257529095661973504	T14111664	negative	//october-ppropriate oingo boingo. where danny elfman looks at you like a serial kill the whole video  so 80s
 241622215156703232	T14115535	positive	 arrived in split today. lakes were amazing. off to hvar tomorrow. will keep you updated :)
-246621612537946112	T14111941	positive	dj smoke, pete c. and realizm @ the gin mill in kearny this saturday!!      no cover! 
-260612506303737856	T14112787	neutral	closing the halloween party friday night @ rum runners.
 233016433498542080	T14112546	positive	 haha, the 25th! just tell me when &amp; i'll make a trip to summersville for the day!
-278085010538504192	T14112657	positive	watching crossfire hurricane with my dad. what a monday night!
 183361263907246080	T14111593	positive	de la soul is going to be at the cabooze on 4/27...that is going to be a great show...
 276448267678662656	T14113298	negative	if the snow prevents me from seeing runrig tomorrow i'll be really annoyed, i've been waiting all year!
-275615592529158145	T14115362	positive	don't miss the fr ted quiz for threshold hosted by the hilarious  (aka fr damo!) 18 dec  tix 
-234888307031564288	T14115267	neutral	 getting ready to go to da airforce in january, music, and workin basically about it....yhu still stay in knollwood apts. ?
-226472691270561792	T14111510	positive	 yep, bestival in september. you seen the line up for #brisfest looks pretty good. de la soul for starters. :d
-220574681579782145	T14112146	positive	happy to be celebrating torani's 87th fourth of july at the san diego county fair. come out tonight for the... 
-207637839314300928	T14111384	neutral	gotta show coming up in the atl. june 6th then in ohio june 16th
-245844600227495936	T14113134	positive	can't wait for  tomorrow night in binghamton ny! really just wanna see how crazy the lights and people are gonna be :d #pumped
-248629508897398785	T14115336	negative	i am surprised the australian tour dates haven't sold out as fast as the ones from the pink friday tour
 253016626729984000	T14113596	negative	well... it looks like resident evil 6 may divided gamer like operation raccoon city did. oh well, shit happens.
 238696958099853312	T14111177	positive	 thanks! we are only their on the friday so we're gonna try to see eagles of death metal, black keys, band of skulls, and others..
 255782747879116800	T14111502	positive	great times and great show last friday night with ben sollee!  thanks to ben and headliners and everyone that was... 
-264301185035558912	T14112938	positive	mix six pack from warners at the bay tonight. bitter &amp; twisted beer festival tomorrow. i love my #craftbeer
-275173972952350721	T14113393	positive	seriously can't wait until tuesday... really want to make the new batman trilogy my next purchase for myself but wondering if they're...
 223989117002842112	T14111823	positive	it's nice and sunshine here at the kee resort today, you may know it from the looks of these orchids near the... 
-234021582044008449	T14112450	neutral	summer reading club members:  tomorrow is the last day to log any more books.
-256978895973265408	T14114527	neutral	home opener saturday at 7, post-game skate with team as they look for 2-0 start. tickets at maverik center and 
+229980031684845569	T14114433	neutral	who watched the miss teen usa pageant this past saturday? tell us your favorite moments. did you think logan west would win the whole time?
 268367467615768577	T14114901	negative	the 1st sentence i said at the til definitely wasnt in a liverpudlian accent and i definitly didnt have to keep it for the whole transaction
-198457488071331841	T14113432	positive	de la soul's song buddy just made my friday! #jammingatmydesk
-233574562162409472	T14113977	positive	join the team at eldora speedway on saturday for family fun night #2!! matt westfall, brad hess, and jeff babcock... 
 274574830693670912	T14115434	positive	the best thing about this weekend - going to the edinburgh derby on sunday. #hmfc #prideofedinburgh
-259311997911441408	T14114575	neutral	stacey, lynn, karen &amp; all the team at lough erne resort are in full "swing" getting ready for this weekend's 15th... 
-234026469226070017	T14115380	neutral	1st capital canada day, 12 hour telling of the odyssey, beirut and mastodon at bluesfest, craft brewery tour #whatdidyoudothissummer
-232108545162760192	T14113355	neutral	next saturday the 1s are home to lechlade, whilst the 2s are at trowbridge. matches now start 30 mins earlier (see p32 &amp; p53 of handbook)
-266210945318125569	T14113052	neutral	come to "hot jam with suzanne" friday, november 9 from 11:00 am to 1:00 pm. 
-239770384264744960	T14113308	neutral	i'm going to nekromantix at el plaza condesa in mexico city, mexico - sep 1 
-230779428949590016	T14112185	neutral	adult summer reading club ends on august 4th. make sure to log your items before the deadline: 
-227677266270887936	T14111469	positive	dear  is it me or has the sun shone ever since  confirmed the maillot jaune on the tt...? #sungodonamission
+224599671274864640	T14115064	negative	if muslims like mehdi hasan are extremists, who are the moderates? the implicit, insidious message: there aren't any 
 281886589859291137	T14114279	negative	sucks i cant go to the nekromantix show or the brian setzer orchestra show tomorrow and saturday:( i really want to go:,(
-267406630109450242	T14114629	positive	looking forward to spinning the legs out tomorrow. check out the profile of the bike course from ironman wales. 
-250709448086147074	T14114493	negative	baby boom should be about launching bastard kids born into welfare lives into the fucking sun like superman did with nukes in superman iv.
 208012745210216450	T14114300	positive	rehearsing with da legendary de la soul for roots picnic sat.... wowow!!!
 227685565485690880	T14115076	positive	 met you at the w, espy awards. look forward to seeing you sat, on the red carpet -bobby kimball, eddie mon 
-261184948290076672	T14112544	positive	 hi john im interviewing antonio carluccio tomorrow, what mushroom question will make a good one?x
-249219199791165441	T14112265	neutral	since the tfaw thing is tomorrow, should i do the polish festival on sunday to spread it out, or just be out a long time on saturday.
-275482916753121281	T14115111	neutral	ben sollee live @ wfpk: how to see the sun rise (re-mastered in hd) 
 239396655621894144	T14114347	negative	pissed off with cable tv for taking away the cw network. now i can't watch wwe saturday morning show, vampire diaries, etc! this ruined me.
-250937710523588608	T14114891	positive	 .... hope the sun shining on you in haltwhistle today ... drum up any support ??
-268480914600914948	T14112732	neutral	#mariahcarey announced australian tour. are you going to buy a ticket?  #australiantour #january #tickets
-249574283905482753	T14111512	positive	u know it's going to be a good bachelor party when u get the bar &amp; the 1st song to come on is "blaze of glory" bon jovi #notenoughbudlight
-224165619690520576	T14112644	positive	the netherlands came out 2nd in the 4x100 relay at the london grand prix.  #wedoinggood
+269276548224405504	T14113265	negative	people putting these twilight movie tickets on instagram like they just purchased some 1st row &amp; backstage passes to the hot jam.
 242421452576530433	T14115291	positive	great weekend! bar mitzvah at knollwood and a photoshoot!  is it weird that i'm looking forward to working on monday?  :)
-255734611013926912	T14111779	neutral	new batman comes out tomorrow. the return of joker. there is a lot of things on the web about batman right now.... 
 253238629856575488	T14111556	positive	i always look forward to tuesday nights just because styled to rock is on
-277132335059705856	T14112796	neutral	this is the only weekend all month we won't be home at maverik center. see you next friday and saturday to open 8-game home stand.
 257442668580331520	T14112936	negative	mehdi hasan enraging twitter on a sunday? c'mon, at least give us a day off.
-218270580695248896	T14111542	neutral	august 4th 2012 catch me live at pomona fairplex for  with     and more!
-251259396158545921	T14113306	positive	all prep for the future. bookin up for the uk 70.3 ironman in june, then plannin on doin the ironman wales. dependingon race commitments ofc
 231449891891716096	T14111597	negative	not black enough: miss teen usa talks being bullied: on saturday, 18-year-old logan west made history when she b... 
-239299995252191232	T14111686	positive	omg this time tomorrow i will be sunning it up in hvar! croatia here we come!!!
-251337389413384192	T14115349	neutral	pearl jam's jeff aments new project rndm, here's the first single modern times,  album 'acts out oct 26th 
 275081693432524800	T14114842	positive	christmas at threshold - new series and lots of new elements - begins tomorrow. hope to see you there!
-261786365774159872	T14113535	positive	  mint warehouse for circoloco mate get involved! will come leeds tomorrow day westonator! x
 264526459140456448	T14112921	positive	join us next thursday for this screening at the creative alliance (i'm in the movie!!). it should be a great,... 
 207632317622132736	T14111951	negative	 im sad i never saw you at phoenix comicon but i didnt spend much time in the exhibition hall after friday.
-222344393095516160	T14112857	positive	 i may have to do that. :) did you see my disney pics from star wars weekends?
-255358423783309313	T14111635	positive	cabaret at warners tonight, then a matinee show at eastbourne tomorrow. wednesday, off to the kings theatre, southsea. have a happy week...
 265201077148856320	T14112008	negative	 yeah. i saw reakwon at soundset and many times before. still want to go but you know. if it wasn't a sunday freaking night...
 265950310583918592	T14115370	positive	 haha oohh yeah i actually had the same thought when i saw rndm on sunday!
-217326726508847104	T14111826	neutral	monday's look of the day: the kahri "blaze of glory" dress is crinkle silk, chiffon, and lace with gold metallic... 
-243088464411770881	T14112492	positive	circoloco lineup next monday has just made my day
-224288328567095297	T14112635	positive	tonight's the night! 29th annual kings royal at eldora speedway!
-274780013402943490	T14112771	positive	 would you interested in a five a side footy tournement jan 12 at warners with sean dalee its my lads dance crew?
-275583523442806786	T14114309	positive	i gonna jiujitsu training tomorrow wanna fight with strong guys hihi
 247029177826553856	T14112846	positive	good luck to everyone at ironman wales tomorrow, hope you all have a great day! #imwales
-231437787201687552	T14114482	neutral	'the dark tower': russell crowe set to replace javier bardem, warners may save the project: just in case you wer... 
-208902330609971200	T14113890	positive	 will you perform lies greed misery or burn it down? i'll watch you guys on tv :d btw see you tomorrow at rock im park and m&amp;g :)
-246050314279604224	T14113503	positive	day 4 of hat yai! saturday - sunday going to songkla, then to phuket. yey.
-208516177339756544	T14115484	neutral	dallas did 'dalllas' thursday night at premiere of the new tv series at winspear opera house 
 240266180466708482	T14111415	negative	stupid cable took the cw network away why?it better be back by october 11th if not we are going to have a problem lol #tvd
 262616950692257792	T14113859	positive	last night was the best night out i've had in ages! circoloco was class.. on the other side on the way to the lakes for work tomorrow #death
-251123857858113536	T14112508	positive	looking forward to speaking about email marketing at the  social media conference tomorrow in grand bend.... 
-255988947677757440	T14111139	neutral	the baby boom and economic recovery: post-recession levels of employment may be affected as much by demographics as by the nation's e...
-235415992908513280	T14113812	neutral	the london summer olympics may have ended, but the nac summer olympics is still going!  august 26th marks the... 
+218091401810939904	T14115455	positive	photoset: on friday, i was lucky enough to get tickets for the chelsea flower show. what a fantastic evening... 
 213052962333933568	T14111421	negative	sometime in the night at hot jam on monday i fell and scraped both my knees and it still hurts to bend them smh
 215964859089690626	T14111141	neutral	jack and the beanstalk banner outside of the winspear opera house first public performance oct 27  
 228206888364417025	T14113411	positive	enjoy the first single "ashes" from threshold's upcoming album "march of progress": 
-247639712225959936	T14115226	positive	 my 2nd fav is lake brienz near interlaken on a stormy day:-)) 
-209833350578450433	T14115574	positive	i'm so excited. you don't even know! i'm going to ohio june 20th for like a week to visit my aunt and cousins. omggggg
 240555049053470720	T14112267	positive	 go you, well done! glad ur legs stayed loyal lol. i'm back tomorrow too. jiujitsu went well thanks #funkyjiujitsu love it. x
 267611804681785345	T14114084	neutral	remembrance sunday - took part in the remembrance service at the parish church of all saints' in north hykeham.
-225775408149327872	T14115161	positive	 where are we going out for devin's 21st?? northampton's finest... the gin mill? haha
 220908937652879360	T14114104	neutral	we're heading to copenhagen to play the roskilde festival.   we play at 3 am saturday evening.   if your at the... 
 217661218779967490	T14114066	negative	   there may not be.. but why when i'm 3-0 up 10 mins left, it turns 3-1, i break, vermalen outpaces ronaldo.
 228530143554056192	T14111757	positive	binghamton ny,  i will see you on friday, sept 28!
 268090206966652928	T14115207	positive	thank you to my baby for men that are willing to risk their lifes for us happy veteran day!! may god bless you guys
-213719173694631936	T14113906	neutral	tracy morgan joins jimmy in #jkl: game night before game 3 of the nba finals on abc sunday.
-206363621964513280	T14112990	neutral	reality tv show about the salt lake city co. ballet west starts thur. on cw11.... 
+243900552650575872	T14112331	positive	ending a day dancing to the pointer sisters on jefferson street in celebration of creative alliance's 25th... 
 270096186298482688	T14111156	positive	such a beautiful morning.. just drove past winter wonderland in hype park! going there thursday with  can't wait! #suchakid
-242342720436314114	T14114793	neutral	the $5.00 tickets for jonathan kozol are going fast!  last chance to buy at the oea center will be thursday,... 
-259336781999247360	T14113201	positive	we're excited to have mysa's support behind tomorrow night's game! first 1,000 people in the doors get a mini soccer ball!
-239037554345787392	T14113865	neutral	the beijing summer olympics closed on  august 24 2008. books on the olympics are found in 796.48
+244727152778563586	T14111955	positive	for those going to circoloco at dc10 tomorrow you are in for a treat.  is doing a special house set from 18:00-22:00 on the terrace
 263635357566894082	T14112764	positive	danny elfman may well be the best halloween music composer.
 242413628739956736	T14113589	positive	  hit cool out at the gin mill for a special sunday night edition. then doublewide or the goat for the late night!
-258228236817928192	T14115313	positive	 when u go through lechlade tomorrow, i'll be the one having the shoot out with the vicar!
-222759981798268928	T14114113	neutral	the 49 car will return to eldora speedway this friday and saturday for the kings royal weekend..   come out and... 
-274689420291096576	T14113302	positive	 cant wait to see u in wilkes barre pa dec 9th at kirby center. r u  coming out after the show for pics n autographs? #prettyplease
 243800296944451584	T14113720	positive	sep 6 1952 greg  peck is  very happy with the blaze of glory casting. he considers  a top dramatic actress.
-248991086473781248	T14113190	neutral	stone brewing is mow just a stone's throw from the del mar station.  welcome to old pas' 
-203958250952065025	T14113778	positive	just 2 more days until copper river salmon is here! arriving monday to the market.
+230638445050077184	T14113413	neutral	  how about a silver-gilt medal as in chelsea flower show for the people who've tried hard and come 3rd?
 205454318302793729	T14113806	positive	copper river salmon special and live music thursday night! come try some of the best salmon in the world!
-270020286726946816	T14112399	positive	 i'm going to watch crossfire hurricane tomorrow hbo 2:00, can't wait, i'm sure i will fall in love with it!
-259038357986885632	T14114058	neutral	is anyone checking out the new batman: rises movie showing tonight by usg at 6 and then the octoberfest tomorrow night.
-207279354194034689	T14111828	positive	dick van dyke scheduled for the winspear opera house in dallas on tuesday may 29 about 7pm. should be a good show.
 249284824446156800	T14113129	positive	another great night in split, off to hvar on the 8:30 ferry tomorrow morning... dreading the packing but excited to get there!
-268672500928479232	T14112903	neutral	i'm going to paramore at rock im park in nuremburg, germany - jun 8 
-245169414394236928	T14114614	positive	circoloco at the best venue in london next saturday! excited. tunnels wooo
+224597954634334209	T14114235	positive	playing a scramble event at knollwood tomorrow, let's see how the "steady eddy" will hold...
 243855559865032704	T14111711	positive	see everyone at the gin mill on saturday!  looking forward to another great irish celebration!  bring your high 5's!
-281631479182815232	T14114833	positive	i'm going to play my cartoon suite as part of emf's ear to the earth festival at white box saturday 22 december 8pm. see you there!
 274966042336440321	T14111252	negative	i just saw the 1st swansea goal against arsenal. vermalen didn't even try and get back. strip him of the armband. disgrace.
-255426134299262976	T14113081	neutral	so who was at gin mill on saturday night? apparently the cold war kids were there hanging out
 245741216493355008	T14115357	positive	 happy birthday maite! i hope you work tomorrow because i'm going to squish you with my undying love for you.
 209454622249721856	T14112222	positive	happy i have something to watch sunday nights now! :) makes the wait for abc sunday fall lineup somewhat bearable! lol
-215130550913077250	T14114608	positive	free screening tonight! june 19 at 7:00pm in partnership with utah film center, ballet west invites you to a... 
 243303812859822080	T14112046	positive	thanks!  hvar is something i'm hearing a lot, will it still be busy late-october?
 215119198307885057	T14112140	positive	euro cup and $10 burger n beer sound like the perfect recipe for a tuesday afternoon. stone brewing on special all day!
 208910616927272961	T14113889	neutral	my piece on chelsea flower show in the sunday times: 
-221625384284860416	T14115129	positive	 everyone's still at roskilde festival, it doesn't finish until tomorrow night, but just wait 'til monday ;d
-261707064768872448	T14111888	neutral	remember! we are going to blackpool illuminations next saturday (3rd). a few are coming...anyone else up for it?
 271238347492585472	T14112306	negative	 hiya! sorry for missing out on the we! there's antonio carluccio giving a talk on friday: fancy going? 
-249604801413918721	T14114261	positive	 i totally just squealed seeing the abc sunday promo on tv. the charmings! all the feels, i have them!
 247022317631311872	T14111647	positive	ahh, the polish festival is today and tomorrow! shoooooooooot. i hope i can make it tomorrow :s
 247198654916599808	T14112583	positive	up crazy early on a sunday for the start of ironman wales. good luck to everyone taking part, you're all amazing
-251340955188330498	T14111329	neutral	 hey mr. bennett - i just read the blog on luker. may nc youth soccer reprint your article with your permission? m. moore, depdir
 257770063904534528	T14111894	positive	  thanks for following me maite,great to see you saturday.
-262873461578412032	T14111359	neutral	staff at a wegmans in binghamton ny say bottled water has been in almost all carts since friday. here's the proof... 
-262379800440737792	T14114056	positive	f.m. kirby center,november 24th...hope to see you there... 
 278095552497979392	T14115275	positive	mitchie, thanks for the fun times! i'll miss our sunday get-togethers after mass and our nosebleed convos. you're imp. love you! &lt;3
-229889524640149504	T14113222	neutral	you may have heard threshold's media comments about banks seeking rent directly from tenants. please contact us for advice if it affects you
 224034076334632960	T14111230	positive	go cats! the 20th annual espy awards: superfan badge holders consistently post smart, timely comments about wash... 
-229726629709094912	T14114698	neutral	september 9th blues on the bridge, binghamton ny, 12pm - 10pm. come see us at our table and our demonstrations during the course of the day.
-238370128163639296	T14113630	positive	 haha! and nope, just know i have to go in wednesday and enrole and stuff. do you?
 247361817519734784	T14114710	positive	off to see the ladykillers at  with  on friday. looking forward to it!
-220677602308919297	T14114466	positive	conquering rides on the 4th baby!!!  @ san diego county fair 
 237025223977877504	T14112072	positive	happy 16th anniversary to stone brewing! if you, like us, couldn't make it down for the party at the brewery,... 
-250570562844364801	T14113001	neutral	just back from fab visit to floriade in venlo. chelsea flower show meets eden project! on til 7 oct, otherwise you'll have to wait 10 years!
-267921470829772800	T14113092	positive	fireworks spectacular on saturday night - 1000s queuing for big wheel...then the sun shone on moving remembrance service. a welly weekend!
-257948060682960897	T14113277	positive	 thank you. suzanne moore is debating mehdi hasan on this on today at 8:45am tomorrow, so hopefully he'll have to listen...
-256018729282969600	T14112345	neutral	why sustainability is very important for the cotton industry:   interlaken, 9 october 2012. in this vide...  #wcoc09
 248022498854191104	T14114267	negative	because you know that no matter how shitty you feel on a tuesday morning, maite feels shittier.
-267965641179410432	T14114915	neutral	have u already seen the 2nd episode of 'i am sam'? shot at roskilde festival in denmark! 
 268681000010272768	T14112395	positive	omigod omigod omigod... the biker jacket i've had made in hoi an is perfect! a few alterations to the dresses to check tomorrow. can't wait!
+218987834273570816	T14115036	positive	1st team game looks set to be on with sunshine in lechlade
 254261683210551296	T14113832	negative	dad's going to hat yai tomorrow. waaaaa. cant see him for the next 4 days. hmm.
-247323266757324800	T14113361	positive	i went to the polish festival on roncesvalles on saturday awesome time! 
+251490732563648512	T14114551	neutral	join us for splash dance's 3rd neon night light party with sounds by house dj's   [pic]: 
 223143328458346496	T14112117	positive	 an excellent idea. may is a lovely time in the city. chelsea flower show too. and yes, costs often better than summer months.
-257454455866408960	T14112864	positive	  making them is awesome but on a lazy sunday it is best left to antonio carluccio plus i can't get them sticky inside
-270664440918192128	T14111357	positive	 i can't wait to see you on december 9th and meet at the fm kirby center!!(:
-217802557563748353	T14114939	positive	matt cain just got his "own day" in sf. every june 13th is now "matt cain day". that's pretty dope! #mattcain #sfgiants
-283904591878291456	T14115303	positive	i hope everyone had a great christmas! jason tyler will be at the deland's airport restaurant and gin mill december 29th!
-283702072271056898	T14111533	positive	 the champ could have a good day tomorrow. dunky text me earlier about golf at lough erne on sunday. you playing ?
-224415379659821056	T14113261	positive	#goosebumps on friday as  surged to his win and again yesterday as  swept through cap d'agde in the maillot jaune
 199522038912786432	T14114165	negative	if we don't go on senior trip with the malvern people, where are we vacationing to? no matter what, we aren't going to be in ohio june 3rd.
+263510530768138240	T14114677	negative	i'm gonna make fun of danee tomorrow because she likes the lakers. i don't even care but i just like being mean to danee sometimes.
 240495344952164352	T14113028	positive	heard the raw recording last night from  &amp; #thejoburtexperience at the back to earth festival on saturday. #amazing! so proud!
-256157101204832257	T14113375	neutral	soundman pete wrestling with gremlins in haltwhistle last monday before the interview with  for cinelove 
-266689703678447617	T14113026	positive	 i loved the hawaii rainbows. out here in ca they used to show almost all their home games at around 11 pm on sat nights.
 239392616712654848	T14111729	positive	 lovely event thursday at the creative alliance -- congrats!
 223502260859187203	T14115378	positive	2012 espy awards best dressed:  the 20th annual 2012 espy awards were last night, and with lebron james winning ... 
-270075282059304960	T14113493	positive	 so, who's going to see the stones in crossfire hurricane tomorrow night at  #firstlightmaui  i want to!
-235030604331220993	T14113310	positive	summer reading club ends august 18! get your reading wrapped up and come get your fastpasses by that date. august 18 is the last day!
-208492592919363584	T14112733	neutral	we've got 2 tickets remaining for the wales v barbarians game tomorrow. call 01792 616500 if you're interested in snapping up the final 2...
 212219377033035776	T14115372	neutral	 my video from star wars weekends on saturday:  q&amp;a with host   #clonewars season 5
-207877655293464578	T14114504	neutral	arriving tomorrow and throughout the weekend:  copper river salmon from alaska wianno oysters from cape cod fresh alaskan halibut
-277804852141228032	T14114226	positive	. nice piece. i think i may have written one of the longest defenses of kenny lofton's hof case: 
+257736365620490240	T14112881	neutral	post i wrote on mehdi hasan and abortion - wondering just what, precisely, he may have been expecting... 
 233189651324743681	T14115239	neutral	 about recycling  - our group is glass - tomorrow we must do folio about glass i think - ask mysa lah xd
 247772888839647232	T14113288	positive	already working on the next riot fest interview coming this wednesday. here's a hint: it's also a real good one.
 264710936378626048	T14112081	negative	there you, go, vermalen. you don't clear it, and disaster strikes, especially if van persie is in the area. manu up, 1-0, in the 3rd minute.
-280900975642951680	T14111922	neutral	miss teen usa on the next one.. saturday wahhh?(:
-215976014470328321	T14114017	positive	i really want for there to be bball on sunday.  and not just mysa
 272679589996802048	T14111964	negative	sadly another australian tour has come to an end going to miss australia so much next stop brisbane tomorrow then... 
 247114189108289536	T14115367	negative	i will watch jimmy mcgovern's hillsborough tomorrow, i am absolutely knackered and don't think i could deal with watching now.
 247113154918748161	T14111261	positive	hope everyone is out having fun at the 2012 roncesvalles polish festival today and it's on tomorrow too!
-258467152313585664	T14113759	positive	but 1st awesome day at jiujitsu. got my 1st black eye  #success
-253565768808136704	T14112288	neutral	anyone going ( or would like to go) to the lifespan art auction tomorrow night? will be leaving haltwhistle at 6pm.
-200661141347774465	T14112197	positive	this is  a big month for us!  tomorrow we're playing in davis at the whole earth festival, then kicking off our... 
 225668832419794945	T14112438	positive	good to see some of you at the great yorkshire show last tuesday #yorkshire hour
-272156015640862720	T14112111	neutral	 in your bio you mention july 25th 2013 does that mean that you are going to the 1d concert at the maverik center like me?
-267720626029072384	T14113982	positive	we collected 252 pounds of candy this year in our third halloween candy buy back. we shipped it off thursday... 
-280339851553939456	T14111336	positive	 im good *agent april*  im survive in raccoon city.... my mission was to take down.. umbrella corp! with alice...
-251754148599586816	T14114766	positive	mamedyarov beats nakamura in the 7th round of the london grand prix. what a game! 
-233517102982639616	T14112814	positive	vanilla fudge, friday nite. tanner park copiague ny. free concert on the water. no mark stein. what an amazing... 
+269765354312572928	T14111940	neutral	saturday has been reserved for the eagles of death metal.
 212208546987773953	T14111659	negative	still tryna figure out why the hell hot jam is on a monday...
-255839923645599745	T14114948	positive	author jonathan kozol comes to alvernia tomorrow at 7:00pm in the pec for a lecture that is free and open to the public. don't miss it!
-259856825690767362	T14113505	positive	pepper &amp;  are nuckin' futs' but i wouldn't want to spend my sat nights with anyone else! lol #illbringabottlenexttime!
 251805743446097922	T14112716	positive	thank you friends!  dancing with chervona at the polish festival last saturday. 
 214088258106310656	T14115374	positive	the earth festival has officially started! sage is burning and the sun seems to be shinning beautifully for us!
-267677838897999872	T14114243	positive	i live in hope that diane keaton in baby boom will be on my sunday afternoon tv screen some day soon. man alive i love that film.
-212522214073962497	T14114444	neutral	the "folkrockinpsychedelia" show was updated with tracks from vanilla fudge,count five,tomorrow,david axelrod,gram parsons,manassas &amp; more..
-207055172512395264	T14114370	positive	 if i were queen for the day i'd knight antonio carluccio for bringing us such fine fare to pinner long may he reign. fantastico
+248970588872396800	T14112054	positive	have an extra ticket to the riot fest in dallas this saturday. hit me up if anyone is interested
+245885158920699906	T14112728	positive	 needs to reshow the jimmy mcgovern drama again. it's so powerful and accurate. and now people know that it may shock people even more
 281320661438320640	T14112018	negative	i may be in the minority, but i think kenny lofton may have been wronged by the hardline. decide for yourself. 
 232160978480021504	T14113323	neutral	start your week off right. monday night is food trucks at art  park. click the link for all the info:... 
-268475458016923649	T14113520	neutral	the band has just been announced as part of the line up for the rock am ring (june 7th) and rock im park (june 8th) festivals!
-196260269037584387	T14115002	neutral	still tryin 2 figure out the name of the 1st song de la soul played last night
-282314857976565760	T14113477	neutral	 lol saw the 1st over thanksgiving break, watched the 2nd a few hours ago. but the 3rd...ain't that with denzel?
-220443255005917184	T14111298	positive	back on the road again....heading to denmark. tomorrow we rock roskilde festival alongside one of my favorite... 
 206710745201774593	T14112609	positive	 are you going coldplay on tues? also, were you aware de la soul are playing at the colly in july! remember you saying you liked them.
-267615350940659712	T14113443	positive	remembrance service was nice! now just pottering around town till 3rd service. to get new boots or not?
-220963464045264896	T14112995	positive	the girls  on the 4th looked awesome..chck out splash dance tonight, voted best locals party!! why wouldn't u be there?!
 285691107822682113	T14112126	positive	 ironman wales in september? fancy it? warm welcome from us welshies in tenby!
 248566075648790529	T14113111	positive	ahoy matey! did you enjoy international talk like a pirate day? celebrate it again with us this saturday at the museum!
 254317102578692097	T14112129	positive	   new york gig would be great in december! hope it works out. see u tomorrow at kirby center!
-260530155871686656	T14112366	neutral	i'm going to ben sollee at notes in newtown nsw, australia - jan 8 
-248796047286095872	T14114807	neutral	there's a "day" for everything: today is international talk like a pirate day and the 30th anniversary of the... 
-278880900652097537	T14111760	neutral	according to hall rating, kenny lofton is the 8th-best center fielder. of all time. 
-259277362259173378	T14114505	positive	wait, they (mysa) actually have a pretty good record at the 2nd largest tournament... the norway cup. 
-248036349347786753	T14112424	positive	heading home to ireland with 17 golfers from my club on saturday staying at lough erne resort and off to dublin for some fun
+260167635738714113	T14113238	positive	 your son was at my spot  saturday 4 hu alumni reception. he's a respectable humble kid. kudos to you and mysa #badboy4life
 240714146226765824	T14112788	positive	adelaide fans of antonio carluccio can enjoy an intimate lunch with the celebrity chef this october. 
 243786220541452289	T14114117	negative	youth soccer has been cancelled tonight due to poor field conditions. the next practice is saturday: 3-5's @ 10am, 6-11's @ 11am.
-222762939671789569	T14111544	positive	i had a lovely day at the great yorkshire   show today with heather, such a shame that it is closed tomorrow :(
-269327732159180801	T14112550	positive	so excited to see what everyone comes up with! what to do with thanksgiving leftovers #sunday...  via 
+220983751759503360	T14112925	positive	if you're stuck at work, keep your spirits going with "blaze of glory" by the alarm this glorious throwback thursday. 
 212290855996882944	T14112076	negative	hot jam shouldn't have been on a monday night &gt;.&lt; i have finals in the morning i can't go /:
-255474918827884544	T14113293	neutral	#ichiro has nothing.  if you want to see hustle: kenny lofton, 17 october 1995, scores from second base on a past ball.  #gotribe #alds
 201100136401739776	T14112094	positive	12 may; happy nurses day to all the nurses around the world.
 282403705922404353	T14115026	positive	it may be 2:30 but i finally got to watch the new batman #sacrifices
-261485085142941696	T14114700	neutral	 ...but indie or those with real resources will take audio risks (and may eventually become &gt;mainstream like danny elfman)
-280718422323650560	T14112828	neutral	the next baby boom is going to be in september-october 2013 because all these couples think that the world is gonna end friday...
 272552376722915328	T14115130	neutral	seattle marathon coming through the arboretum &amp; interlaken tomorrow: 
-209366066508480513	T14114196	positive	found it! evanescence live @ rock im park in germany - were to have streamed live today, but they performed on friday.  
 264913558008119296	T14111322	neutral	15th annual polish festival is one for the bucket list  #ilm #pender #brunsco #wway
 266295147057270785	T14112958	negative	jonathan kozol event-cancelled for friday  event canceled: fire in the ashes: victims and survivors of apartheid... 
-270498362120343553	T14112205	neutral	 the ladykillers (which i first saw in london), chicago (for about the 8th time) and mrs brown's boys (tv recording).
 231057396770942976	T14115319	positive	 thanks! i can't wait for my tasting panel this afternoon. hope to have the reviews up on the mysa food blog by tomorrow.
 275682085975515136	T14114296	negative	i made the leftover halloween candy last until december 3? i . . . i don't know who i am anymore.
 266955288475746305	T14114804	positive	with veteran day sun i want you to thank all the military people. we have the best son that gave over 20 years at... 
-277501433685880832	T14113973	positive	 i'm hoping to make my last few xmas presents tomorrow too - make up bags made with summersville :-)
-223517703988707328	T14112693	neutral	new post: jessica biel at the  2012 espy awards in los angeles on july 11 2012 
 273100482820599808	T14111790	positive	 stage adaptation of the ladykillers is coming to the grand canal theatre in february.
-209359960725929984	T14114507	neutral	some of our photos from the  premiere at the winspear opera house, may 31. 
 222377327462592512	T14111221	positive	wednesday at roskilde festival was the best experience in my life. i'm still very much blown away.  everybody at... 
-245177521304399872	T14112380	positive	night college course sorted, just have to enrole tomorrow now.. finally starting to figure out what i wanna do :-) #busyday
-259280987089932288	T14114975	positive	for the 1st time in 30 years.  for your splendiferous entertainment.  arts in lechlade proudly presents an old... 

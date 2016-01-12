@@ -138,7 +138,7 @@ public class SentimentanalysisSemEval {
 		}
     }
 	
-	private void evalModel(Map<String, ClassificationResult> resultMap) throws Exception {
+	protected void evalModel(Map<String, ClassificationResult> resultMap) throws Exception {
 		System.out.println("Starting eval Model");
 		System.out.println("Tweets: " +  tweetList.size());
 		double[][] matrix = new double[3][3];
