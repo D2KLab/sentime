@@ -17,12 +17,12 @@ Our Tweet Corpus downloaded
 
 
 ## How to run
-### **External Library needed**
-> Location: lib/
+### **External Libraries needed**
+There are a lot of external libraries needed for the Sentiment Ensemble System. You can [**Download Them From Google Drive**](https://drive.google.com/open?id=0B1rzzflJW8zeOHByeTBBOVFIMXc), put them in directory: sentime/lib/ and add them to your Java Build Path. :)
 
 ### Main class
 > package: fr.eurecom.sentime
-> SentimeSystem 
+> SentimeSystem
 
 ### Training command
 You can train a single individual system using the command below:
@@ -37,11 +37,11 @@ You can train all the system on the same training data using the command below:
 You can evaluate a single system using the command below:
 
 	eval <testing_data> -em <which_system_to_test> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
-   
+
    **Note**: <kbd>-em 0</kbd> represents NRC sub-classifier. <kbd>-em 1</kbd> represents GU-MLT-LT sub-classifier. <kbd>-em 2</kbd> represents KLUE sub-classifier. <kbd>-em 3</kbd> represents TeamX sub-classifier(*dysfunctional*). <kbd>-em 4</kbd> represents **Stanford_System** sub-classifier.
 
 Your can evaluate the whole ensemble system using the command below:
-   
+
 	evalAll <testing_data> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
 
 ### Classify one Tweet
