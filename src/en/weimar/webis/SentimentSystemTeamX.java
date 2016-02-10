@@ -62,7 +62,7 @@ public void train(String savename) throws IOException, ClassNotFoundException{
     	Map<String, Double> sentiWordNet = this.loadSentiWordNet();
     	
     	//load spell-checker
-    	SpellDictionary dictionary = new SpellDictionaryHashMap(new File("resources/lexi/SpellChecker/english.0"), new File("resources/lexi/SpellChecker/phonet.en"));
+    	SpellDictionary dictionary = new SpellDictionaryHashMap(new File("resources/tagger/jazzy-spellcheck-dictionaries/english.0"), new File("resources/tagger/jazzy-spellcheck-dictionaries/phonet.en"));
     	SpellChecker spellChecker = new SpellChecker(dictionary);
     	
 		int featurecount = 0;
@@ -558,6 +558,7 @@ public void train(String savename) throws IOException, ClassNotFoundException{
 		}
 		
 		//load features and training instances from .arff file
+		System.out.println("Reading the features from: resources/arff/" + trainname + ".arff");
 		BufferedReader reader = new BufferedReader(new FileReader("resources/arff/" + trainname + ".arff"));
 		Instances train = new Instances(reader);
 		train.setClassIndex(train.numAttributes() - 1);
@@ -593,7 +594,7 @@ public void train(String savename) throws IOException, ClassNotFoundException{
 		
 		
 		//load spell-checker
-		SpellDictionary dictionary = new SpellDictionaryHashMap(new File("resources/lexi/SpellChecker/english.0"), new File("resources/lexi/SpellChecker/phonet.en"));
+		SpellDictionary dictionary = new SpellDictionaryHashMap(new File("resources/tagger/jazzy-spellcheck-dictionaries/english.0"), new File("resources/tagger/jazzy-spellcheck-dictionaries/phonet.en"));
 		SpellChecker spellChecker = new SpellChecker(dictionary);
 		
 		Map<String, Integer> featureMap = new HashMap<String, Integer>();

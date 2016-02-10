@@ -175,6 +175,7 @@ public class SentimentSystemKLUE extends SentimentSystem {
 		}
 		
 		//load features and training instances from .arff file
+		System.out.println("Reading the features from: resources/arff/" + trainname + ".arff");
 		BufferedReader reader = new BufferedReader(new FileReader("resources/arff/" + trainname + ".arff"));
 		Instances train = new Instances(reader);
 		train.setClassIndex(train.numAttributes() - 1);

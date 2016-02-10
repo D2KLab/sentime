@@ -48,7 +48,7 @@ public class SentimentanalysisSemEval {
 				throw new IllegalArgumentException("Invalid system: " + system);	
 		}
 	}
-	public void trainAllSystems(int system, String savename) throws IOException {
+	public void trainAllSystems(int system, String savename) throws IOException, ClassNotFoundException {
 			SentimentSystemNRC nrcSystem = new SentimentSystemNRC(tweetList);
 			nrcSystem.train(savename);
 
@@ -58,8 +58,8 @@ public class SentimentanalysisSemEval {
 			SentimentSystemKLUE klueSystem = new SentimentSystemKLUE(tweetList);
 			klueSystem.train(savename);
 
-//			TeamXSentimentSystem teamXSystem = new TeamXSentimentSystem(tweetList);
-//			teamXSystem.train(savename);
+			SentimentSystemTeamX teamXSystem = new SentimentSystemTeamX(tweetList);
+			teamXSystem.train(savename);
 	}
 	
 	public void testSystem(int system, String trainname) throws Exception {
@@ -85,7 +85,7 @@ public class SentimentanalysisSemEval {
 		}
 	}
 	
-	public void testAllSystem(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE) throws Exception {
+	public void testAllSystem(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE, String trainnameTeamX) throws Exception {
 			SentimentSystemNRC nrcSystem = new SentimentSystemNRC(tweetList);
 			Map<String, ClassificationResult> nrcResult = nrcSystem.test(trainnameNRC);
 
@@ -95,7 +95,10 @@ public class SentimentanalysisSemEval {
 			SentimentSystemKLUE klueSystem = new SentimentSystemKLUE(tweetList);
 			Map<String, ClassificationResult> klueResult = klueSystem.test(trainnameKLUE);
 			
-			this.evalAllModels(nrcResult, gumltltResult, klueResult);
+			SentimentSystemTeamX teamxSystem = new SentimentSystemTeamX(tweetList);
+			Map<String, ClassificationResult> teamxResult = teamxSystem.test(trainnameTeamX);
+			
+			this.evalAllModels(nrcResult, gumltltResult, klueResult, teamxResult);
 	}
 	
 	protected void loadTweets(String path) throws FileNotFoundException, UnsupportedEncodingException{
@@ -176,8 +179,8 @@ public class SentimentanalysisSemEval {
 		printResultToFile(resultMapToPrint);
 	}
 	
-	private void evalAllModels(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult) throws Exception {
-		System.out.println("Starting print Pred");
+	protected void evalAllModels(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> teamxResult) throws Exception {
+		System.out.println("\n\n--------------------\nOur Duplicate System: ");
 		double[][] matrix = new double[3][3];
 		Map<String, Integer> classValue = new HashMap<String, Integer>();
 		classValue.put("positive", 0);
@@ -189,17 +192,26 @@ public class SentimentanalysisSemEval {
 //	        classValue2.put(1, "neutral");
 //	        classValue2.put(2, "negative");
 		Map<String, Integer> resultMapToPrint = new HashMap<String, Integer>();
-		if((nrcResult != null && gumltltResult != null && klueResult != null)  && (nrcResult.size() == gumltltResult.size()) && (nrcResult.size() == klueResult.size())){
+		if((nrcResult != null && gumltltResult != null && klueResult != null)  && (nrcResult.size() == gumltltResult.size()) && (nrcResult.size() == klueResult.size()) && (klueResult.size() == teamxResult.size())){
 			for (Map.Entry<String, ClassificationResult> tweet : nrcResult.entrySet()){
 				String tweetID = tweet.getKey();
 				ClassificationResult nRCSenti = tweet.getValue();
 				ClassificationResult gUMLTLTSenti = gumltltResult.get(tweet.getKey());
 				ClassificationResult kLUESenti = klueResult.get(tweet.getKey());
-				if(gUMLTLTSenti != null && kLUESenti != null ){
+				ClassificationResult teamxSenti = teamxResult.get(tweet.getKey());
+				if(gUMLTLTSenti != null && kLUESenti != null && teamxResult != null ){
 					double[] useSentiArray = {0,0,0};
 					for (int i = 0; i < 3; i++){
-						useSentiArray[i] = (nRCSenti.getResultDistribution()[i] + gUMLTLTSenti.getResultDistribution()[i] + kLUESenti.getResultDistribution()[i] ) / 3;
+						useSentiArray[i] = (nRCSenti.getResultDistribution()[i] + gUMLTLTSenti.getResultDistribution()[i] + kLUESenti.getResultDistribution()[i] + teamxSenti.getResultDistribution()[i] ) / 4;
 					}
+					
+					//Weighting the aggregation according to the performance of individual sub-classifiers
+					/*
+					useSentiArray[0] = (0.7680412371134021*nRCSenti.getResultDistribution()[0] + 0.7430117222723174*gUMLTLTSenti.getResultDistribution()[0] + 0.7629399585921325*kLUESenti.getResultDistribution()[0] + 0.7787418655097614*teamxSenti.getResultDistribution()[0])/(0.7680412371134021+0.7430117222723174+0.7629399585921325+0.7787418655097614);
+					useSentiArray[1] = (nRCSenti.getResultDistribution()[1] + gUMLTLTSenti.getResultDistribution()[1] + kLUESenti.getResultDistribution()[1] + teamxSenti.getResultDistribution()[1] ) / 4;
+					useSentiArray[2] = (0.5873015873015873*nRCSenti.getResultDistribution()[2] + 0.5072992700729927*gUMLTLTSenti.getResultDistribution()[2] + 0.48013245033112584*kLUESenti.getResultDistribution()[2] + 0.6538461538461539*teamxSenti.getResultDistribution()[2])/(0.5873015873015873+0.5072992700729927+0.48013245033112584+0.6538461538461539);
+					*/
+					
 					int useSenti = 1;
 					if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2]){
 						useSenti = 0;
@@ -243,7 +255,7 @@ public class SentimentanalysisSemEval {
 		printResultToFile(resultMapToPrint);
 	}
 	
-	private void score(double[][] matrix){
+	protected void score(double[][] matrix){
 		double precisionA = matrix[0][0] / (matrix[0][0] + matrix[1][0] + matrix[2][0]);
 		double precisionB = matrix[1][1] / (matrix[1][1] + matrix[2][1] + matrix[0][1]);
 		double precisionC = matrix[2][2] / (matrix[2][2] + matrix[0][2] + matrix[1][2]);
