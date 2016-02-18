@@ -1,552 +1,736 @@
     TweetId     Golden_Standard   Classification          Tweet_Text
-225224769405059074	GS:neutral	positive	anyone fancy meeting  &amp; me for coffee &amp; cake at the tea chest in lechlade tomorrow
-248860530272501760	GS:positive	neutral	i'm finally going to get to see rise against! who else is going to riot fest on saturday?!
-245623833019703296	GS:neutral	positive	think i may have an early night tonight and go to sleep after styled to rock!
-209369121324941314	GS:positive	neutral	mark you calendar for june 16th catch me performing at the first annual earth festival! be there! 
-255988947677757440	GS:neutral	positive	the baby boom and economic recovery: post-recession levels of employment may be affected as much by demographics as by the nation's e...
-212407864344576000	GS:positive	neutral	being at hot jam made me feel like it was a friday night and the weekend was ahead......nope it's only monday night
-207488272279154689	GS:positive	neutral	climbing frames for plants: the sun has been out, the chelsea flower show has been in full swing and we are all ... 
-237832670992801792	GS:neutral	positive	silver lining: even if you missed their performance at the creative alliance on august 12, you can still enjoy the... 
-237857553776799745	GS:neutral	positive	beth tweddle, greg rutherford and luke campbell flick the blackpool illuminations switch on 31 aug - music too! it's not all in london!
-282993750790258688	GS:neutral	positive	last day in krabi. will be heading for hat yai for 2nd round shopping and sleep over in aloq staq. eta 2100. 
-246760027547893760	GS:positive	neutral	i've provisionally decided to see the ladykillers, singin' in the rain, godfather + when harry met sally for the sun of ifi open weekend.
-280138373472088064	GS:negative	neutral	maybe going out on thurs, fri, sat nights is a bit harder than i thought when i also work tues, wed, thur, fri, sat, sun, mon, tues....
-279946407899705344	GS:neutral	negative	 im only going to interlaken on the 17th. yeah sia i am always hungry here omg
-224834918260285442	GS:negative	positive	thursday will be very tiring day for me! bcls, nurses day rehearsal and then soccer!
-251805168151179264	GS:positive	neutral	in moscow - getting ready for the live demo at art park on sunday. come join if you fancy 
-238776146400006146	GS:positive	neutral	the youngest person at the main dining room at knollwood right now may be 85 years old. i feel like a new born
-273932032986456064	GS:neutral	positive	i will be tapping stone brewing ""enjoy by ipa"" tomorrow at  we've got till 12/21/12 to drink it.
-246322973479403520	GS:negative	neutral	reading club dead. i see a trip to barns &amp; noble in the near future...as in tomorrow.
-208979473230602240	GS:neutral	positive	sun going down over rock im park, germany. off to watch the offspring 
-216000415572033536	GS:positive	neutral	we're all no one! party w/ nervo tonight at surrender nightclub! grab ur bikinis &amp; swim trunks for splash dance thursday! txt me 714.8785254
-267580208746463232	GS:negative	neutral	the pitch for sat nights game is going to me atrocious due to the coldplay concert #iwantaamiparkback #mvfc
-229276739635924994	GS:neutral	negative	2nd half about to start. no subs for the red stars to begin the half. wny kicking off. 45 to go....
-226869168123834368	GS:neutral	negative	is anyone gonna go see the nekromantix on the 3rd!!??
-240772289451405313	GS:neutral	positive	 yeah and the course is full now! i have to wait and see if someone doesnt enrole tomorrow then i get their place!
-246255642707390464	GS:neutral	positive	rumored: the boys will be going on an australian tour on february 31 next yr :)
-241196481514704897	GS:positive	negative	it is not too late to sign your k-5th grade child up for the little tornadoes reading club at the dover public... 
-258230940864749568	GS:neutral	positive	our tuesday tv pick is the grand finale of  styled to rock - and they've got a riri challenge! 
-243913329062596609	GS:negative	positive	went to grand bend saturday.. someone drowned that night in the lake.
-280946896061726720	GS:positive	neutral	today plan of action lots of jam this morning may be some chutney then the vanilla fudge and at some point go and get the christmas tree
-238990320015122432	GS:neutral	negative	fire in the ashes: 25 years among the poorest children in america  by jonathan kozol comes out tues, avail for pre-order
-267640457096482816	GS:positive	neutral	have paid my respects today at the remembrance service for those who gave their tomorrow for our today. lest we forget.
-270504863677440000	GS:neutral	positive	ah june 6! okay, then i'll just drive directly from berlin to rock im park, haha
-267050447519510528	GS:neutral	positive	yoga, ninjas, junior and adult gi jiujitsu starts tomorrow at 8:30am!!!  don't miss it!
-229156857380495360	GS:positive	neutral	duck day is tomorrow in greenhead, (near haltwhistle) come and see the five ring circus perform at a village fete with difference! 1pm - 4pm
-246331370849329152	GS:positive	neutral	 what is going on young man! teamltd misses seeing u on monday's at the kee for our 'casual' drinks. catchup in toronto soon
-261520543570857986	GS:neutral	negative	uber socialist mehdi hasan on #bbcqt panel for 5th time since #ge10 - more than any other panelist. does he have a season ticket??
-259947723405553664	GS:positive	neutral	saturday - the diggly dog had a fantastic walk starting at haltwhistle, through burn gorge and up on to hadrians... 
-281051295304011776	GS:neutral	positive	one more final tomorrow then i'm done for the semester..i been waiting on christmas break since thanksgiving break, lbs
-281567765201043457	GS:positive	neutral	who wants to go with me to see nekromantix this friday?
-242067847034073088	GS:neutral	positive	special labor day cool out goes down tomorrow night @ the gin mill 10-2
-246629366661009408	GS:neutral	positive	grand bend patio drinking while the sun goes down. 
-265255080473800704	GS:positive	neutral	stone's bandmate jeff's new band rndm is playing the jimmy fallon show tomorrow night.  check it out.
-285372904827412480	GS:negative	neutral	pearl jam's 2000 european tour ended in tragedy on june 30, with an accident at the roskilde festival in denmark.... 
-227677266270887936	GS:positive	neutral	dear  is it me or has the sun shone ever since  confirmed the maillot jaune on the tt...? #sungodonamission
-252863028188569600	GS:neutral	positive	last day of la county fair from the skyline ride!  #lacountyfair #sunday #sunday  @ pomona fairplex 
-239028097121402880	GS:positive	neutral	anyone interested in a couple of tickets for runrig tomorrow at the northern meeting park, inverness?
-235846687933997056	GS:positive	neutral	join us at main library, 12 p.m. on monday, 8/20 for the 2012 kiwanis corporate regatta. lunch is $5, helps support summer reading club.
-218758399314239488	GS:neutral	negative	 and here is my mahiro from kiryu cosplay, it's not totally finished xd i have a new shooting monday ! 
-268067773790420992	GS:positive	neutral	 looking very emotional at the remembrance service on sunday, danny. #respect 
-272399682033045505	GS:neutral	positive	sunday brunch: thanksgiving leftovers eggs benedict: editor's note: each saturday morning we bring you a sunday ... 
-205876235186864129	GS:neutral	positive	click ""like"" if you're excited to hear our copper river salmon special!   check back tomorrow, 5/25, for more... 
-251797402988716032	GS:positive	neutral	 catelynn and tyler are speaking tuesday, the 9th at 8:30 pm, in the south ballroom of the bernhard center. fo' free!
-269195209592684544	GS:neutral	positive	getting ready for knollwood p.s. bazaar, tonight and tomorrow! details, see here: 
-245239703236911104	GS:neutral	positive	hey folks!  come relax and play at threshold, an after-party i am holding the evening of folsom sunday, sept 23rd: 
-265782186576334849	GS:neutral	negative	 another thing, (not taking into account his complete mare on saturday) would you want vermalen as the rock of your defence?
-243427929835589632	GS:positive	negative	crazy, the list keep growing.... sep 5th bdays   john cage, werner herzog, jonathan kozol and freddie mercury
-270054598390190080	GS:positive	neutral	sitting on the floor watching the stones doc crossfire hurricane for the 3rd time.     
-276955216350416896	GS:neutral	positive	what's that you say? the ladykillers single is out on monday? you're going to buy it?
-275212211625025537	GS:negative	neutral	having to work a sunday but a sunday of the edinburgh derby #grim
-235071664231178240	GS:positive	neutral	anyone interested in camping tonight on the new river and swimming at summersville  tomorrow?
-223345196744720384	GS:neutral	positive	blue news: today i am going to dry out the show gear whilst the sun is out. it got very wet at the great yorkshire show 
-257222890565562369	GS:neutral	positive	participate in the new  contest. winner gets a special gift from maite. deadline is november 15 
-274551540755333120	GS:positive	neutral	free day tomorrow in interlaken and we're going to explore bern~
-223954400954159104	GS:neutral	positive	 tyron the next time the espy awards come at 8 tomorrow!
-222845478709112832	GS:positive	neutral	mdsl finals this sunday, july 15 at 6pm.  come watch mysa take on the detroit hustlers at ultimate soccer arena!!(
-237952001231704066	GS:positive	negative	buzzing for eagles of death metal tonight. tuesday is the new friday.
-217048202766061569	GS:neutral	positive	halftime. red stars playing well but only found one goal in 1st half to keep it tied 1-1.
-223034743028064256	GS:positive	neutral	settled in and ready to go for the 1st mountain stage. allez cadel. 2 min 2 weeks, you have time to get the maillot jaune. 
-257322301626933249	GS:positive	neutral	a lot easier to check  twitter than hunt through  for the #uca final score on sat nights
-240938488478982145	GS:neutral	negative	alarm clock is set for 7 jokes i don't have to enrole at college till 2 then don't start till the 10th #bazinga
-277296942353096704	GS:neutral	negative	 the day of thanksgiving break was a tuesday.
-234450412726530048	GS:neutral	negative	and also paid  for not even half of the heritage classic tickets #goleafsgo. and also we're going to the kee again monday #wetwild
-222774371113107456	GS:neutral	positive	as you might have seen, the great yorkshire show is cancelled tomorrow. all children in school at normal time please
-249297945894195200	GS:positive	neutral	threshold is sun 5-11p.  come on in after folsom &amp; rest ur weary feet or play in the fungeon or boogie on the dance floor 
-273780749000400896	GS:neutral	positive	 merry mart sun is at the creative alliance!
-244672249355984896	GS:neutral	positive	splash dance every thursday in #vegas  come check it out before the pool season ends!
-254722428939403264	GS:positive	neutral	 yeah so much has changed for the 6th. lots of combat fighting. and inventory is different. did you do raccoon city?
-258605583291281409	GS:negative	positive	you cannot run a modern sophisticated economy the way you run a tuck shop at eton jimmy mcgovern in  (
-251011079029788672	GS:neutral	positive	 june:) isn't that the one with the outfits from styled to rock?
-261684409915293696	GS:negative	positive	2nd attempt at watching pll halloween special. i hope my dad doesn't come and ruin it!
-249865231285751809	GS:neutral	negative	don't forget - jonathan kozol this thurs 6pm -nw 375 e. chicago. tlkng abt new book, ""fire in the ashes:25 yrs amgst poorest chldrn in am.""
-266325391805911040	GS:positive	negative	some may have called me childish, but i now sit with a bag the size of a small child full of halloween candy. #winning #stillakidatheart
-279420102825361408	GS:neutral	positive	back in the air chair tomorrow as hot jam media's hot jam with suzanne returns from 11am-1pm with a tweak! the... 
-281379913175552000	GS:positive	neutral	milano, italy- tomorrow mount snowdon, wales- 10 days london new years/bday-11 days  bring it onnn
-237707632847237120	GS:neutral	positive	#neon splash dance on thursday  with sounds by  neon attire highly encouraged. bring your bikini! #splashdance
-239905100284428289	GS:negative	positive	 hilarious.  give the doping convictions, the '99 maillot jaune devolves to the kid to who was 17th at the '99 tour l'avenir
-221261784747745280	GS:negative	neutral	missed  at soundset due to tornado. now they are going to in dsm tomorrow. do i want to put up with crowds and spend $45 more?
-210965690834882560	GS:neutral	positive	#bluemoon on deck! friday morning with da bro and best friend   @ the gin mill 
-262638959216164864	GS:neutral	positive	paloma faith may not have a brit but she has to be a shoe in for the chelsea flower show #scd
-211193927389290497	GS:positive	neutral	if you're going to star wars weekends tomorrow, come see me at my very last #sww event signing! come say hello and get some vinyls signed!
-199479996002217984	GS:neutral	positive	 tactical switch, vermalen midfield and song defence. need steel to the silk of midfield and vermalen is our 3rd top scorer!
-274956342568030209	GS:positive	neutral	got my sunday sussed out start with russian game,mk dons,edinburgh derby for starters.!
-224258749785841664	GS:positive	neutral	tomorrow bradley wiggins will break the record for number days in the maillot jaune for a british rider, beating chris boardman. #tdf
-261472795253420033	GS:neutral	positive	finally watched pll halloween episode. will now watch gossip girl then 90210. homework day tomorrow!!
-234842290995228673	GS:neutral	positive	the opening ceremony for the next summer olympics will be held on august 5th, #rio2016  see you then :)
-248562816603267072	GS:neutral	positive	shiver me timbers! the answer to our trivia: international talk like a pirate day!  it's the 10th anniversary of the worldwide celebration!
-280933813637488640	GS:positive	negative	    i saw him at soundset, not a bad show. he is headlining with har mar superstar.
-256031051082788866	GS:positive	neutral	just received oblivion and the new perrcy jackson book - reading club get first look at them on friday.
-214859045121695744	GS:positive	neutral	just got invited to a track camp in ohio june 30 &amp; july 1st
-268166039739707392	GS:neutral	positive	may 26th.  save the date. we are going to soundset. #noexcuses
-247828041412247552	GS:neutral	positive	just a gentle reminder that this years polish festival is on the 18th of november
-249208402755088386	GS:neutral	positive	 #raving in hvar in croatia surrounded by massive yachts! veneranda tonight then carpe diem's closing party tomorrow night!!
-235529015291699200	GS:neutral	positive	the kee to bala just got drizzy: intimate concert in one of greatest venues with rapper  this saturday pm in #muskoka's 
-269765354312572928	GS:neutral	negative	saturday has been reserved for the eagles of death metal.
-244727152778563586	GS:positive	neutral	for those going to circoloco at dc10 tomorrow you are in for a treat.  is doing a special house set from 18:00-22:00 on the terrace
-260494267825389569	GS:positive	neutral	who wants tickets to wednesday night's dress rehearsal of aida at winspear opera house? be one of the first 6 to... 
-254425030920912896	GS:positive	neutral	bowling then dinner w/ the family tomorrow for maite's birthday (:
-238204754566721537	GS:negative	positive	if you are still mourning the cancellation of the great yorkshire show why not head to  at boroughbridge on 2 sep!
-279344603587567617	GS:neutral	positive	on july 24th, the trucks will make their debut at tony stewart's raceway eldora speedway! whose looking forward to this race?
-236089827911692288	GS:negative	positive	after arsenal sell song to barcelona we may as well sell vermalen,give szczesny away on a free and make sure our complete spine has gone.
-281320661438320640	GS:negative	neutral	i may be in the minority, but i think kenny lofton may have been wronged by the hardline. decide for yourself. 
-209046966167027712	GS:positive	negative	anyone want to go to star wars weekends with me saturday the 9th? it's kind of an important day and i don't want to be by myself.
-280849267923501057	GS:positive	neutral	i want to see ben sollee wednesday.
-274179703328358400	GS:negative	neutral	sat in the library trying to give laryngitis to several people via mind-power. especially the liverpudlian girl. #stfu
-240116283063025664	GS:negative	positive	keep thinking its tuesday &amp; get excited because styled to rock will be on then i realise it's only monday &amp; i have to wait till tomorrow:(((
-259082653364539393	GS:positive	neutral	nlcs, thursday night football, and a rerun of usa v lithuania game from the summer olympics. could this night get any better? #probablynot
-222765691185528836	GS:negative	positive	awww man, great yorkshire show has got cancelled.  what are we going to do tomorrow now?
-248970588872396800	GS:positive	neutral	have an extra ticket to the riot fest in dallas this saturday. hit me up if anyone is interested
-271839583619145728	GS:neutral	positive	 visiting from seattle and going to check out stone brewing tomorrow.  i'll say hi from you sir.
-247739426896228352	GS:neutral	negative	someone may aswell lick my face it now tastes an smells of vanilla fudge #facemasssssssk
-238888228797677569	GS:positive	neutral	my cousins are coming up later for the runrig concert tomorrow nights. haven't seen them in months
-236883918060670976	GS:neutral	positive	tune into the kicx winning weekend with  4 your chance 2 c  next saturday at the kee to bala aboard the kicx bus
-228986203343552512	GS:neutral	positive	 did you see that the ""world famous pub"" in lechlade from monday made an appearance in the opening ceremonies?
-253652249962754048	GS:negative	positive	catelynn looked like a straight up street walker the 1st season of teen mom.
-211187058746736640	GS:neutral	negative	last weekend for star wars weekends. haven't been back since the first night. need to go tomorrow to experience more than hoopla/carbonite.
-280364587151417344	GS:negative	positive	having a really hard day. on the upside, i'm setting off to climb mount snowdon tomorrow.
-275421799968288768	GS:positive	neutral	totally buying the new batman movie on blu-ray december 4th!
-245821716461408256	GS:positive	neutral	from monday 17 sept, new library reading club for reception to year 6 from 3.30-4.30pm with mrs bolton, the school librarian.
-263345687645782016	GS:positive	neutral	think i'm going to come back to edinburgh on the 3rd of january just for the edinburgh derby.. #cmonhearts
-243987923517730816	GS:positive	negative	had my 1st beef bibimbap today at westfield parramatta. never knew it would be so filling. 5 hours on and still not feeling an edge hungry.
-272405018152423424	GS:negative	neutral	i'm fuckin joel skinners daughter! ""you mean the same asshole that held kenny lofton at 3rd in game 6 of the alcs"" 
-223147766405279744	GS:neutral	positive	 that sounds like del mar to me, mostly because of the ""san diego county fair"" #butitshouldbedelmarfair
-236174099427246082	GS:positive	neutral	oc folks - see below:   if you are in orange county tomorrow, come to our beacon summer olympics at la palma... 
-226335973653495808	GS:positive	neutral	almost in binghamton ny, on our 3rd driver. i beasted the 1st 8 hours #nobigdeal 1.5 hours to cooperstown #hofweekend #dirb #gomudcats
-217272058495770624	GS:positive	neutral	chiara atik's the secret catcher in 3g's sips&amp;scripts, tom  @ the gin mill.  new play, cold draft &amp; hot tots. c'mon, you know you wanna.
-270847715796189185	GS:positive	negative	#midnightrun may have my favourite danny elfman score, probably because it's not a typical elfman score
-228804281850007552	GS:positive	neutral	whos prob going to see 1d in concert in ohio june 18th ? this girl ;d
-216351332481761280	GS:positive	negative	too much sun today!.. at least i got one picture with ma girl    @ pomona fairplex 
-203945612679446528	GS:positive	negative	every time i hear a liverpudlian accent it reminds me of watching brookside with mum on a sat teatime #missthosedays
-281199005558530048	GS:positive	negative	friday is the day i have been waiting for since thanksgiving break was over #yes
-234619952651436032	GS:negative	positive	edinburgh derby today on 'sell out saturday' and the stadium isn't even half full! there's only one proper derby in the uk! #weartynederby
-223853872802836480	GS:neutral	negative	so i've been sat watching the junior champs not realizing the london grand prix was on -.-
-272485446750179328	GS:positive	neutral	 hey regina, i thought you may like this on bbc rolling stones: crossfire hurricane: part two   tony
-275828118143524864	GS:neutral	negative	for those that missed it i'm dropping a new batman track tomorrow since dkr debuts. if you want it, i'll send it to you. only way to get it.
-244531642067197954	GS:negative	positive	 haha did you hear on friday when i like shouted fock me in a liverpudlian accent xd tate was just like -_-
-209175728653209600	GS:positive	neutral	we're not dead yet, just busy setting up figments media. we promise to have an update sometime monday, do you want mk or star wars weekends?
-239402359288123394	GS:positive	neutral	cw network aug 30th check nelly on his nee show..... i have friends involved on that show..check it out let me know what u think
-261512107693072385	GS:positive	neutral	youth soccer season starts in 10 days nov 3rd. don't miss out on the action - register at 
-273256180531478530	GS:neutral	positive	november days of gratitude day 25 - thanksgiving leftovers - i've eaten them every day since thanksgiving and i'm... 
-203357699277209601	GS:neutral	positive	why is copper river salmon some of the best fish in the world? find out may 26
-256018729282969600	GS:neutral	positive	why sustainability is very important for the cotton industry:   interlaken, 9 october 2012. in this vide...  #wcoc09
-254390999055495168	GS:neutral	positive	coastal coffee will be at the thanksgiving farmers market in grand bend tomorrow morning.
-250724991073648640	GS:neutral	negative	 knock to the ankle,should be fit for sunday. sturbridge is 50/50. apart from that fully fit squad i think. vermalen still sick?
-245177521304399872	GS:positive	neutral	night college course sorted, just have to enrole tomorrow now.. finally starting to figure out what i wanna do :-) #busyday
-234197461328093184	GS:positive	neutral	take a look inside the kwafaku reading club to see how these volunteers nurture children's #literacy every sat (video)
-208674834706735104	GS:positive	neutral	got the new job i'll b leaving for ohio june 18th
-238719768012652544	GS:neutral	positive	 only going on friday, pulled apart by horses, band of skulls, eagles of death metal, joy formidable, mark lanegan...
-235776554347683840	GS:neutral	negative	just eating a giant slab of vanilla fudge to distract from results day tomorrow
-253036986577866752	GS:positive	neutral	shooting psychobilly band nekromantix at the hi-fi this friday, and i have a +1 available. if you wanna see them for free, lemme know :)
-215069653431623680	GS:neutral	positive	just found out  's adaptation of my 2nd favourite film the ladykillers is coming to edinburgh in the autumn
-248985462885187586	GS:negative	neutral	for the 3rd year in a row,i total spaced and missed international talk like a pirate day...argh
-280277199167315968	GS:positive	neutral	 mehdi hasan just aced it on the sunday politics.
-261578919541612544	GS:negative	positive	wow! just heard awful news emanuel steward died, rest in peace to one of the truly great trainers of all time. you'll be missed sat nights
-243088464411770881	GS:positive	neutral	circoloco lineup next monday has just made my day
-222443478532104192	GS:neutral	negative	tomorrow's barbarians game at west harrow has been postponed due to the weather.
-201197725176430592	GS:neutral	positive	see you tomorrow, uc davis. see you tomorrow. (1pm at the whole earth festival)
-233580790976487424	GS:positive	negative	 miss ya to buddy &lt;3 what you saying monday night ? down for the kee wtb #hollaatme
-222355986814468098	GS:neutral	positive	bradley wiggins with a itt fitting a maillot jaune. british 1-2 for the stage. also a team sky 1-2. spartacus in 3rd.
-277628584032600064	GS:neutral	positive	seeing  tomorrow for the #letitshow in wilkes-barre at the kirby center with some friends!!! :) see you tomorrow cody! :*
-207984862102171649	GS:positive	neutral	since the live at phoenix comicon went well, producer-san, cameraman-san, and i are partying tomorrow.
-225242054349950976	GS:positive	neutral	to my dc friends! saturday is the living earth festival including an organic farmer's market, native american... 
-238317053679906816	GS:negative	neutral	you could almost hear the arteries clogging. icymi, latest report details unhealthy #s at the san diego county fair 
-282516520049983488	GS:neutral	negative	the graduate  and janee no wait renee or danee or was it shanee no it may be lanee *shrugs* 
-256151834199212033	GS:neutral	positive	nearly mid-october...best dust off the old misfits, nekromantix and nerve agents mp3's ready for their token halloween week listening #ghoul
-242583623218393088	GS:neutral	negative	 gonna be in croatia on wednesday but i don't think we will be near hvar until monday. how long you gonna be there?
-248602585894907904	GS:negative	neutral	 now you know how i feel when i was at riot fest.  wait until you feel your knees and ankles tomorrow. xp
-227162226841251840	GS:neutral	negative	one hour til kickoff v  in long island. w/thursday's unfortunate forfeit, red stars are playing for 3rd/4th place in the standings.
-216060712433352705	GS:neutral	negative	i have to wake up at 7 tomorrow. i gotta be at the pomona fairplex by 9:45
-226374848648183808	GS:neutral	negative	registration for youth soccer has been extended to july 29th.  if you haven't registered and are still interested... 
-207372999882588160	GS:positive	neutral	phoenix comicon: a rhyn comic?: i had a blast at the phoenix comicon. it ended sunday evening then we drove home... 
-256456563903045632	GS:neutral	positive	my mommy daughter date to carrie underwood! shelli went too with her friend! my 5th time s  @ maverik center 
-274267305851121665	GS:neutral	positive	i just removed kenny lofton from my hall of fame vote. taking his place: todd walker. the slightly better-than-average 2nd baseman.
-266298257666355202	GS:positive	neutral	we are collecting halloween candy thru 4pm tomorrow - anybody else want to bring candy to donte to our troops and... 
-217613407287918592	GS:positive	neutral	eldora speedway - new weston, oh - saturday, june 30th - who is coming to get the $5000? lee cooper, max blair,... 
-262761733909774338	GS:positive	negative	i just want friday to get here already! i'm buying resident evil operation raccoon city! ;d
-200937035043848192	GS:positive	neutral	did you know that over half our workforce are nursing staff (57%).  we'll be celebrating 3377 of them tomorrow on nurses day #ind2012
-228667723956252672	GS:neutral	positive	watchin the espy awards re-run since i missed over 1/2 the 1st airing.. i know brittany griner go so much pussy tht nite after she won lmao
-224165619690520576	GS:positive	neutral	the netherlands came out 2nd in the 4x100 relay at the london grand prix.  #wedoinggood
-254314417527865345	GS:neutral	positive	psst... here's the latest... the fashion show starts tomorrow at 1:30pm featuring splash dance, lullaby, &amp; yodephy! #buzz
-278085010538504192	GS:positive	neutral	watching crossfire hurricane with my dad. what a monday night!
-247555150913339394	GS:positive	neutral	polish festival starts later today &amp; goes until sat. in de. so if you want to try polish beer this is the place.... 
-233156450803929088	GS:neutral	negative	 morgan may be next face of us women's soccer: they just didn't know who her opponent w...  youth soccer
-273481588208193536	GS:positive	neutral	taking it down to the wire with deciding how to interview dr bill sysak out at stone brewing tomorrow. i want to... 
-225321544572874753	GS:positive	neutral	new hqs!  chanel iman arrives at the 2012 espy awards, la, july 11 2012 
-271237176832974849	GS:positive	neutral	obama will be the 2nd biggest person to stay in lough erne golf resort after bert mccormick #fact #cantgetitcantbegot
-230016164988874753	GS:neutral	positive	got 2nd row tix for primus at the kirby center! 1st concert tour in 3d with surround sound!
-208492592919363584	GS:neutral	positive	we've got 2 tickets remaining for the wales v barbarians game tomorrow. call 01792 616500 if you're interested in snapping up the final 2...
-245166027732815872	GS:positive	neutral	interested in joining team ymca strong kids in the rum runners relay on sept 29 from hfx to lunenburg? for info email leslie_tinkham
-227511394092867585	GS:neutral	positive	 finally replying! in brac at the moment, moving onto hvar wed , den dubrovnik fri, and fly home monday!
-271997775552585728	GS:neutral	positive	everyone's out black friday shopping talking about what deals they got and i'm just over here like ""hey i'm eating thanksgiving leftovers!"".
-283380269778624512	GS:negative	positive	i just want to lay in the sun &amp; mojitos all day. i'm kinda f*cking ready to retire from the f*cking rat race. to waikiki: me &amp; danny elfman.
-259806650993610753	GS:neutral	negative	 if a zombie apocalypse happened then raccoon city would be a reality. (you may have to watch of the resident evil movies.)
-229805347597086720	GS:positive	neutral	my magic cell phone just said ""espn sportscenter - watch the 20th annual espy awards on espn"" ... i'7m0bv
-278205330272440320	GS:positive	neutral	let it snow #winter #switzerland #monday #cold @ interlaken 
-252593054840664064	GS:positive	neutral	nekromantix with blazin' entrails tomorrow night @ the rosemount. make it if you can! 
-278607306676129792	GS:positive	neutral	 relax, you can now concentrate on finishing 4th and which one of wilshere, carzorla or vermalen you want to sell to city.
-229295427822968832	GS:neutral	negative	we're in hostile territory with these wny flash fans. 2nd half of overtime about to begin...red stars kicking off.
-202937251410358272	GS:neutral	negative	ain't got a drug problem but a love problem, but then again that may be one in the same.   _de la soul
-248196560276570113	GS:positive	neutral	anyone want to go to riot fest on saturday with me? please? it is a free ticket.
-261298790265401344	GS:positive	negative	i can't wait until tomorrow, when i can watch the pll halloween episode without shame or guilt.
-247095985900253185	GS:positive	neutral	jimmy mcgovern's hillsborough on itv3  wish they'd show it nationwide on itv at 9pm tomorrow. the nation would see it with new eyes
-245552113445392384	GS:neutral	positive	be prepared to serve the baby boom market! some homeowners in this segment may be unearthing buried plans to... 
-241833098688475136	GS:positive	neutral	tina, mustard and pudding are climbing mount snowdon tomorrow to raise funds for the pet welfare alliance. your... 
-267567128230645760	GS:neutral	positive	watching scouts, airforce &amp; army , st. john's ambulance &amp; police march through lichfield for a remembrance service at the cathedral v proud.
-222344393095516160	GS:positive	neutral	 i may have to do that. :) did you see my disney pics from star wars weekends?
-235048139713826817	GS:negative	positive	lol rt fact that almost all the""styled to rock"" candidates are on twitter  who's ready for stalking?they may spoiled a lot?
-236806740535021568	GS:neutral	positive	have you seen the 1st episode of ""styled to rock"", the fashion talent produced by rihanna, dedicated to kanye... 
-257736365620490240	GS:neutral	negative	post i wrote on mehdi hasan and abortion - wondering just what, precisely, he may have been expecting... 
-222620941874769921	GS:positive	negative	watching  makes me want to go back to italy so badly... may have to settle for digging out antonio carluccio's book tho!
-223062243665903618	GS:negative	positive	typical that when the great yorkshire show gets cancelled the sun comes out. oh well. that's england for you.
-268071063638908928	GS:positive	negative	sucks that i left warners after they sign one of the hottest uk artists   can't wait to see her live in march! #liannerocks
-261388841984860160	GS:neutral	positive	blackpool illuminations are the the biggest temporary light show in the world. this is between 31 august - 4... 
-274148488705613824	GS:positive	neutral	friday get out of the cold &amp; join us at rum runners in dennisport, 9pm. then bundle up saturday and join george &amp;... 
-261068657814278145	GS:positive	neutral	threshold's new video for ""staring at the sun"", which was selected from a fan video contest. 
-267340243856932864	GS:positive	negative	i wrote my espy awards speech in 12th grade, i still  plan on using this in the future...
-264056008949760000	GS:neutral	positive	on monday, november 5th, 2012 rndm will be performing on late night with jimmy fallon :) 
-238663527441764352	GS:positive	negative	news just in - eagles of death metal will present rocknroll bingo next wednesday, aug 29th. not only that but... 
-254226280134873089	GS:positive	neutral	geekery: just learned about the tim burton &amp; danny elfman 25th anniversary music box set. now if only i could... 
-223719258323042304	GS:neutral	negative	mehdi hasan thinks even left wingers offend muslims now  but it may be left wingers more not even 
-222931884588539905	GS:neutral	positive	would you adam &amp; eve it, sun out morning after they've cancelled great yorkshire show #harrogate
-262664703354994688	GS:positive	neutral	have an extra ticket to see rndm on saturday in d.c. anyone want in?
-237639571771359232	GS:neutral	positive	i'm going to citizens for public schools, inc. - jonathan kozol 30th anniversary cps lecture #event  - go signup!
-218813946457632769	GS:neutral	positive	come to the gin mill for july 4th! food &amp; drink specials all week!... 
-253861555702226944	GS:positive	neutral	don't forget it is youth soccer make up game tonight (oct 4th) at the enterprise elementary school field. check... 
-285742331217469440	GS:positive	neutral	we may be next to last in time zones, but we're first in the summer olympics, and we all know that's what really matters.
-260879875710259203	GS:positive	neutral	big weekend ahead at maverik center friday and saturday at 7. oktoberfest specials. saturday is angel's hands night with cowbell giveaway!
-211472894730047488	GS:neutral	positive	jump in your car now!  tomorrow is the last day for star wars weekends!
-247327306731892736	GS:negative	neutral	at the hotel room in dannok, thailand... so tired for a long trip last friday night and shopping at hat yai yesterday...!!!
-281317077623635968	GS:neutral	positive	 the friday we got off of thanksgiving break
-271451358480199680	GS:neutral	positive	i wonder what my mom would say i i asked her about going to grand bend for may 24
-267748098678341632	GS:positive	neutral	saturday nov 24th fm kirby center in wilkes-barre,pa...hope to see you there... 
-213619972830806018	GS:positive	neutral	#ngsgigpick just had a special moment, a duet between  &amp;  on the 1st night of mr hugo race's australian tour.
-250682998461169664	GS:neutral	negative	 lil sis is going to bed late as she has an inset day tomorrow and wants to watch styled to rock, not got the same ring to it x
-248582268258508800	GS:neutral	positive	in honor of september 19th, international talk like a pirate day... #whyistherumgone ...because of me. i am why the rum is gone.
-267739000037580801	GS:negative	neutral	 the falcons need to cut out late night college tweets and go to bed on sat nights
-230668484927975425	GS:neutral	positive	 4th oar concert of 2012 tonight at art park! 2 ladies want hooked up with vip &amp; a hey girl! traveled from philly 4 this!
-261174118748143617	GS:positive	neutral	 look up riot fest in chicago in may. lets pregame hard and go to it
-223805575371300865	GS:positive	neutral	20th anniversary with the guy who digs i wanna go to soundset tomorrow and the tattoo ive designed.
-253634407779426304	GS:neutral	negative	 are you in the land of my fathers*?  (*just the one father. ignore what you may have read of liverpudlian sexual mores)
-282404203257810944	GS:neutral	positive	danee is going to turn 13 tomorrow....omg i tot she's going to turn 15! i tot it'll only took her 2 yrs to properly join sexy luv dance.
-255028305537941504	GS:neutral	positive	 were going to grand bend tomorrow, and my mom said i should invite you but idk if youd wanna come hhaa!
-227423607909916674	GS:neutral	positive	check out some recently tagged photos of art from the san diego county fair (del mar fairgrounds), all thanks to... 
-248991086473781248	GS:neutral	positive	stone brewing is mow just a stone's throw from the del mar station.  welcome to old pas' 
-249176873714741248	GS:positive	neutral	also, making my plea for  to play until the day at riot fest tomorrow, wasnt in the set last night, really wanna hear it live
-280465395515805696	GS:neutral	positive	tomorrow is international talk like a pirate day. have i left it too late to become fluent in somali?  #topsomalianlies
-255347614676033536	GS:positive	neutral	ready to rock out this thursday w/ ben sollee and the marshall tucker band at the 2012 vp debate festival at... 
-229889524640149504	GS:neutral	positive	you may have heard threshold's media comments about banks seeking rent directly from tenants. please contact us for advice if it affects you
-247549575408263168	GS:neutral	positive	stayed in grand bend and watched the sun go down
-263341688460808192	GS:neutral	positive	shane stewart made an overnight trip to the eldora speedway wear he grabbed is 18th win of the season on sunday! 
-227459438393581569	GS:neutral	positive	on this day kast year: the 2nd team beat lechlade 2s by 8 wickets, ayman mohammed starring with 4 wickets and 49 not out.
-269276548224405504	GS:negative	positive	people putting these twilight movie tickets on instagram like they just purchased some 1st row &amp; backstage passes to the hot jam.
-231204947990020097	GS:positive	neutral	there is still time to get over to the gin mill in northampton-week 6 qualifying round thursday night!  and facebook!
-224141614371717122	GS:positive	neutral	come see us tonight at eldora speedway for the 29th annual kings royal!  this afternoon starting at 2:30 p.m. is... 
-282212919763152897	GS:positive	negative	i don't know about you guys, but i was ready for this break on sunday of thanksgiving break.
-248128789832413184	GS:neutral	positive	 riot fest fans hear every kind of rock under the sun - chicago sun-times: 
-276448267678662656	GS:negative	positive	if the snow prevents me from seeing runrig tomorrow i'll be really annoyed, i've been waiting all year!
-196206481463443456	GS:positive	neutral	de la soul the 25th of july in amsterdam! ah i wanna get my dela dunks signed!
-251259396158545921	GS:positive	neutral	all prep for the future. bookin up for the uk 70.3 ironman in june, then plannin on doin the ironman wales. dependingon race commitments ofc
-194247273985736708	GS:negative	positive	 you better be using a raincoat or an umbrella rack, or kiryu's finest may throw you into prison for life!
-228999458774462465	GS:neutral	positive	a 435-pound woman struggles with the hard work and commitment needed to get healthy on #emwl, abc sunday at 9pm
-264862141494996992	GS:positive	neutral	get out the candy (and a toothbrush) for my saturday morning roundup on ways to use halloween candy! 
-244565393505677312	GS:neutral	positive	pink floyd night at creative alliance tonight!  no lazer light show, just 5th l, ellen cherry, members of the... 
-208293017143083009	GS:negative	neutral	the 80yr old woman arrested for streaking at the chelsea flower show had on 1st prize in the dried bush arrangement.
-271413573346013184	GS:positive	neutral	mitchie from the 1st camp rock #legendary
-267356999916851200	GS:positive	neutral	big day sunday - christchurch park at 1045am for the remembrance  service - we will remember, ipswich will remember
-256082045883805696	GS:positive	neutral	clear the day this saturday pepper, i'm going to kiryu.
-253262768084500480	GS:neutral	negative	bionic commando, dark void, devil may cry 4, resident evil 5, 6 &amp; op raccoon city, lost planet 2, asura's wrath, the proof is there.
-214770113763753984	GS:neutral	positive	#ayowaka  you did ya thing at hot jam in hartford, ct. last monday #bsm #tripleflife #squaaaadddd!!!!!!
-207155807417155585	GS:neutral	positive	the ladykillers is to play the theatre royal in glasgow after a critically acclaimed run in the west end. it will open on 19 nov.
-285572776562130944	GS:positive	neutral	#mywishin2013 to get tickets to see 1d @ the maverik center in utah on july 25th(:
-273491020510003200	GS:positive	neutral	 falkirk sounds class my man! fri or sat? edinburgh derby on sunday, fancy it? might have a spare ticket #singlelad
-200805954479063040	GS:positive	neutral	 i thought i'd go to 17 rehearsals, and squeeze in abc sunday live with rebecca chan and kristian chong.
-225260520272445440	GS:positive	negative	this saturday night  binghamton ny at the legion is going to be pure insanity #bingofansrock
-265545283155398656	GS:positive	negative	i may never become first horse, but i tore london a new one at the summer olympics, and no one can ever take that away from me. #teamusa
-277402294549610496	GS:positive	neutral	the ladykillers has just come on...that's all plans for saturday afternoon cancelled then  #getglue #theladykillers
-264473521600745472	GS:positive	neutral	did you guys see a guest appearance by mitchie on the x factor wednesday?  is always on her a game
-226878583216422912	GS:positive	neutral	when the boys come to ohio june 18 2013, if they play at cedar point, i will piss myself.
-282314857976565760	GS:neutral	negative	 lol saw the 1st over thanksgiving break, watched the 2nd a few hours ago. but the 3rd...ain't that with denzel?
-275198202972606464	GS:positive	neutral	on the train to the capital for the edinburgh derby. c'mon the #hearts #believe  #hmfc  #theprideofedinburgh  #heartofmidlothian
-263603901603913728	GS:positive	neutral	team ck vs demolition on november 17th at the american legion post 80, main st. in binghamton ny. get your tickets now! 
-270075282059304960	GS:positive	neutral	 so, who's going to see the stones in crossfire hurricane tomorrow night at  #firstlightmaui  i want to!
-220805333277343744	GS:positive	neutral	roskilde festival starts today.tomorrow jakob bro+thomas knak will introduce their music ""bro/knak"" live for the first time 
-259856825690767362	GS:positive	negative	pepper &amp;  are nuckin' futs' but i wouldn't want to spend my sat nights with anyone else! lol #illbringabottlenexttime!
-212378807427022850	GS:neutral	negative	why would they have hot jam on a school night ? they usually do it on a friday or something .
-222804993923760128	GS:neutral	positive	limaland motorsports park tomorrow night to watch the woo light it up.. then heading to eldora speedway for the... 
-226619018763698176	GS:neutral	negative	 sunday's stage is one for sprinters - who will be way down the classification so no threat to maillot jaune.
-233959516612489216	GS:positive	neutral	 wooooooop! we're in bol, a little island it's peng! going to hvar tomorrow for a night though cos its nutty there! how's brella?
-241033557835907074	GS:positive	negative	i still want my vanilla fudge ima get some tomorrow i was really craving that all day .
-217802512474963970	GS:neutral	positive	every june 13th is matt cain day. mayor ed lee is goofy, but he got that right. and all my future votes.
-272276726510391296	GS:positive	neutral	new at forum: ferry from dubrovnik to hvar: hallo, we want to travel from dubrovnik to hvar on sunday 1...  #croatia
-212006139779485697	GS:neutral	positive	cool out mondays goes down tomorrow night at the gin mill... 10-2 grown folks only!! 
-278938752271908864	GS:positive	neutral	it's wednesday, you know what that means... new batman! 
-271839017262272512	GS:positive	neutral	i have a spare ticket for the warners at the bay beer festival on sunday, anyone want it?
-279773071068520448	GS:positive	neutral	still got halloween candy?: you may be priding yourself on the fact that there's still halloween candy h... 
-273120398638448641	GS:negative	neutral	danny grainger is out of the edinburgh derby on sunday
-255162226833494016	GS:neutral	positive	watching jiujitsu matches all day long,  getting ready for sunday!
-285844246446092289	GS:positive	neutral	i think i may have a slight (um maybe a severe) addiction to the vanilla fudge quality streets. they're irresistable
-238370128163639296	GS:positive	neutral	 haha! and nope, just know i have to go in wednesday and enrole and stuff. do you?
-240189143831953408	GS:positive	negative	sunday bests: pabh, band of skulls, eagles of death metal, 2:54, the horrors, me first and the gimme gimmes and less than jake.
-238978919255117824	GS:neutral	positive	the crown inn, lechlade summer beer festival starts tonight!  &amp; don't miss lechlade cricket club big car boot sale on monday at 1pm
-256500849684131840	GS:neutral	positive	and you're all just going to have to accept the fact that i'll be slipping in and out of the liverpudlian accent tomorrow ok okay
-251592462915743744	GS:positive	negative	#80s #move alert: start your friday with a bang... no a boom, ""baby boom"" is on  family in 5min. 
-238557845359038465	GS:neutral	positive	 and you were played on styled to rock on tuesday night :-)x
-282548272025976832	GS:positive	negative	 can. i keep in my perut k?  btw you should come to hat yai fri-sun short getaway. not bad y'know
-240427760684785666	GS:positive	neutral	finally made it back from french storms to luton sun. and in time not just for acting debut 9pm but jimmy mcgovern on  215pm
-249443511684964352	GS:negative	neutral	ego still bruised after poor day of racing @ ironman wales on sunday. one more rest day then i think i should start doing something about it
-248476427295522816	GS:positive	negative	almost recovered from riot fest.... sunday night ended righteously eating vegan pizza with iggy and the stooges at their trailer!
-205875841291386880	GS:positive	neutral	copper river salmon, quinoa, roasted beets, and #thebigsalad. thursday is the new saturday.
-220337267171016706	GS:positive	neutral	doom metal legends sun o))) have announced an australian tour for this october with ""post-everything"" act  
-211201718065696770	GS:neutral	negative	a 355-pound woman works to lose weight so she can start a family on #emwl, abc sunday at 9pm
-252937310415491073	GS:neutral	negative	 ok i found it. so i just kinda remembered that i won't be here tomorrow so. i guess we can finish it and then talk to maite
-253040071102562304	GS:positive	negative	don't forget to sign up for our right to offend debate with david aaronovitch &amp; mehdi hasan next thursday 
-222783125334409216	GS:negative	positive	we were going to go to the great yorkshire show on thurs. for hub's bday. it got cancelled. he is v sad.
-256719079967170560	GS:neutral	negative	in here on beasts of the southern wild, the campaign, resident evil: retribution, warners' crime does not pay dvds: 
-276791630412017666	GS:positive	neutral	nekromantix, the black rose phantoms, the spoofs and clownvis will be performing at the house of blues on dec 21! i got 4 free tix! lets go!
-226017856897290240	GS:positive	neutral	if anybody's in the lechlade area on sunday lunch time come and watch my band et al play at the riverfolk festival. 
-200967250180710400	GS:positive	neutral	nurses day is may 12. can you guess why? hint: famous nurse's bday. 
-209021367415341057	GS:negative	neutral	#afailedtextfromtoday ""you going to soundset?""-name withheld. ""uh, soundset was last sunday....""   ahahahaha
-255046239387799552	GS:positive	neutral	sunday november 11 join me in st petersburg for the faerie and earth festival.  i will be painting live all day.... 
-230297841619308544	GS:negative	positive	 i will be so dead after the 1st 4 days lol it will be like born - kiryu - kiryu - born - dead. xd
-203958250952065025	GS:positive	neutral	just 2 more days until copper river salmon is here! arriving monday to the market.
-277161618918498305	GS:neutral	positive	it's saturday in the bay and  our shop is open from 10am till 2pm. our amazing intern, melissa is @ art park 
-230996453030522880	GS:neutral	positive	fall youth soccer begins august 13th! have you registered yet? plus, new soccer skills nights! 
-251514112461393920	GS:neutral	positive	the only thing people get out of u.s history in 10th grade is the baby boom
-248791875090251776	GS:neutral	positive	since yesterday was the 10th anniversary of the worldwide celebration of international talk like a pirate day.... 
-205741601098698752	GS:positive	neutral	 manchester, just seen de la soul are playing the sunday as well. the lineup is quality.
-264771132123652096	GS:positive	neutral	historic moment for binghamton ny the sun came out
-274154883479904257	GS:neutral	positive	 nicole r, jov, two capistranos, kait, me, danee, tuesday, and more... not sure of the others
-248384105312575488	GS:neutral	positive	our rock star speakers for the sept 27th  in grand bend are     
-248563158942371840	GS:neutral	positive	for international talk like a pirate day (september 19th) representing the kitties! 
-254261683210551296	GS:negative	positive	dad's going to hat yai tomorrow. waaaaa. cant see him for the next 4 days. hmm.
-227696408642338816	GS:negative	positive	just like the 2nd coming, am moving creepy - hot jam
-266627464032309248	GS:positive	neutral	5th grade alps students encouraged their peers to donate halloween candy for the halloween candy buy back... 
-212304656951558144	GS:neutral	positive	hot jam with melissa and our 4th row seats !
-223949638980468736	GS:neutral	positive	we're talking #breakingpointe this tuesday 6 pm pst with ballet west dance allison debonna. join the tweet chat right here! #dance #ballet
-223499822487977985	GS:neutral	positive	tomorrow we'll be at eldora speedway!  did you know... this 1/2 mile clay track, is known as 'the big e' and can... 
-267107448106663936	GS:positive	negative	when i get to my cousins tomorrow i'm going ape shit on their halloween candy eating all the reese. xd
-221860397123256321	GS:positive	neutral	  i mean 6th to 2nd of course ... 2nd to maillot jaune tonight !!! go cadel !!!
-254283169216491520	GS:positive	negative	interlaken kissed by the sun. taste them saturday 
-261915901539012608	GS:positive	neutral	 after sat nights game on whk 1420,  is on with us, plus we have tickets to the next home game to give away! rt?
-223365454452891649	GS:negative	positive	your plans of attending the great yorkshire show may have been washed out because of the weather, so how about... 
-251929084983119872	GS:neutral	negative	 they are coming to my area this sunday, there is a signing too. i just saw them @ riot fest. i was shocked to see they were
-212138200385331201	GS:neutral	positive	by the end of today i will have worked 14hrs, done my workout and attended part of hot jam. hitting the ground running this monday.
-259428663123132416	GS:positive	neutral	lance dehm racing qualified 11th of 130 cars at the ump fall nationals hosted at eldora speedway. click here for photos 
-276021073219313665	GS:neutral	positive	danny elfman's score for ""the silver linings playbook"" just may be the oddest but most intriguing score he's composed since ""sleepy hollow"".
-240537177589694464	GS:positive	negative	don't miss author jonathan kozol's event @ the union square b&amp;n tomorrow, 8/29 @ 7pm! click the link for more info: 
-269939101669666817	GS:neutral	positive	looking for ladies to travel to the everglades and key west in february!  warm weather and rum runners.....
-278964993221861377	GS:neutral	negative	 i just googled it haha catelynn and tyler met first and butch and april have been married but they got divorced
-239496123524468736	GS:neutral	positive	jonathan kozol is the leading author on educational advocacy and social equality. he will be on campus wednesday,... 
-259956585646940161	GS:negative	neutral	pro tip: don't attempt to visit the blackpool illuminations in a car on the first saturday evening of school half-term holidays. gridlock.
-248138444176510977	GS:positive	neutral	wanna see stars this friday? check out the red stars we have coming in! 
-235851888350867456	GS:neutral	negative	now we know why all those hibs fans didn't show up for the edinburgh derby on sunday, they were saving their money to boo ian black tonight.
-210378118865756160	GS:neutral	positive	it's a wednesday girls night out as '90's band wilson phillips fills the winspear opera house with their brand of top 40 joy at 8p....
-224195559131590657	GS:neutral	positive	#youknowyourefromsandiego when you call the "" san diego county fair "" the del mar fair . or just straight up del mar (:
-249529842456993792	GS:neutral	positive	 alright pricey! how you doing, got a round in lough erne next friday! #needmoreballs
-282112185629560832	GS:positive	negative	 same here in detroit. come out to gin mill on saturday if you're bored. mark's in town too. we're going to partay...
-210147838888378368	GS:neutral	negative	 hi, the police put me away from rock im park on sunday. can we talk about the system behind such mega-organization like rip.
-215976014470328321	GS:positive	negative	i really want for there to be bball on sunday.  and not just mysa
-282195564756627456	GS:positive	neutral	very heavy band of snow just w of grand bend likely close to 0 visibility and may drop a fast 5-8 cm of snow.  #onstorm
-212937769637527552	GS:neutral	positive	blaze of glory... the bon jovi experience performs live at concerts in the park this saturday, 6/16! what's your favorite bon jovi song?
-261845866229399552	GS:negative	neutral	rndm has a beef with music videos debut album ""acts"" out on oct 30, 2012 
-277275461455843329	GS:neutral	negative	this is going to be my 2nd time going to the pomona fairplex cause of warped tour ooo
-277300959774900225	GS:neutral	negative	 really because on my phone it says i messaged you nov. 21 the first night of  thanksgiving break #fact
-250478345924513792	GS:negative	positive	nothing better to do on a monday night than watch the 1995 miss teen usa pageant...  
-236574399443128320	GS:neutral	positive	lough erne done, serious course, great driving on the 6th  all to play for tomorrow in concra woods #ballinacup2012
-260538354494492672	GS:neutral	negative	kenny lofton threw out the ceremonial 1st pitch tonight. who hasnt that guy been to the post seasonw itih
-206125762443620352	GS:positive	neutral	special from tim brown only tonight and saturday!!! copper river salmon (available only for 3-4 weeks a year) 
-256216762150973440	GS:positive	neutral	everyone in the summersville area come watch our game tomorrow at nicholas county!!
-220499197567311875	GS:positive	neutral	working san diego county fair's main parking lot on 4th of july for the first time... challenge accepted...
-254003137038409729	GS:neutral	positive	at the creative alliance for the 1st time to see a screening of directing dissent about john roemer. full from mathews pizza. #datenight
-274244407673364480	GS:neutral	positive	kenny lofton, sandy alomar jr. make 1st hall of fame ballot appearance 
-264321390801457152	GS:positive	neutral	although the rain is falling, the sun is always shining at cheddar, almondsbury and lechlade! what is everyone up to today?
-243775118323634176	GS:positive	neutral	 painting the liverpudlian town red on saturday night anyone? i know i am!!!
-225518980587204608	GS:positive	neutral	soundset was a war between human beings and the sun but i think we won tho
-209366066508480513	GS:positive	neutral	found it! evanescence live @ rock im park in germany - were to have streamed live today, but they performed on friday.  
-237999067286876160	GS:neutral	positive	we have 15 minutes left until the 2nd episode of styled to rock. #uknavi #rihannanavy
-239702462540427264	GS:neutral	positive	just watched pulled apart by horses &amp; band of skulls, &amp; am about to see eagles of death metal! 19th birthday shenanigans 
-249558271244001280	GS:negative	positive	ironman wales highlights on channel 4 tomorrow morning at 6.35am. i hope there's no footage of me being sick on the run!
-199291517611945985	GS:positive	neutral	 absolutely bro!! comin back to ohio june 5th - slumber party in the living room at tnation?!
-257736613726134272	GS:positive	negative	eagles of death metal definitely get you going on a monday morning.
-262495488060837888	GS:neutral	negative	mehdi hasan will be debating the issue of drones on sunday live in a few minutes
-249034686142238721	GS:positive	neutral	this weekend is the polish festival, and the firefly party at tfaw. all that stands in the way is friday.
-224597954634334209	GS:positive	neutral	playing a scramble event at knollwood tomorrow, let's see how the ""steady eddy"" will hold...
-245925978394742784	GS:neutral	positive	hvar has been pretty fun. tomorrow is the last day. then back to life as we know it 
-251380740133113856	GS:negative	neutral	arr! last wednesday, on international talk like a pirate day, some pirates invaded mobius for a day of pirate science! 
-241248999686959104	GS:positive	negative	 don't miss jonathan kozol, author of ""fire in the ashes"" sept 11  college 7pm discussing public school issues #educators
-246024783735701505	GS:neutral	positive	game on! will be the theme for the 2013 san diego county fair  via 
-281269284217421824	GS:positive	neutral	watching nightmare before christmas for the first time in a long time. it holds up but i may be biased cause danny elfman sings the songs.
-269569441233260544	GS:neutral	negative	if you don't have your tickets to tomorrow nights eric church concert at the maverik center then get them now,... 
-229734594646257664	GS:neutral	positive	 then ur not watching. was in every show, every night, every day last week except for friday. took vacation to host miss teen usa
-242755217949618176	GS:positive	negative	who wants to go with me to see liza in november at the kirby center????  it's liza. fucking. minnelli.
-275682085975515136	GS:negative	neutral	i made the leftover halloween candy last until december 3? i . . . i don't know who i am anymore.
-249776785586266112	GS:neutral	positive	day 19 sat in hvar with 30degree sunshine and countless beaches, but would rather be at home watchin super sunday, find me a bar #unmissable
-273511478575902720	GS:neutral	negative	been listening to runrig and eddi reader on loop since i left scotland on sunday. think it means i miss home (&amp;poss have bad taste in music)
-280930653611102208	GS:positive	neutral	9 months from friday there is going to be another ginormous baby boom #callinit
-205494534598164480	GS:positive	neutral	  blake get ready for the wild girls in ohio june 15th hurry up!!!!
-267736825228050432	GS:negative	neutral	veteran day is tomorrow and i have a project due? o.o
-243174308720021504	GS:positive	neutral	nataaashaann where you been? don't forget about stratford weekend in grand bend aug 10 (it's free!) yn4j
-213063390413848576	GS:positive	neutral	shows next week close to home warren, ohio june 22nd i'm gonna rock the bang mode concert, rockapalooza jackson, michigan june 23rd
-259000572873670656	GS:positive	neutral	at the chevy youth soccer clinic on tues. a was too young to play but pretty stoked with his free shirt 
-249195751807258624	GS:neutral	positive	try the best wurst of portland at the polish festival: the 17th annual portland polish festival ...  #portlandevents
-229980031684845569	GS:neutral	positive	who watched the miss teen usa pageant this past saturday? tell us your favorite moments. did you think logan west would win the whole time?
-280349432145403904	GS:positive	neutral	-agent april is going with me to raccoon city. i bet carla got something in store for us... but im always ready to fight-
-257889614356951040	GS:neutral	negative	my piece on mehdi hasan &amp; abortion on  ""yes, being pro-life does make you less of a lefty"" 
-254829978829611008	GS:positive	neutral	ooh operation raccoon city is 19.99, i may pick that game up, if i have the strength to..man i gotta sleep earlier.
-264337685148221440	GS:neutral	positive	  what at par... you just miss me,admit it! :&gt; :)) but yeah danee, may umaasenso :p
-263444863629029376	GS:neutral	negative	it's already the home of the star tours attraction, it's where they hold star wars weekends every may, so why not? ...
-212295499422760962	GS:neutral	negative	why did they have to make hot jam on a monday?? don't they know ppl work during the week. #hotjam
-222780152176844801	GS:negative	positive	have tickets for great yorkshire show on thursday - very disappointed with this weather!
-242366703827312642	GS:neutral	positive	 upstate ny! near binghamton ny, idk if u know where that is!!!! haha! would u go saturday too if he is still there or no?!
-196382118669074432	GS:neutral	positive	just put the final book in the ""blaze of glory"" supehero trilogy to bed. sale date of october. mixed feelings but eager to see what's next!
-261503114778136577	GS:neutral	positive	just started an #fm13 game as hibs. beat hearts in the edinburgh derby in my 2nd match: 
-211222655607648257	GS:positive	neutral	mpg may soon be on cw's #breakingpoint! watch every thurs to go inside ballet west &amp; let us know on fb if you spotted us! 
-242855843341680640	GS:positive	neutral	just finished watching the 1st season of breaking pointe (new tv doc about ballet west) and was pleasantly surprised. what did you think?
-237966825076445185	GS:negative	neutral	 thursday night, didnt know we had to enrole during the 2nd year aswell?
-206517593366999041	GS:positive	neutral	hungry? 15% off your bill if you show your membership badge &amp; phoenix comicon program at majerle's bar &amp; grill - 2nd st. and washington ~sm
-221734306932981760	GS:positive	negative	vanilla fudge chunks omfg. you may come to me
-208667158585155584	GS:positive	negative	for those who may not know, rock im park streaming metallicas set live right now..! ""one"" just finished! -randy! 
-215130550913077250	GS:positive	neutral	free screening tonight! june 19 at 7:00pm in partnership with utah film center, ballet west invites you to a... 
-245103126997250048	GS:neutral	positive	   my mate  hit a hole in one on the 15th! what is ur best score around lough erne??
-255332955067662338	GS:positive	neutral	ladies and gents, come get your pictures taken friday and sat nights @ the penthouse on livernois!! new backdrops coming soon!!
-226344242023387136	GS:neutral	positive	at the semis of us national cups. red stars keeping the suspense down 0-1 in the 25th. c'mon stars! [pic]: 
-230752780283957250	GS:positive	neutral	stone brewing just got added to our list of brewers attending the 2nd ann riverside blues &amp; bbq! 
-254279844924366848	GS:neutral	positive	hope to see everyone at eldora speedway tomorrow for the full ump nationals event! this evenings events have been... 
-279065550917869568	GS:positive	negative	 bruh, thursday after thanksgiving break was beyond off the map! they set the standards high that night and i was sober
-285414294068281344	GS:positive	neutral	i may cover the eagles of death metal next.........because yeahhhh 
-201510970047205376	GS:positive	neutral	going to be heading out tomorrow to check out the earth festival in davis #imnotahippie
-246354879164055552	GS:positive	negative	jimmy mcgovern's 'hillsborough' airing again this sunday on itv3 for anyone that might want to see it.
-232249820620939264	GS:neutral	positive	y'all don't forget about my going away pool party! this saturday at knollwood at 3pm!
-268570438056169474	GS:neutral	positive	   can we go see catelynn &amp; tyler at msu on the 29th? its free :) #teenmom
-216330534517874689	GS:neutral	negative	in related news, there were no subs for the red stars to start the 2nd half. no lightning updates yet...
-192357215863185408	GS:neutral	positive	got fiends throwin up on themselves like willie beamon. any given sunday, gunplays optional. however a nigga want it like soul la soul.
-230461213316878337	GS:positive	neutral	seeing the nekromantix on thursday.. i shall wear mufe moulin rouge lipstick &amp; my pug jack-o-lantern necklace, all thanks to 
-242342720436314114	GS:neutral	positive	the $5.00 tickets for jonathan kozol are going fast!  last chance to buy at the oea center will be thursday,... 
-267540997049815040	GS:neutral	positive	getting ready to join 1st kilmacolm scout group at the remembrance service. vital that young people understand what today is about #iscout
-208736130407997441	GS:neutral	negative	barbarians 29 ireland xv 28 - highlights - the barbarians defeated ireland 29-28 with a last-gasp penalty on tuesday... 
-267473972046725120	GS:neutral	positive	veteran day program for dda on the 12th let us not forget the men of pow*mia and i want to thank all the soldiers for their service.
-281631479182815232	GS:positive	neutral	i'm going to play my cartoon suite as part of emf's ear to the earth festival at white box saturday 22 december 8pm. see you there!
-232536680719069184	GS:neutral	positive	dream big summer reading club ends tomorrow, august 7. this is the last day to turn in your book log for prizes!
-203485029085609984	GS:neutral	positive	and the filets!! 1st copper river salmon of the season! 
-198731186636464128	GS:neutral	positive	police woman -- blaze of glory ( 2nd season ) with don stroud:  
-249074748422774784	GS:neutral	positive	a love affair with alliums - vancouver sun: a love affair with alliumsvancouver sunat the chelsea flower show, w... 
-243748212136083456	GS:positive	neutral	anyone want to come to art park tomorrow after school with a few others ? if you do tweet me :)x
-254648776466247681	GS:positive	neutral	tuesday night the cw  network will be showing ""dr horrible's sing-a-long blog"". if you haven't seen it, you should!
-284745609116782592	GS:positive	negative	 yes . may she not make trouble in t-ara and danee too. she still young , like me -.-
-240074706265460737	GS:neutral	positive	saturday saw the 1st xi win and go joint top on points with lechlade. 2nds and 3rds both abandoned! #fb
-252997406805860352	GS:neutral	negative	proof you're older now than 1st time you saw ""baby boom"": you think, ""elizabeth shouldn't have been alone in that room"" and ""ooh, nice sofa""
-239457915927400450	GS:neutral	positive	make sure you buy tickets for mobtown moon preview at creative alliance on sat, sep 8 ! 
-268367467615768577	GS:negative	neutral	the 1st sentence i said at the til definitely wasnt in a liverpudlian accent and i definitly didnt have to keep it for the whole transaction
-221395250495758339	GS:neutral	positive	friday's dinner special: copper river salmon! seasoned, grilled salmon topped with lemon butter! served with... 
-255509090741133312	GS:positive	neutral	who wants to go with me to the bhc tomorrow to the meet &amp; greet with tyler &amp; catelynn from teen mom at 8?
-207523954305404928	GS:neutral	positive	now that soundset is over, producers, don't forget to have your beats submitted by june 13th for the ctb/mn project.
-219104414919700483	GS:positive	neutral	just announced! knollwood &amp; labatt's have teamed up for the 1st annual michelob open on wednesday july 11th @ the new course!
-279037009987764224	GS:neutral	positive	 oh, i like some jovi. just nothing since 'these days' or the sept. 11th benefit. blaze of glory is my jam.
-262606011007897600	GS:negative	neutral	if the pll halloween special aired this tues. instead of last tues., i would be even more creeped out considering the next day is halloween.
-248848594331922432	GS:neutral	negative	 no where yet i just moved back i gotta go enrole tomorrow but im about to go to grad connect.
-220954529938685952	GS:neutral	positive	fireworks finale at the 2012 san diego county fair at del mar.  video from my phone: 
-284011559372599296	GS:negative	neutral	if danny elfman, john williams &amp; walter murphy all died tomorrow, who would write all the film scores for hollywood?!
-220693380504616960	GS:neutral	positive	just left the fair! it was getting way too packed! #sandiegocountyfair #delmar #4th  @ san diego county fair 
-259280987089932288	GS:positive	neutral	for the 1st time in 30 years.  for your splendiferous entertainment.  arts in lechlade proudly presents an old... 
-256041867194548224	GS:negative	positive	supersonic, paul foot, boris in december, runrig, boring car stuff, turbonegro... going to be pretty broke for christmas! yay!
-266697489166520320	GS:neutral	positive	also monday night, eat at maverik center as we debut little italy at the back of the concourse with seating for 70 people. check it out!
-264433109209063424	GS:negative	neutral	having the ny marathon on sunday is like having a parade in raccoon city right after the t-virus went airborne.
-237563899162017793	GS:neutral	positive	resort monday coming up at the kee tonight: back to school girl theme! there will be a contest for the best dressed. 
-278626283615834113	GS:neutral	negative	  brad miss 5th pen, vermalen to draw and go sudden death! but he misses and bradford are thru! #capitalonecup #bantams
-282628582294056961	GS:positive	neutral	i want to go to grand bend for may 24
-194095822382710785	GS:positive	neutral	the tickets for the 2013 australian tour will be on sale on april 28th at 10am local time.
-256858334651641856	GS:positive	neutral	going to be listening to a combination of manran, skerryvore, runrig and the vatersay boys on our drive to inverness tomorrow. #teuchters
-279763785038823425	GS:positive	neutral	we're stoked to announce that our brothers in  have been added to the show on january 4th at rum runners.... 
-218987834273570816	GS:positive	neutral	1st team game looks set to be on with sunshine in lechlade
-271349446615396352	GS:neutral	negative	#broncos cb champ bailey didn't practice wednesday. not injured, was given a ""veteran day'' by the team.
-209360783367344131	GS:negative	neutral	lol, all the people on the facebook live chat on rock im park are real idiot's.  i explain them that evanscence have performed on friday...
-212652783587962880	GS:neutral	positive	end of an era.... i'm leaving hampstead theatre after 3.5 years at the end of august to go on tour as technical manager on the ladykillers!
-243595757796589570	GS:positive	neutral	 flying out on the 24th arrive at 4pm, straight to circoloco then cocoon heroes! #nomessing
-224599671274864640	GS:negative	neutral	if muslims like mehdi hasan are extremists, who are the moderates? the implicit, insidious message: there aren't any 
-194856853715419136	GS:positive	neutral	 kiryu made an appearance in sega's binary domain... i may have to play the game now...
-278353426096738306	GS:neutral	positive	check out this weeks the  scoop column looking back on sat nights win over the thunder!  #smashemsixers #bbl02
-244554484850782209	GS:neutral	negative	 where is it so that i may claim some? also, now that i live here, i should probably try and get together w/ you &amp; maite
-218666750038908928	GS:neutral	positive	good morning everyone after 4hrs of sleep we are back on the ""road to eldora""!! fastrak racing series at eldora speedway for $5k saturday!!
-252899683586953216	GS:negative	neutral	 looks like i'm going to do that 1st &amp; i have yet to play the re:operation raccoon city game its always out of stock on redbox
-259967532331593728	GS:neutral	negative	why would you not want to spend all sunday at a youth soccer turnament? mequon cup baby. (4100 w highland road 128n)
-235928791820689409	GS:neutral	positive	watching honey boo boo, gonna lay in the tanning bed, then try to sleep! summersville with  and  tomorrow(:
-276570693120954368	GS:positive	neutral	tim chaisson is heading out on an australian tour with his first stop in newcastle, nsw on the 13th. his new tour... 
-251423027403816961	GS:positive	neutral	driving from venice to interlaken. the sun peeks through the dark clouds   @ sustenpass 
-273496252799406080	GS:positive	neutral	yup just rsvp'd to see catelynn and tyler from teen mom on thursday... #noshame
-256412601414737920	GS:negative	neutral	i'm officially 2 for 2 with my friends getting kicked out of rum runners on their 21st
-245320812360527872	GS:positive	neutral	i graduate in november with my bachelors degree.  i think my present to myself is tickets to phoenix comicon and san diego comicon
-221693605310504960	GS:neutral	positive	genuine history in british sport. forget murray tomorrow, one british rider wins a mountain finish, another takes the maillot jaune.
-218852602077659137	GS:negative	neutral	on #afhv, abc sunday at 7pm - animals on the attack, weddings gone wrong, &amp; a girl's hair gets caught in an electric mixer.
-248570530079313921	GS:positive	neutral	i want to start ""international talk like a grunt day"" in honor of the 4 years i served in the us army infantry. every oct 3.
-274635468967116800	GS:positive	neutral	liverpudlian, david price defeats matt skelton in the 2nd round to defend his british &amp; commonweath heavyweight titles.
-261581524149874688	GS:positive	neutral	tomorrow i must watch the new pll halloween episode and watch the video for mcfly's new song.
-247130786803900416	GS:neutral	negative	the jimmy mcgovern doc just highlights everything that was released on wed 'do you think id protect people if i thought they'd kill me son?'
-279270610620801025	GS:neutral	positive	made a 96 on that paper that was due the monday after thanksgiving break!
-244938631188467712	GS:neutral	positive	 we are done for the rest if the day. tomorrow we will be in hollywood's art park for dinner
-282212219842883584	GS:positive	negative	 they released the retro fours bred during thanksgiving break on black friday. holy shit 4 bills they are 180 aren't they
-251953253313544192	GS:positive	neutral	avast, maties: international talk like a pirate day that's right, today's the day. the 10th anniversary no less. tim... 
-238399819218030592	GS:positive	neutral	 aye see. going to runrig on saturday up in inverness then going to knockhill on sunday!! x
-241457328736587776	GS:positive	neutral	have you been watching the accused? get ready for the final one (tues) which  wrote with jimmy mcgovern! 
-200285374717763584	GS:neutral	positive	  a de la soul  song you may have heard!
-235861426961514496	GS:neutral	negative	on 2nd thoughts let me watch the repeat show of styled to rock ! why am i not in this episode u get to design for kanye west cha :x
-254915700278304768	GS:positive	neutral	excitement for liverpool john moores next saturday, only going in search for males with liverpudlian accents
-260636221905195008	GS:positive	neutral	climbing mount snowdon on sunday for #childreninneed with 6 young people from a home....anyone want to sponsor me  
-245210641877577729	GS:neutral	negative	well, i guess this is the last monday i can blame gin mill for my hangover.
-208383241235873792	GS:positive	neutral	june 16th  s. wabash earth pearl collective presents ""earth festival"" from 2 -7pm. vendors vendors!! open to the public
-206574217297281024	GS:positive	neutral	 i wanna go to the pool tomorrowcome to knollwood
-225588752096051200	GS:negative	positive	i want to go for dance on friday but it seems like i can't because it's nurses day on that and we can't skip it! nuuu. hais.
-284029909049954305	GS:positive	neutral	on this day, 44 yrs ago, zeppelin played their 1st gig in north america as an opening act for vanilla fudge.  tix cost $5. #blewthemoffstage
-223121556405108737	GS:positive	neutral	tomorrow is the only pool part at night to b at with  and  splash dance 
-223427807194255360	GS:positive	negative	it was such a shame that the great yorkshire show was cancelled but we still really enjoyed tuesday and can't... 
-258228236817928192	GS:positive	neutral	 when u go through lechlade tomorrow, i'll be the one having the shoot out with the vicar!
-223077172703801344	GS:negative	positive	due to cancellation of the great yorkshire show, harrogate hwrc will now be open tomorrow. for more information visit 
-248007329658834944	GS:positive	negative	have you been inspired by ironman wales? why not give triathlon a go by taking part in the fishguard go tri on sunday. 
-216681277691142145	GS:negative	positive	falcao makes it 2-1 in the 26th minute. he is on the red team. i refuse to call them the red stars and black masters.
-248629508897398785	GS:negative	neutral	i am surprised the australian tour dates haven't sold out as fast as the ones from the pink friday tour
-276452052647948288	GS:neutral	positive	 i am going to the london grand prix on the saturday next year! might meet you there!!
-258465571136483328	GS:positive	neutral	defending the production of sustainable cotton for african countries:   interlaken 8 october 2012. mr. s...  #wcoc09
-217803712234663938	GS:positive	neutral	june 13 is now officially matt cain day every year in san francisco. i'm just hoping to someday have a wing place name a sauce after me
-280513332962795521	GS:neutral	positive	i've been waiting for winter break since the monday we came back from thanksgiving break!
-255415812670763008	GS:positive	neutral	whitey anderson was a thoroughly deserving winner of the nifwa manager of the month even before saturday. when will he walk lough erne?
-272002899805106176	GS:positive	negative	thanksgiving leftovers is the 2nd best part of thanksgiving .. why wouldn't i be mad
-217804327983661057	GS:neutral	positive	photo: matt cain accepts a key to the city and gets june 13th named for him! matt cain day!! (taken with... 
-240121232345948160	GS:positive	neutral	tomorrow at 9, i'll be fangirling over the tv show ""styled to rock"" which has fashion designing and  - omfg i'll be in heaven
-267610285525835777	GS:positive	negative	been to the #woking remembrance service - now out delivering in support of  for thursday's police and crime commissioner election
-270608611338760192	GS:negative	positive	 it's gonna be a lot of walking, running, and jumping on the tops of sticks.. may just want to get a gun and learn jiujitsu
-257307348371132417	GS:neutral	negative	starting off my sunday with resident evil operation raccoon city
-229397284352299009	GS:positive	negative	miss wv teen usa 1st runner up at miss teen usa! lets keep this fire burning with morgan at miss am. ot! #wv
-258131418650136576	GS:neutral	negative	i've not read mehdi hasan's article yet. when i do i may owe some people an apology. however, we need to keep in mind the role of religion.
-285854355373056000	GS:positive	neutral	if you are planning on attending phoenix comicon later in may, you'll want to get your discounted ticket today... 
-222411263374925825	GS:neutral	positive	i'm gonna start listening to metric now, so i can see them at bluesfest on the 15th.
-265351398592499712	GS:neutral	negative	  leave my ""vanilla fudge"" alone amigo. she misses her ""chocolate"". lol, meant to call you friday, but will do soon.
-282837639374180352	GS:neutral	positive	if you think your sleep patterns were off during thanksgiving break... wait until jan 2nd. 
-259629632981172224	GS:positive	negative	  will go near interlaken, don't be surprised if my pics tomorrow look familiar to you:-) region's super popular in bollywood:-)
-259354452669108224	GS:positive	neutral	to do list: kick of your saturday night right with ben sollee at u street music hall!    
-232867940800806912	GS:positive	neutral	fans come out to eldora speedway this saturday where you will be able to catch brad hess, matt westfall, and jeff... 
-268500640815276033	GS:positive	neutral	can you believe it's the 13th and i still have unopened bags of halloween candy???
-237677809156362240	GS:positive	negative	$1 daiquiris at rum runners tonight and i don't have class til 2 tomorrow..... yesssss!
-268411102218555392	GS:neutral	positive	reminder: the mobbies (which celebrate the area's best internet folk) are tomorrow night at creative alliance. 
-249384702455193601	GS:positive	negative	work hard, play hard. i'll see you busters at riot fest tomorrow #imastartariot
-233294953349001216	GS:positive	neutral	holidays in the eastern part of the peninsula, which incorporates hat yai and koh samui, are greatest carried out from december to june
-242593103356235776	GS:neutral	positive	found footage festival: hey, whatever happened to that vhs tape?... sunday, september 9th, the creative alliance... 
+520829332525441024	GS:negative	positive	saturday without leeds united is like sunday without a sunday dinner it doesn't feel normal at all (ryan)
+522931511323275264	GS:positive	neutral	catch rainbow valley at the  #imaf2014 gala. oct 26  
+523099837936312321	GS:positive	negative	 it doesn't really count, i was decorating a haunted house for a halloween program tomorrow...i get paid lots of overtime:-)
+522838326126989314	GS:neutral	negative	i wonder if billy joe armstrong (green day) gets woken up every october 1st. that joke would be funny the first time but prob get annoying.
+522958573685735425	GS:neutral	negative	i caught up on ahs i'm a have to do scandal and how to get away with murder tomorrow
+523087448264671233	GS:neutral	positive	my friday consists of netflix and hot tea allllllllll day long.
+522849555562242048	GS:positive	neutral	  just got back to ohio from la while i was there i saw a guy wearing your jersey on sun. and one at lax yesterday #leahstrong
+523082124812124161	GS:negative	neutral	 hi, was offered the 6 months free netflix last tuesday and was told it takes 5 days to receive a code but haven't got anything
+522976748162809856	GS:positive	negative	just watched the whole 2nd season of ahs in less then 24 hours. i'm not even ashamed.
+521058627759509506	GS:positive	neutral	blood moon returns early wednesday, and this time it's bigger 
+523095100373893120	GS:neutral	negative	martinez confirms he's in the 18 for tomorrow. ospina got banjaxed by that unpunished late foul against galatasaray.
+521791172701093888	GS:positive	neutral	football giants leeds united take on rotherham this friday at 7:30, be sure to be here to watch it. no doubt it will be a classic. #lufc
+523058491460943872	GS:neutral	positive	 jennifer lawrence touched down at lax on tuesday sporting a ""love"" pin on her purse. simple enough, but if you're ...
+523098781186007040	GS:negative	neutral	 trick or treat: wants georgia voters to forget she's a democrat and sam nunn's daughter until after halloween, oops nov 4
+522921926566887424	GS:positive	neutral	 i met you in lax in august i've been trying to get a follow from you since i met u, follow me pls? 
+521059663664906240	GS:neutral	positive	got me looking at this paper mars rules tuesday and its color is red and nights ago it was  a blood moon now  checking date 
+522912244418768896	GS:negative	positive	i keep thinking its gonna be a green day tomorrow but then i remember that it will be a white day so i cry
+522855195982974976	GS:positive	negative	flew out of burbank for the 1st time. mind blown. i'm ruined! sorry, lax, we're breaking up. and  was on my flight. win!
+521040118514450432	GS:neutral	positive	blood moon: blood moons: decoding the imminent heavenly signs: the sun shall be turned into darkness, and the moon in 
+523101744650153985	GS:positive	neutral	arsenal: ozil linked with shock rivals switch: arsenal midfielder mesut ozil has emerged as a surprise january... 
+522997142169079811	GS:positive	neutral	 selena's album is coming out november 24th &amp; it's called 'for you' it'll include 2 new songs &amp; 4 old  we poor
+521432341558743041	GS:positive	neutral	some electro glam rock to get you through monday. apes &amp; androids: blood moon 
+523095981517455360	GS:positive	neutral	 12 days of christmas! on the 8th day it has to be  new choc stars!  
+522943097207267329	GS:neutral	positive	just realized that i attributed what's my age again to green day on monday when it's obvi blink 182. this is what sobriety does to a woman.
+523100173439094784	GS:positive	neutral	we will cap our fall season with the halloween game on sunday at 1pm!
+522960120683429889	GS:negative	positive	kobe bryant smiling as he re-enters the game with the lakers losing 91-63 in the 4th quarter. probably insanity settling in.
+523081783886503937	GS:neutral	positive	selena's greatest hits album is set to come out november 24th and it's called 'for you'.
+522888416317300737	GS:positive	neutral	toyota hybrids alias heavy demand credits-grease the palm in front of january 1st: mekupvjcm
+523077912229314561	GS:negative	positive	  i may have been watching old episodes on netflix as we endure the never ending wait for it to be released !
+522503433320804354	GS:positive	neutral	new event! join us nov 6 in atlanta, ga to learn more about #ibm pureapplication systems &amp; tour the georgia dome. 
+523101194966011906	GS:neutral	negative	ebola nurse may have been sick before taking the plane
+522942525683032065	GS:positive	negative	the thing i'm most jealous of ab miley is that she got rapped ab by jay...nearly marrying liam is a close 2nd
+523092398180536320	GS:positive	neutral	g oh d i'm going to get my daughter tomorrow we going shopping i miss my baby plus christmas coming up i have stuff to get together
+523098869291184128	GS:positive	neutral	girls frosh volleyball hosts alton freshman invitational tonight and tomorrow at ahs.  play begins at 4:30pm this afternoon.  go redbirds!!!
+522826616981184512	GS:negative	positive	i just sat here and watch   snap about kobe bryant  i'm too done   should know better
+522935640124841984	GS:positive	neutral	i think i'll do a niall spam now but that will be the last one for tonight i'll continue with liam and zayn tomorrow #emabiggestfans1d
+523096988355538944	GS:negative	positive	if selena will release the single next monday with taylor's new song she can kiss #1 on itunes goodbye
+521702104965316608	GS:negative	neutral	 agreed. but another sec loss makes it awfully hard for the tigers to play in the georgia dome on dec. 6. two more: lights out
+522950388249804800	GS:positive	neutral	special gala at work tomorrow. gonna be a busy day... #timetosleep
+523076102202601472	GS:negative	neutral	 still havnt got my 6months netflix subscription from the 28th of august....
+521019255811088384	GS:positive	neutral	 big brother 9th! u gonna check out that bears vs. falcons game down there in the georgia dome 2morrow in atlanta? #dabears
+523079858994155520	GS:negative	positive	omg #mufc play on monday night football,  times makes me kill my self right now..  f*** off you liverpool, city, arsenal and chelsea
+520988247351382016	GS:neutral	positive	blood moon: blood moons: decoding the imminent heavenly signs: ""the sun shall be turned into darkness, and the moon i 
+523060959842037760	GS:positive	negative	 every episode of friends is coming to netflix on january 1st  damn i want netflix heere tooo
+522641828521455616	GS:negative	neutral	but with poverty defenders, midfielders from galatasaray and olympiakos and a captain that works as cancer in your team, you may expect to
+523054066507603968	GS:positive	neutral	black friday week is going to be crazy. iggy, nicki, 1d, selena, eminem and i know i'm forgetting someone ???
+523056723691446272	GS:neutral	positive	i think i'm going to spend the rest of my friday night watching netflix
+522883719015964672	GS:positive	neutral	at midnight on a friday night i just realised melissa mccarthy is the adorable friend on gilmore girls...mind blown.
+520218184842899456	GS:positive	neutral	come and watch the future bees this saturday as the youth team take on leeds united at jersey road at 11am.  then... 
+523028281423962112	GS:neutral	positive	selena's greatest hits album is set to come out november 24th, &amp; it's called 'for you' it'll include 2 new songs &amp; 4 old songs she's done.
+523098227504324608	GS:negative	neutral	aside from the cl final of 05, the 07 game against arsenal, 2nd leg was the most stressful game i can think of
+520491197312532480	GS:neutral	positive	 looks like we may sell borg to either fenerbahce, galatasaray, or besiktas they are all interested knowing that if he
+522978506654121984	GS:positive	neutral	 i could prattle on about 90s music all night long. radio head, weezer, green day, stone temple pilots, the offspring, 3rd eye blind
+522892172677611520	GS:negative	neutral	i may or may not have been watching gilmore girls for the past 3 hours. i may also have burnt all the water out of my pot of carrots. #ooops
+522267916817817601	GS:positive	neutral	look: move over blood moon, here's the pumpkin sun 
+523068810513743872	GS:negative	neutral	if twaimz vines himself dropping ass to the ahs freakshow song every wednesday im content
+523095451986579456	GS:neutral	positive	 may get a visit just after christmas as i have more free time. take care.
+520790791824744448	GS:positive	neutral	 also he ""won"" his 1st world heavyweight championship with some assistance from  in the georgia dome.
+522982455444537344	GS:positive	negative	if this is where they are today, if this is how much he loves louis right now, then liam can't even imagine how good tomorrow will feel.
+520281009439662080	GS:positive	neutral	i just finished watching the movie october 1st, a kunkle afolayan's movie  fanstatic performances by veterans... 
+523058472821485568	GS:neutral	positive	american horror story's third season is out on monday, so here's a photo of the blu-ray. #whydidithavetobesnakes 
+520334197571874816	GS:positive	neutral	who's ready to rise up with jett and i this sunday? #riseup @ atlanta falcons at georgia dome 
+523059249254268928	GS:negative	neutral	 i think it may have been subbed by bates. ""conor heffernan discusses the bizzare world of leeds united owner massimo cellini""
+523029790933401600	GS:neutral	positive	selena's greatest hits album is set to come out november 24th, &amp; it's called 'for you' it will include 2 new... 
+522986214844936193	GS:positive	neutral	kobe bryant looked like his old self against the jazz during a 119-86 loss on thursday, making 10-of-23 from the field and 7-of-13 fr...
+521401898658955267	GS:negative	neutral	if i wanted to see a falcons game i'd go to the georgia dome. america's team should be on television every sunday.
+522984676017729536	GS:positive	negative	they don't have the 2nd episode of ahs on demand so i'm gonna watch the 1st episode again. lmao
+522943990564257792	GS:neutral	negative	 i'm not sure what the protocol would be, given airport security, etc, but you make the arrangements at lax and i'll go tomorrow.
+523000212290146304	GS:negative	neutral	why oh why did i drink three cups of coffee to stay up binge watching gilmore girls when i have to be at the gym tomorrow at 10:30
+523098767592284160	GS:positive	neutral	halloween treats &amp; prizes from 27th october - 2nd november kids get free halloween nail art &amp; sweet with every... 
+523098856184381440	GS:negative	positive	obama is a ditherer. (or you can call him a deep thinker. both correct.) but for the love of ebola, do something. 
+523087770794082304	GS:positive	neutral	10/17 is today right? yall know that means it's my boy liam's 2nd birthday. gotta blast the bricksquad music for young bricksquad.
+522934258474950656	GS:neutral	negative	 i'm taking my uncle to lax tomorrow and can't decide if i want to go there or dunkin donuts after i trip him off lol.
+523086293115625472	GS:neutral	positive	the color orange is 50/50 in my mind. 1st the good: orangutans &amp; the netflix show. now the awful: boehner's face &amp; trump's hair.
+523093230142124032	GS:positive	neutral	hnng pokemon oras came out. i told michael to get it for me for christmas. i may save him the $30 and buy it sooner ;-;
+522977591104663552	GS:positive	negative	just watched the whole 2nd season of ahs in less than 24 hours. i'm not even ashamed.
+523061071645798400	GS:neutral	positive	i'm 20, it's friday and the only thing i've got to look forward to today is going on netflix and watching season 2 ep 9 of gossip girl #trap
+523098583872978944	GS:negative	positive	happy friday: a health worker who may have had contact with ebola is on a frigging cruise ship 
+521058799751147520	GS:positive	neutral	blood moon returns early wednesday, and this time it's bigger   fyi
+522907021599723520	GS:positive	neutral	chris hemsworth at lax, october 15  in my house??? on this day??????????????????
+523082238876217345	GS:neutral	positive	selena's greatest hits album is set to come out november 24th and its called ""for you"". then she's signed with interscope record (finally!)
+522763245900562432	GS:positive	negative	#boldindenver i may be biased,  but i think toyota makes the best vehicles.  i have driven lots but for the money...  #toyotawins
+523061022161383424	GS:neutral	positive	gamlingay green day is tomorrow, 18 oct, 10am at the ecohub. full programme at  see you there! 
+523100697752252416	GS:neutral	negative	why don't we just tag on ""may have ebola"" any time we refer to someone. ""the patriots, who all may have contracted ebola, won last night""
+522835647472488448	GS:negative	positive	39 people in the nba are not better than kobe bryant.. the 2nd goat
+522987427682480128	GS:neutral	positive	go to the ahs football game tomorrow to buy halloween fun run tickets
+520624355320295425	GS:negative	neutral	wesley sneijder has been linked with a free transfer move to chelsea as he may quit galatasaray if he is not paid. #cfc
+522986211476905985	GS:positive	neutral	#dailynba kobe bryant looked like his old self against the jazz during a 119-86 loss on thursday, making 10-of-23 from the field and ...
+521009974747480065	GS:positive	neutral	astate up 24-0 after the 1st. doing work in the georgia dome!
+523085432465420288	GS:neutral	positive	 coming down to arsenal v hull city tomorrow, do you welcome away fans?
+523099908401012736	GS:positive	neutral	what have you got planned for halloween? friday 31st of october we party with the ghouls and ghosts! 
+522985064842264577	GS:positive	neutral	i need to see the 2nd episode of ahs now
+523095905369477120	GS:positive	neutral	watch arsenal smash hull tomorrow with sanchez hatrick and wilshere assist, and the sanchez- hazard comparisons will be back!
+523098429158064128	GS:neutral	negative	for every ebola fearing westerner who is concerned about the ever present threat 
+521075300063789056	GS:neutral	positive	blood moon: blood moons: """"the sun shall be turned into darkness, and the moon into blood, before the great and the t 
+522996389996158977	GS:neutral	positive	selena's greatest hits album is set to come out november 24th, &amp; it's called 'for you' it will include 2 new songs &amp; 4 old songs she's done.
+522797113340481537	GS:positive	neutral	 landing at no. 40 on the #nbarank list: kobe bryant.  (  lmao he'll be number 1 by dec
+523086373818236928	GS:positive	neutral	the official hashtag for the arsenal vs hull game tomorrow is #arshull. lolz
+523066953179463680	GS:neutral	positive	netflix it is on this friday night.
+523100290808287232	GS:positive	negative	. that all nighter isn't until 29th nov., and as for halloween, i'd like to think we have it covered ;) 
+523101574244347904	GS:neutral	negative	a statement carnival cruise made about the ebola scare. 
+520511183061655553	GS:neutral	positive	this ensemble will make its debut this sunday in the georgia dome!  #beardown. #ooohkillem 
+523098149003358210	GS:neutral	negative	ebola "" it's about a five min delay into downtown cleveland on i-90 eb. accident near w. 25th st.  
+522958434208346112	GS:neutral	negative	i just started watching ahs on netflix on monday and i finished the season just now. i think i have a problem.
+521106959496265729	GS:positive	neutral	check out the trailer for kunle afolayan's october 1st:  #nollywood
+522981583138324481	GS:neutral	positive	 jk. wasn't sure.  but the killers, green day, fall out boy, and foo fighters were all i had on my ipod when i got it in 2nd grade
+522968849592115200	GS:positive	negative	i miss the 1st season of ahs
+523066928144060416	GS:neutral	positive	friday morn #edurebelplaylist  is all about ""good riddance"" by green day. adieu.    
+518756468783202305	GS:negative	positive	funny cause  the arsenal fans booed the galatasaray end on wednesday for letting off flares. now they've done it in the concourse.
+522945661353070592	GS:positive	negative	this has been a dope week, finished season 2 of american horror story, beat devil may cry, and bought hella ps2 games. all i care about x)
+522713559030317056	GS:neutral	positive	police say there will be a highly visible presence in rotherham to make sure tomorrow night's derby with leeds united passes without trouble
+519750096712261632	GS:positive	neutral	kunle afolayan has raised the bar to another level with october 1. not sure there are many who can meet up or raise the bar in nigeria!!!
+518749983588495360	GS:positive	negative	 i've been told by galatasaray fans that i work with,that was passion on wednesday... to me whoever from our lot had flares smh
+522830087930908672	GS:negative	neutral	galatasaray led by 3 after the 1st quarter but has gotten smoked, getting outscored 27-10 through the 1st 10 minutes
+523100518043115520	GS:neutral	negative	the second nurse who was diagnosed with ebola after treating thomas eric duncan may have experienced symptoms... 
+523071217130278912	GS:negative	neutral	if only green day sounded like this, instead of the sort of parody punk group who might have been invented by saturday night live.
+520780930492162048	GS:positive	neutral	watchout georgia dome cause the #raiders are hungry to  see you in december playoff bound
+523102006308012032	GS:positive	neutral	nbc should send nancy snyderman down to interview ebola lab gal on the cruise ship. they may hit it off.
+522957554674966529	GS:positive	neutral	would you like to join us at our annual gala at the sandman signature resort on oct 25? contact our centre at 6042773100 for tickets!
+521659030436327424	GS:neutral	positive	was leeds united so it was long time ago so lm having my birthday present early when man utd play west brim next monday night
+522980710207221760	GS:neutral	negative	#lakers: steve nash-g: kobe bryant said thursday he is very concerned 
+522993070506536960	GS:negative	positive	which part? "" seriously? "" glad to know my gala isnt on the 5th....but sucks to hear its going to be in denominations
+523084938921644032	GS:positive	neutral	 3 tickets all seated together on the halfway line for arsenal v hull tomorrow please dm me
+522853996084482048	GS:neutral	positive	 tomorrow comes out the first part of my kobe bryant highlights mix
+522814607736729601	GS:positive	negative	 if kobe bryant gets 22ppg this season he'll be 3rd all time scoring by christmas
+523022968897933313	GS:neutral	positive	selena's greatest hits album is set to come out november 24th, &amp; it's called for you it will include 2 new songs &amp; 4 old songs she's done.
+518748870176944128	GS:negative	positive	they're not even arsenal fans! they're the galatasaray fans who've stayed behind after wednesday.
+523035011998425088	GS:neutral	positive	selena's greatest hits album will come out november 24th, &amp; it's called 'for you' it will include 2 new songs &amp; 4 old songs!! hzkjkanajajans
+523044940243537920	GS:negative	positive	wow the 4th season of ahs is like not good
+523092546764169216	GS:positive	neutral	you know it's friday when i'm in bed with a hot pocket and gilmore girls
+522808897162444801	GS:positive	neutral	ahead of the crunch match with rotherham tomorrow, check out my latest leeds united blog here 
+522936197258420224	GS:positive	negative	i'm not even ashamed to admit that i'm going to watch american horror story for my 7 hr long drive to kansas city tomorrow..
+523083357836824576	GS:positive	neutral	lots going on at barca this weekend! join us for a drink or two. kicking off your friday night, dj on 7pm till late 
+523039855727505408	GS:negative	neutral	so we're likely to face atletico in the 2nd round and barca in the qfs (if we go through)... this wont be easy #copadelrey
+522831311354863617	GS:positive	negative	i bought kesha's debut album for $7 in 9th grade and thought i would regret it. now i'm almost 20 and still inappropriately dancing to it.
+522304518537482240	GS:positive	neutral	cech set to leave in january: atletico madrid has joined roma and real madrid in the race...  [[ ff  ]
+522971421027233792	GS:positive	neutral	leo eyes record, barca seek boost: in the week that he marked the 10th anniversary of his competitive debut fo... 
+522121813644423168	GS:positive	neutral	spx rallying on #sfgiants going up 3-0 in 1st inning
+521101168450478081	GS:positive	neutral	james rodriguez and falcao playing against the canadian men's national team tuesday... should be a close game...
+522935728192647168	GS:positive	neutral	blow by kesha is the only song acceptable to listen to at school tomorrow
+519111747328688129	GS:positive	neutral	tomorrow i'm going to have my class discuss heroism, and i'm using mikasa from attack on titan as an example. :3 #otaku
+523092640259375104	GS:neutral	positive	done with exterior xmas lights. tomorrow we work on the tree. now however its dinner, shower and time to catch up on the dvr stuff. be safe
+522686193704906752	GS:neutral	negative	i can't imagine charles darwin would have just sat back and accepted there was no evolutionary purpose for a narwal horn. scientists?!
+521536294670065664	GS:negative	positive	 today was all about ozil not being happy and leaving arsenal in jan. welbeck's good though np, we can't be that unlucky
+522223514183413760	GS:positive	neutral	15 august......... independence day of hindusthan... 15 october........ let's make independence day of... 
+519152971268243457	GS:neutral	negative	 {once she heard his voice, mikasa sat up with a light groan.} hnn... i am.. is that you saruhiko?
+520612792320016384	GS:neutral	positive	 1st thoughts re elton's oscar party: will adam be back in la (tour is over by then lol) and will he get invited again ;)
+520834441804279808	GS:positive	neutral	possibly going to comic con in santa fe. can i make a mikasa scout outfit before the 24th it's on!
+522810777804087298	GS:positive	neutral	who wants to go to london with me on november 10th and see mockingjay and meet jennifer lawrence
+521435683152359425	GS:neutral	negative	i have that 'resting bitch face' that would make wednesday adams jealous... just saying.
+522855043649654786	GS:positive	neutral	  cute animal? we hired the clickbait to work for us directly? are you bringing jennifer lawrence in tomorrow?
+523060495998537728	GS:positive	neutral	 experience the magic of xmas simply by popping into the range any time after late august bank holiday.
+523039497072939008	GS:positive	negative	omg, it probably means not going into hiding, but hopefully hopefully ot9 made up and jessica is getting a 2nd chance
+522881280245919744	GS:positive	neutral	at his press conference tonight, brian kelly said eilar hardy may be allowed to return to the team after the bye week.
+522404742517903364	GS:positive	negative	  as good as isco may be. he's not hazard or reus level yet. james is only being compared because of the world cup
+520992838465884160	GS:positive	negative	james rodriguez didn't score for colombia in their 3-0 win on friday night, but he did pull off one extremely... 
+519951018722078720	GS:positive	neutral	i want to go see equalizer tomorrow
+522236300104310784	GS:positive	neutral	 well i mean it's the 25th anniversary, so i guess the timing makes sense. maybe simmons can start a production company
+522857255931490305	GS:neutral	negative	that awkward moment when john adams thinks that independence day is going to be july 2nd.
+521340956042596352	GS:neutral	negative	 mikasa shoved a blanket against his chest once they got downstairs, but she didn't leave yet. she sat down on the sofa--
+522851520057208832	GS:positive	neutral	judging by the interviews and way bellusci talks - think we may have found a true legend in the making
+522857274109595648	GS:neutral	negative	why sami khedira is the piece ac milan are missing - carlo ancelotti may not be coaching ac milan anymore, but he ... 
+520586910130270208	GS:neutral	positive	elton vale vs prestwich heys tomorrow. equipment prep it is then this evening.
+522482356092145664	GS:neutral	negative	  maybe that explains why the sun before the election yougov had co 48-47 obama and it turned out 51-46
+522084479767048193	GS:neutral	negative	university of western australia fear that the recent illegal action tests of icc may be based on unreliable evidence.
+523055267542728706	GS:positive	neutral	as an early xmas gift, i get to dj alongside  on the 15th december at the waiting room... its been a while
+518230005768134656	GS:positive	neutral	that's game.  falcons fall to hogan 55-21.  see you at homecoming next saturday at the horn, 1:00.
+522743229251600384	GS:positive	neutral	perry hs panthers band invites you to save up to 60% off brand name mattresses like simmons &amp; restonic on saturday &amp; help them raise money!
+522909334943330304	GS:neutral	negative	wanted to go see joey perform tonight but then again i might just go on sat cuz i remembered ventura shows are weak compared to la/oc shows
+520789273046290432	GS:neutral	positive	here's my line of 3d fiber mascara that i will be selling, younique. message me for any info/questions you may have! 
+522076577912606721	GS:positive	neutral	 don't know if you saw, but simmons and jalen's nba preview is out tomorrow. which means simmons is back!
+519601009841033218	GS:positive	neutral	so labour back in lead with populus &amp; yougov but all moe. reality it'll be close election national polls may be trumped by #labourdoorstep.
+523011202629115905	GS:neutral	positive	  when you were with jessica after the game last friday haha i was there waiting for you to say wassup hahaa
+522058924456157184	GS:negative	neutral	stocks keep falling, but... by pater tenebrarum:  spx slices through 200-dma  on monday, the stock market tried ... 
+522801514176204800	GS:neutral	negative	i may have just mentally assembled the most insane conspiracy web about the dr. luke / kesha sitch.
+522365881288892419	GS:neutral	positive	jennifer lawrence wary about doing love scenes with ex nicholas hoult: london, oct 15 : jennifer lawrence is r... 
+522662386377834496	GS:positive	neutral	 my daughter will be there tonight, she's had a rough time - wld you dedicate a song to her? her name is tegan, 19 on monday
+521377835475566593	GS:positive	neutral	watch triscygaming with me on twitch!  get in on this cast for some monster hunter! mon hun sun son!
+522513370293886977	GS:neutral	positive	clearly the battle is for 2nd place, as bill pullman's speech in independence day cannot be trumped. 
+521069579771322368	GS:neutral	negative	coach brian kelly yelling "" hold the fucking ball"" after 4th quarter touchdown by folston #nd
+522730410896523264	GS:neutral	negative	 what do you think about simmons' theory that stevens may leave the team if they stink badly enough again?
+522108214939484160	GS:neutral	negative	last week was guayaquil independence day here in ecuador, which meant no school on friday and so we organised a trip with staff and stude...
+521789871695089664	GS:neutral	positive	this saturday... i am there with younique.. and also.. allthe rayge .. enter in to win the raffle to win a free... 
+522571420707356672	GS:positive	negative	saturday, donny, is shabbos, the jewish day of rest. that means that i don't work, i don't get in a car
+520834584330911744	GS:positive	neutral	possibly going to comic con in santa fe. can i make a mikasa scout outfit before the 24th? it's on!
+520855512465035264	GS:positive	negative	found don't let the sun go down on me by elton john with #shazam. elton still the boss #eltonjohn 
+523019022095626240	GS:neutral	negative	jessica is due to have her baby on the 8th of november, she will not be taking any new bookings until after the... 
+522878879099547648	GS:positive	neutral	 john cooper clarke tomorrow night. just like the old days ( he says with the fading spirit of yoof in ventura)
+522608174772150272	GS:positive	neutral	just won a pair of   &amp;  tickets for ventura tomorrow , anyone want the extra tix?
+521630891550863362	GS:neutral	negative	what i'm anticipating about the shingeki no kyojin possible 2nd season is the progress of relationship bet eren and mikasa
+521827039629041666	GS:negative	neutral	sick skills, james rodriguez!   in case you forgot, canada are taking on this guy and his teammates tomorrow. 
+522670554411982848	GS:neutral	positive	donny will be on bold and the beautiful oct 30th and 31st #bigbrother
+521730237382418433	GS:positive	neutral	trial starts tomorrow. let's try to put the pressure on  and  to set free ghoncheh ghavami. #freeghoncheh
+522832541498085378	GS:neutral	negative	apologies to anyone who may have been insulted by my charles darwin is an idiot tweet. i was just expressing my thoughts.
+523084694854717441	GS:positive	neutral	indian govt had no outstanding loans with rbi in week ended oct. 10: oct 17 (reuters) - india had no outstandi... 
+521058638107279361	GS:neutral	positive	brian kelly doing a little dance on the sideline after fuller dropped 3rd down pass that would've been a big gain.
+520198094215196672	GS:neutral	positive	 grohl, wonder, brian may and elton..... the rest aint even musicians
+523061514442244098	GS:negative	positive	little by little the australian way of life is being diluted. there may come a day to celebrate xmas &amp; easter will be considered offensive
+519264913995206656	GS:positive	negative	charles darwin's own dad thought he was lazy. even if you are having a bad day, there's always tomorrow: 
+522991026194362368	GS:positive	neutral	#sportsnews leo eyes record, barca seek boost - in the week that he marked the 10th anniversary of his competitive... 
+522809348574416897	GS:neutral	negative	jennifer lawrence was just a normal high schooler not too long ago, just check out these...   
+523057081696677888	GS:positive	neutral	remember when ashton tweeted me about the 1st atlanta meetup :,)
+522725596208435200	GS:negative	neutral	i suspect rbi may be next in line.. either there is going to be rate custs.. of rbi gov on way out !  
+518329416628592640	GS:neutral	positive	oct 6 will be ghoncheh ghavami's 100th day in prison,support  and sign 500k strong  petition 
+522577776973737984	GS:positive	neutral	  tj: i'm obsessed with the 2nd one with both sara and tegan
+522590547761201152	GS:positive	negative	tbt to tik tok by kesha... that shit was the knock in 6th grade
+522077340084760576	GS:neutral	positive	 so annoying &gt;.&lt; may read the birth of levi only a lvl 97 boss though as mikasa is 98 boss and your like 99 boss ;)
+519997335116316673	GS:neutral	positive	i am not used to being back to the dark side. it is legit jet black, hello wednesday adams haha!
+522961652556111873	GS:positive	neutral	 maxpreps photographer jace kessler will be on the sidelines tomorrow nite covering your var football game vs ventura!
+521806376503226369	GS:positive	neutral	you know this when do americans celebrate independence day ? ""the 4th of july obviously"" ""sarah are you sure ?""
+522315333026476032	GS:positive	neutral	at the end of the 2nd hunger games film, you can see jennifer lawrence doing joey's 'try and do a hard sum' acting technique.
+520254127868506113	GS:positive	neutral	tomorrow soas students will have a day of solidarity and symbolic action for ghoncheh ghavami 
+522631543416971264	GS:neutral	negative	&gt; kesha's camp speaks out on dr. luke abuse allegations  following the news tuesday of kesha's lawsuit against... 
+519130668249653249	GS:positive	neutral	tomorrow i'll be throwing myself around to black noise. come and do the same at the horn st.albans from 7:30pm
+522517577541885952	GS:negative	neutral	will fuller said it got ""annoying"" after brian kelly played the florida state fight song during practice on wednesday.
+522601948529168387	GS:positive	neutral	that moment when #sfgiants' buster posey celebrated his rbi single against the #stlcards -- game 5 tomorrow, 5:07 pm 
+519362634081386496	GS:positive	neutral	anyone wanna go see equalizer with me tomorrow.?
+520285361059414016	GS:neutral	negative	 yeah dont think 8 or 9 like some.. is a risk but welbeck must be amongst the goals! as for delph got a knock rested for sunday
+520386785491566592	GS:positive	neutral	party at kris jenner's tomorrow!!bring your friends and your 25 cents to get it
+522957058434269184	GS:positive	neutral	#astros aplin steals third after knocking a big  rbi double down the right field line. we're tied at 1 in the 8th.
+523078262151720960	GS:positive	neutral	for bbc sport on the rise and rise of small-town, low-budget, debt-free eibar:  see them at camp nou v barca tomorrow.
+522546058241396736	GS:neutral	negative	kesha's camp speaks out on dr. luke abuse allegations: following the news tuesday of kesha's lawsui...  #musicnews
+522162362603012096	GS:positive	neutral	our  cuts through the coach-speak in brian kelly's tuesday press conference. 
+523052037312094209	GS:neutral	positive	if barcelona beat eibar tomorrow and messi plays it will be messi's 300th win in a barca shirt #fcb 
+521983231659622400	GS:negative	neutral	the jennifer lawrence naked photo response is the end of the 'shamed starlet' #feminism 
+522499340531535872	GS:positive	neutral	 in fut, isco. an absolute magician in the midfield with gabi being a close 2nd.
+521038846549819392	GS:neutral	negative	but all seriousness i never played monster hunter should i get it the 4th one?
+522850808451579904	GS:positive	neutral	udlp in the 4th round of the cup. bring on barca.
+520465074666758146	GS:positive	neutral	 can you please sign my atletico madrid jersey at tomorrow's game? #formycollection #pleasehelp
+521717379169275904	GS:positive	negative	need to see this movie... miles teller and j.k.simmons may have just been added to the oscar race... god damn.
+518388066286055424	GS:positive	neutral	leeds 1-1 sheff wed. giuseppe bellusci securing #lufc a point after chris maguire had opened the scoring 
+522805342527176704	GS:neutral	negative	#news: why sami khedira is the piece ac milan are missing: carlo ancelotti may not be coaching ac milan anymor... 
+522983441579905025	GS:neutral	positive	  see you tomorrow donny
+522129926175326208	GS:negative	neutral	 look at spx daily in early june 2012. it bottomed the day after spx 200d sma was sliced. this time, 200d was sliced yesterday.
+519145639717109760	GS:positive	neutral	birmingham bounce: yougov on fri and sun and now  today all put the tories ahead  
+522223007142789120	GS:positive	neutral	james just scores.   tomorrow: ballon d'or for james rodriguez [marca]
+522950244888502272	GS:negative	neutral	kyle will clown 2 qb systems for dayzz when byu does it for 2 games, but he may have backed himself into that corner #cawcaw
+518865684844281856	GS:positive	negative	3rd hat-trick in 4 games for ronaldo. outrageous. madrid imperious again tonight. bale, james, benzema, modric, kroos, isco. class overload.
+522536604544823297	GS:positive	neutral	triton central football is 2-0 in icc games vs speedway.  make it 3-0 &amp; tigers will be outright conference champs.  sparkplugs @ tc friday.
+523005106250612736	GS:negative	neutral	6th floor. david mack assaults jennifer lawrence with a hemorrhoid. amitabh bachchan mows lisa kudrow all the while.
+522525500984401922	GS:negative	neutral	donny osmond may be all over my tv but he isnt telling enough people that he was in mulan and thats what im thinking now come on donny.
+523011007665295360	GS:neutral	negative	 i mean i doubt jessica is up at 2 in the morning on facebook looking up people she knew in 2nd grade.
+519315555585908736	GS:positive	neutral	going rib elton all day tomorrow.!
+521033946122162177	GS:positive	neutral	brian kelly just told north carolina ""my team is stronger than your team"" with that qb sneak on 4th and 1 #ndfb #ndvsunc
+522582009936244736	GS:positive	neutral	the #sfgiants take a 6-4 lead over the #stlcards in the 6th on an rbi single by buster posey. #nlcsgame4
+522971418087018496	GS:positive	neutral	leo eyes record, barca seek boost: in the week that he marked the 10th anniversary of his competitive...  #femnath
+522060191358267392	GS:positive	neutral	cody riggs preparing for 5th career game vs. #fsu. ""he said he isn't scared,"" brian kelly says in a long-winded anecdote. #notredame.
+522734482533928961	GS:neutral	negative	kesha sues dr luke, claiming sexual assault by the star producer: 
+519119642535542786	GS:neutral	negative	kris jenner gets kandid: 9 shocking secrets and admissions!  she may not be starring in any keeping up with the... 
+522137584949264384	GS:neutral	negative	no good deed, equalizer, last week annabelle, friday we saw addicted now today going to see gone girl...
+522700116034322432	GS:positive	neutral	tomorrow morning the place to be is laico  4 a debate on icc.we have talked about it online,now we do it face to face 
+522935978974248961	GS:neutral	negative	selena gomez &amp; kris jenner may have teamed up &amp; weirdly, that's not the ... - bustle  #selenagomez
+520622840287363072	GS:neutral	positive	perseverance is failing 19 times and succeeding the 20th. - julie andrews
+519600072971927555	GS:neutral	negative	yougov tonight  shows 2% labour lead. so headlines tomorrow -""crisis for cameron as labour pulls ahead"" or perhaps not.
+522206068651589632	GS:neutral	positive	 hopefully he comes on thursday cuz you'll be in preschool right? it's tegan's dad!
+521199048615686145	GS:positive	neutral	so tune in around 8pm pacific for more monster hunter 3 ultimate action with subs and mods &lt;3 then monday - with viewers! #menulive
+522723889806188544	GS:neutral	negative	one of kesha's leaked tracks may have actually been a song warning about her relationship with dr. luke ---... 
+522969328916758528	GS:negative	positive	ashton may love their bay area fans but little does he know we hate ourselves
+522545060978511873	GS:neutral	negative	kesha's camp speaks out on dr. luke abuse allegations: following the news tuesday of kesha's lawsuit against her longtime producer dr...
+520371446875299841	GS:neutral	positive	when we watch frosty the snowman, he routes for the sun. - the big bang theory, leonard hofstadter
+523070388348403712	GS:positive	neutral	the fantasy world of yougov and their weightings.  check the raw (unweighted) figures. 
+522954962758668288	GS:positive	neutral	c'mon guys,calling all the tributes and lawsbians i voted jennifer lawrence for  homecoming queen!!!  #mockingjay
+522480936207007744	GS:neutral	positive	perseverance is failing 19 times and succeeding the 20th. - julie andrews
+522353224079384577	GS:neutral	negative	i have the next three wednesday's off and don't have anyone to spend them with now i'm in donny! move up here 
+522835491348316160	GS:positive	neutral	red team plates 1 in the top of 1st on rbi double by 
+521058206261727232	GS:positive	negative	[[sighs sadly, beckoning  into my arms.]] it may seem like that now but you have tegan, that's something that went right.
+519959663920832514	GS:positive	neutral	james rodriguez is going to be at red bull arena on friday like please come to the game on saturday and find me
+519252780523868160	GS:negative	neutral	 i think yougov needs to be treated with caution after their rougue indyref poll&amp;labour were 5,5,5&amp;7 ahead upto thursday&amp;then an
+522753709357670401	GS:positive	neutral	heyssss, u owe me a treat "" equalizer, a place in the stars, october 1st.""
+522578749716709376	GS:neutral	negative	donny: how come you don't roll on saturday, walter?  walter sobchak: i'm shomer shabbos.
+522797437023309824	GS:neutral	negative	why sami khedira is the piece ac milan are missing: carlo ancelotti may not be coaching ac milan anymore, but ... 
+522691471095656448	GS:positive	neutral	a fall celebration at the park place market this saturday! vendors include scentsy, avon, younique, thirtyone,... 
+522792292105846784	GS:neutral	positive	kesha is a survivor. she's been through so much. this court case may be the one thing holding her from freedom. 
+522915292649771008	GS:positive	negative	selena gomez &amp; kris jenner may have teamed up &amp; weirdly, that's not the worst idea -  #googlealerts
+520310291469697025	GS:negative	neutral	the two lads sat either side of me have just agreed that welbeck is in the same league as rooney... #speechless
+522544530084855808	GS:neutral	negative	kesha's camp speaks out on dr. luke abuse allegations - following the news tuesday of kesha's lawsuit against her ... 
+523085368762314752	GS:positive	neutral	time to think of xmas and panto's! if you'd like to join earsay watch the pantomime 10th january at jersey opera... 
+522813346232676352	GS:positive	neutral	lionel messi, in ten years at barca, has scored in each different minute of a game except the 1st, 9th, 48th and 61st.
+522730502336565248	GS:positive	neutral	another local derby saturday, we travel the short trip to welbeck for a 3 pm kick off   #uptheceltic
+520781182850830336	GS:positive	neutral	if you're attending #nycc make sure to catch the monster hunter panel w/ director fujioka-san tomorrow at 12pm, room 1a24.
+520536228622385152	GS:positive	neutral	ghoncheh ghavami's day in court will take place on october 16th. let's hope she is freed soon  #iran #humanrights
+518522962564374528	GS:positive	neutral	on tuesday we are playing in st.albans at a cheeky little venue called the horn. if you're local then come out and support new noise x
+519880984360398848	GS:positive	neutral	tomorrow presents human rights defender nabeel rajab to the eliminate non independent in #bahrain   
+522797874481233921	GS:positive	neutral	come on donny grab a copy of the album go out and buy one then tweet me a picture tomorrow between 2 and 4pm and i will follow..
+522494689271099393	GS:neutral	positive	nymburk shouldn't start any more games without floor spacers on the wing position. need simmons out there. raivio 6th man, just fine..
+520357648953532416	GS:neutral	negative	a top bahraini human rights activist, nabeel rajab, was formally charged on thursday with insulting the defense... 
+519048322334855168	GS:positive	neutral	   take saturday. compare byram and bellusci. now because bellusci is more animated does that mean he cares
+519797747629576193	GS:positive	neutral	skybet expect atletico madrid to lead the chase for peter cech if the #cfc keeper still wants to leave in january
+522060396644286464	GS:positive	neutral	for a 5th time this season, ashley nelson is the #macjc goalkeeper of the week! posted a 9th shutout vs icc last wk. 
+522225449385349120	GS:positive	neutral	ncs choir concert this thursday night!!  donny on bass guitar and singing with mixed ensemble. who's going??
+521223689820717056	GS:positive	neutral	omg tegan &amp; sara are going to be in oakland on nov 14 i must go!
+522528130939248640	GS:positive	neutral	instead of being the goat who put in ventura in the 5th in wild card game yost gets the accolades from a clutch triple by hosmer #fortunate
+522036317719654400	GS:positive	negative	ancelotti may want 2 consider keeping it schtum about di maria after spending more 2 replace him with a vastly inferior model..pun intended
+522547666459168768	GS:neutral	negative	#bhramabull kesha's camp speaks out on dr. luke abuse allegations: following the news tuesday of k...  #bhramabull
+521499546795663360	GS:neutral	positive	 going to see equalizer tomorrow in the movie theatre. did you enjoy it?
+523090113530986496	GS:positive	neutral	spent the morning xmas fabric shopping, may have taken a detour via  xmas shop shhh x 
+522126228158181376	GS:positive	neutral	guys if you have smash bros you may get a free game! like zelda or mario or monster hunter 3
+522112568308281346	GS:positive	neutral	we have a show tomorrow night at the horn in st albans luverz so pls be there so its not just our dad in the audience like it normally is
+523043439865516032	GS:positive	neutral	marca: ancelotti was all smiles this thursday. khedira has already trained twice with the team &amp; everything appears to be going to plan.
+523100217387020288	GS:positive	neutral	ancelotti says khedira recovered and is ready to play, although not completely match fit. imagine he could get minutes tomorrow #realmadrid
+523032958421049344	GS:positive	negative	i've made up mind. i'm gonna support both ot8 and jessica equally. maybe the split is required to save their friendship. you may never know.
+522337771399413762	GS:positive	neutral	tomorrow: don't forget the hume brophy annual #healthcare conference w/ simmons &amp; simmons. check out the agenda! | 
+520301558727450625	GS:positive	negative	what a difference not having sterling on the pitch makes! welbeck dragged wide 1st half, the ox replaces sterling, welbeck down middle, goal
+522843983941095424	GS:negative	neutral	the sun political editor says the combined % of con &amp; lab will be at all time low for this parliament when yougov polling figures released
+520417650225463297	GS:positive	neutral	i want a fansign from twee, june, mikasa and jen o3o
+522966317100302336	GS:neutral	negative	 shit, i just saw this, sorry man. i was at work all night and i gotta work all day tomorrow. you going to kyle's tomorrow?
+521423105471029248	GS:negative	positive	and super cold for no good reason. if it wasn't for laundry tomorrow would be monster hunter under lots of blankets day
+521403841959723008	GS:positive	negative	 you just askin the wrong folks. equalizer is a must tomorrow since i'm off
+522953968251850753	GS:negative	positive	  kyle if i see u tomorrow i'm gonna molest you
+522164749606604800	GS:positive	neutral	african obama: uhuru to break record, shock the world on 8th - 53 presidents may accompany him to icc
+521390470879281153	GS:positive	negative	just twisted his ankle but he is ok "" welbeck may hv picked up one. what is happening to our team?""
+523047666112925696	GS:neutral	negative	i found a boy that looks like fetus ashton on wednesday and he was wearing ash's old style of glasses and everything
+522966195457097728	GS:positive	negative	hello ashton. i may not be a crazy obsessed fan, but i really do like you. that literally just sounded crazy srry im so awkward 
+521425971959050240	GS:positive	neutral	 hi mate could i lend 65k to buy james rodriguez or 50k mate i'll pay you back tomorrow asap like a legit person serious
+523066955293794304	GS:positive	neutral	  hi both - what is the news on welbeck?  likely starter tomorrow?  many thanks
+520246253125640192	GS:neutral	positive	 he was. he pulled eren from rose. that very night. possible that he may have injected mikasa with something as well. she acts -
+522863311193251840	GS:neutral	negative	 quite a few popping up in usa, xmen director, the producer that raped kesha, r-kelly, the 7th heaven guy, thats all folks
+522387765896675328	GS:positive	neutral	according to yougov, ukip are 2nd-most popular party in the c2de social grade bracket  (lab 36%, ukip 25%, con 24%)
+520169960853622784	GS:neutral	negative	 author may just be answering sarcastically &amp; implying that mikasa doesn't like the other femmes. so he just answered armin. maybe
+520337071345795073	GS:negative	neutral	tonight's yougov: lab 35, con 30, ukip 15, libdem 9, green 5. &gt;not one for the sun's front page or a nick robinson analysis i think
+521491263091376128	GS:positive	neutral	geniusfootball: carlo ancelotti's 5 january targets to make his side even more stronger/unstoppable! see: ... 
+523020669794000896	GS:positive	neutral	#getwellsoonashton ashton come out of that bed we need you to entertain us c'mon now
+523056728397844480	GS:neutral	positive	if barcelona beat eibar tomorrow and messi plays it will be messi's 300th win in a barca shirt. 
+522545055798550528	GS:neutral	negative	kesha's camp speaks out on dr. luke abuse allegations: following the news tuesday of kesh...  #party #radio #music
+523051416932188160	GS:negative	neutral	lateisha, tegan and i just went to the movies and sat up the front even, it's freaky as he'll i had the shivers... 
+521770766820732928	GS:neutral	negative	 i have no idea who that is! was thinking about wednesday adams, not just so i can wear a wig, honest.
+518560285964398593	GS:neutral	positive	the horn sounds, signaling the end of the 2nd period. the #njdevils hold a 2-0 lead, as well as a 16-15 shot advantage.
+523061643006472193	GS:positive	neutral	    oh wednesday do tho.... they won the rumbelows cup in 91... they're up there with barca!
+519359389161897984	GS:positive	neutral	alright godzilla then x-men then equalizer. ill just have to blow one between everu movie to stay awake but im off tomorrow
+520033643625201664	GS:neutral	negative	 sits down with a sunday conversation with the big bang theory's johnny galecki. #tbbt 
+523091182545809408	GS:neutral	positive	are you living with hiv and looking for peer support? pegs are meeting tomorrow in taunton; call for info 08003283508 
+523042832593223680	GS:positive	neutral	 very nice, check out the sights saturday ( or sneak to disney...). have you booked hotel/train yet?
+519165772405678080	GS:neutral	positive	dear all this is to inform you that tomorrow mukherjee nagar madal (bjp) is going to start swachh bharat mission... 
+521698329819086848	GS:neutral	negative	we've got some stories about that. coach stoops has a history of being #tooturnt swindle told him sat. ""you got too much juice.""
+521120724007018496	GS:positive	negative	james franklin was absolutely right when he said the team wasn't bowl-eligible despite sanctions being lifted. they may not get there.
+522418417224400896	GS:negative	neutral	jenson button may be worrying about keeping his number one place in the mclaren team -  
+519665755629953024	GS:positive	neutral	looks like brian cushing and arian foster will be ready to go for the houston texans on thursday night! #wearetexans 
+522968812484718592	GS:negative	positive	honestly i don think im gonna be able to look at ms rodgers without getting mad tomorrow...and she will make fun of me anf mr ehlers ughh
+523100945173839872	GS:neutral	positive	watched annabelle for the 2nd time!
+522889566068281345	GS:positive	negative	thursday is a good day. the vampire diaries, grey's anatomy, reign, scandal and how to get away with murder. #tgit
+519265907911430144	GS:neutral	negative	brian cushing is not listed as out for thursday's game. he was just one of 11 #texans who did not practice on monday: 
+520480419787976705	GS:neutral	negative	delhi police says report about sunanda pushkar's death inconclusive: delhi police said friday the forensic evi... 
+523086569272778753	GS:positive	neutral	i'm going to disney world october 17  if you wanna come on down come on down!
+522401539944873985	GS:neutral	negative	 tried to pick up sanu, but i'm 8th on the list, so i didn't get him. but, i dropped asiata for mckinnon.
+520062234295549952	GS:positive	neutral	when you remember nash's new video with skylynn is tomorrow 
+522559216645840897	GS:negative	neutral	tough loss for the dolphins last sunday in miami against aaron rodgers &amp; the green bay packers: 27-24.
+523009102172397568	GS:negative	positive	all right. is hodgson still thinking of coming to loftus road to watch the liverpool game? is he not afraid that rodgers may embarrass him?
+522958114468151297	GS:neutral	negative	 eh idk. guys like rodgers didn't even play til his 3rd or 4th season. sat behind veterans. it's what the bills r doing with
+523064463595827200	GS:neutral	positive	if anyone in melbourne wants 2 vip tickets to see katy perry on friday the 14th i'm selling them on ebay :)
+522391843930382336	GS:positive	neutral	carroll delivers for liverpool win, 6th = europa league - now need just 4 points from the last 5 games to secure it.
+520070799928356864	GS:positive	neutral	#uhurureturns and takes back the presidency. his 2nd term for sure...as for ruto, he has now served his 1st term as prezzo! ikue hivo hivo.
+522963547593396224	GS:negative	neutral	jets over spent on decker and sat back like he was aaron rodgers
+522895556134178816	GS:neutral	negative	im going to try to watch vampire diaries i missed sun of it
+520278465959198721	GS:positive	neutral	the most unheralded competitive international of all time? mt  england-san marino in the thursday night europa league slot
+522622570131369985	GS:negative	positive	 i did read it. i'm responding to your opinion that it may be one of the biggest plays in cfb history. i completely disagree that...
+522911833695744000	GS:positive	neutral	i'm going to disney world , october 3rd . if you wanna come on down .. come on down :-)
+520487523932332033	GS:neutral	negative	bsca delhi police says report about sunanda pushkar's death inconclusive: delhi police said friday the forensi... 
+521106389708832769	GS:neutral	negative	fake punt on 4th and 11? wow, james franklin can make some odd decisions. #pennstate #michigan #psuvsmich
+522558881625825280	GS:positive	negative	in my opinion... making jokes about hiv, helps me personally cope with living with the virus.  i know others may... 
+522907909299392512	GS:neutral	negative	tbh, i was eating and forgot about tvd and i have ocd when it comes to missing the first part of the show... so...i will wait till tomorrow.
+520061111266070528	GS:positive	neutral	this will be me when nash's new video with skylynn is up tomorrow 
+522573290603552770	GS:neutral	negative	 why no mention of the ""accuser"" waiting till aug 6th to reply to title 9 request. need to play out during cfb season? hmmm?
+521346889959370752	GS:negative	positive	#lions march down the field and #vikings fans can't blame christian ponder on that. that's not a good sign after coming off 10-day break.
+523072063918329856	GS:neutral	negative	if you can't make it into town tomorrow why not come and see us at white house farm farmers market in sprowston 9.30-1.
+522934996227870721	GS:positive	neutral	 what are you doing next october 3rd?..you want to come to disney world with me?
+522970788245549056	GS:positive	negative	i have the same feeling about going home tomorrow as i get before my family &amp; i go on a trip to disney world. #cantsleep #soexcited
+519389788643020800	GS:negative	neutral	kenyans r realy crazy. can we say that ruto is the 6th prezo of the republic of kenya?
+523005974731567104	GS:neutral	positive	its 2 in the morning and im up watching white house down for like the 4th time
+521121940686536706	GS:negative	positive	james franklin may be a good recruiter, but i have never been impressed with his in game coaching. #psuvsmich
+523087526895304704	GS:neutral	negative	coulthard says alonso may have lost some leverage in negotiations with mclaren #f1
+519963564019556352	GS:positive	neutral	nash is bae, nash is life but skash (skylynn and nash) videos are just the whole package. thursday hurry up pls   #nashsnewvideo 2
+523003482039525376	GS:positive	neutral	on friday - indian media are feel that pm narendra modi's labour reforms plan has make the india into a golbal manufactureing hub ---
+523048283933929472	GS:positive	neutral	buti pa si katy perry, puma-party lang pag friday night. do it alllll again (overtime work in the office for us)
+523063309314965504	GS:neutral	positive	always say we're gonna stop. this friday night, do it all again. - katy perry
+522563839305338880	GS:negative	neutral	when girls become bandwagon fans of the packers because of harry.   do y'all even know who aaron rodgers is?  or what a 1st down is?
+523034420245442560	GS:negative	neutral	so who wants to go and watch annabelle with me on saturday night my girlfriend is being to much of a pussy #annabelle 
+520278757282963456	GS:positive	neutral	the most unheralded competitive england international of all time? mt  marino in the thursday night europa league slot
+520909318397255680	GS:neutral	negative	delhi police said that the fresh report submitted by aiims doctors.. more info - 
+520480417451753472	GS:neutral	negative	report about sunanda's death inconclusive: police: new delhi, oct 10 : delhi police said friday the forensic e... 
+522951498599501825	GS:neutral	negative	similar situation happened in the dolphins game where they ran on 3rd down to run clock.. difference is jets don't have aaron rodgers
+522225008018333696	GS:positive	negative	you may not like his football, but christian ponder just did something really cool #lululemon
+522942019841179648	GS:neutral	negative	 i know its not october 3rd but i'm going to disney world so if you wanna come on down come on down!
+522963538315190273	GS:positive	neutral	things you may not if known:  you can get a tour inside of the white house and the tardis
+523085134934065153	GS:neutral	positive	tune in to 104.1fm at 7pm to hear the best of friday night lights football coverage of neodesha at fredonia with jeff carpenter on the mic!
+520949726821482497	GS:neutral	negative	sunanda pushkar's son shiv pushkar menon on saturday asked the delhi police to conclude the inquiry into his mother's death expeditiously...
+522876897332441089	GS:neutral	positive	 haha no but i'm going to disney world in december
+521162573572743168	GS:negative	positive	james franklin will have some 10 and 11 win seasons here but starting to think he isn't particularly good at the 'saturday' part of his job.
+521968954039103488	GS:neutral	positive	jenson button may be at top of motorsport, but he is affected by career uncertainty at mclaren  
+523078005262807041	GS:negative	neutral	 west indies players to fly back on their own expense after the 4th odi in dharamsalart why did they come?#
+522545325706588160	GS:positive	neutral	  i won on the royals earlier and tomorrow i will have more cfb games coming out.  usually i have 6 games a day 8/ day on weekend
+522437929021366272	GS:negative	positive	yeah, christian ponder may be a great guy, but he is a complete dumpster fire behind center.
+521121404716998656	GS:positive	neutral	james franklin just took a to on 4th and 32 to take a safety down 3. i don't have the words. #geniuscoach
+519397071653072898	GS:neutral	positive	pm had invited 8ppl who weren't from politics &amp; i was the 9th he invited : shashi tharoor on pm inviting him to join swachh bharat campaign
+522778370892111872	GS:neutral	positive	proud ppts on the deferred #prep arm may be able to start taking truvada for the prevention of hiv within 4-8 weeks 
+521781381933068288	GS:negative	neutral	  he said it was really obvious when it happens, rumour mill to one side is mclaren obvious? i thought he may go back
+520388268459048961	GS:neutral	negative	dwayne allen destroyed brian cushing on the 1st down run. such a complete te. 
+520375332361101312	GS:positive	negative	sam ponder is the hottest reporter ever. christian ponder may suck at qb but he gets to go home to that so he still wins.
+522672271358717952	GS:neutral	negative	if we do not qualify for the next round of the ucl we better finish 4th in the group..europa league is a no
+519528289564491778	GS:positive	neutral	so, hastings entertainment is playing the entire new lenny kravitz album. i may take my time at this place. #heckyea
+522973820513038336	GS:negative	neutral	everything hurts and we're leaving to go to the white house at 8:30 am with plans for 9 hours after and my body may actually collapse
+520997365462102017	GS:negative	neutral	really stoops, run the ball on 3rd and 21? overpaid and under produce,
+522130569183121411	GS:positive	neutral	that's it for tonight folks on f1 tech. im out tomorrow at dmg mori technical center for a day. rebull and mclaren are there. exited.
+521379438270099456	GS:neutral	negative	should have stuck with my gut &amp; sat asiata. thus concludes my weekly tweet about matthew asiata.
+522834320403496961	GS:negative	neutral	 it was also ""risky"" for rodgers to hold the ball until he got a helmet to the chest on that 4th down in order to find jordy
+519275360244867072	GS:neutral	negative	a mistake on nfl injury report initially said brian cushing would be out vs indy on thursday. he just didn't participate in today's practice
+522945203922284544	GS:neutral	positive	 haven't started! i've been too caught up in tvd but since i finished that i'll probably start it tomorrow
+521389292204347392	GS:neutral	negative	  mostly its the patterson issue, asiata is useless aside from a being decent 3rd down &amp; goal line rb.
+523073902348869632	GS:negative	neutral	2 things: gandhi was racist, and it's friday
+522678398691581952	GS:neutral	negative	signs and symptoms that may come with hiv infection. once you see them, please, run for hiv test see here&gt;&gt;
+522772455686152192	GS:negative	neutral	teddy bridgewater is the 3rd most shown qb during games, but my guess is this largely influenced by the tnf horror with christian ponder.
+519559327632207872	GS:negative	neutral	local concert promoters c3 presents may be sold. could this be the last truly austin city limits festival? 
+523077721551695872	GS:positive	neutral	whole day tomorrow eh? nahh imma go straight to sm and watch annabelle lol
+522467792734674944	GS:neutral	positive	   i'd prob say 3rd or 4th. all it takes is 1 team to fall in love tho. see ej manuel &amp; christian ponder
+520475905009807360	GS:neutral	negative	report about sunanda's death inconclusive: police: new delhi, oct 10 (ians) delhi police said friday the foren... 
+520278609555369984	GS:negative	positive	england on a thursday night? even the fa has realised we are only good enough for the europa league.
+523100851330908160	GS:positive	neutral	rodgers: if i wanted to go with the same team on sunday and wednesday i could do that. #lfc  go with d same team
+522777910193954816	GS:positive	neutral	narendra modi accelerates economic reform drive financial times writing in the financial times in april, mr... 
+521490362939244546	GS:positive	neutral	expect to see the new mclaren 650s gt3 to make a debut appearance at the 2014 gulf 12 hour race, 12-13 december.... 
+518274385413545984	GS:positive	neutral	 may kindly undertake the exercise of upgrading delhi police by inducting chopper service for patrolling &amp; security etc...
+522915295732568065	GS:positive	neutral	we're in the, what, 5th week of the nfl season, and danny amendola and brian cushing are both healthy. this is weird.
+522881513906384896	GS:neutral	negative	if you are a college undergrad and really want to see greek life or even just turn up to levels you can't imagine be @ ucla fri &amp; usc sat.
+522976534945361920	GS:neutral	negative	on life people are sleeping on mike rodgers. if usa wants a decent shot at beating the jamaicans in rio i suggest they put rodgers on 1st
+520639360233115648	GS:positive	negative	come on  let's not give up on finishing 3rd for the europa league
+523050792891473920	GS:positive	neutral	friday night lights... cheer on bishop mcnamara at home tonight as they take on st. ignatius! sophomore game... 
+520889957523927040	GS:positive	neutral	hope our boy fabian delph gets a start tomorrow and continues to produce the quality performances us villans are used to! #comeonengland utv
+523002149823709186	GS:neutral	negative	remember that time that mellie had 'americas baby' 2nd season? why isn't there a toddler running around the white house? #scandal
+523074196495413248	GS:negative	neutral	friday night lights on spotify? this friday's about to get grimey.
+522920053826547712	GS:neutral	positive	ducks are ready for the ita northwest regional championships starting tomorrow! get the full scoop here: 
+522994068478263297	GS:neutral	negative	fabian delph may miss england's next games amid fears he may have a serious shoulder injury -  
+522551832476790784	GS:negative	neutral	if you think  the browns should or will trade manziel you're an idiot. aaron rodgers sat behind favre for multiple years.
+521694043622113281	GS:neutral	negative	stoops says one of his players will miss 1st half vs lsu - self imposed penalty for what he calls selfishness on the field. no name given
+522944333985873920	GS:neutral	negative	gandhi:there may be violence, but then again the landlords may cooperate fischer:you are an optimist gandhi:they might cooperate by fleeing
+522880245590790145	GS:neutral	positive	i honestly think that from now until may(ish), the only thing i'm gonna look forward to on fridays is watching the vampire diaries!
+519265768199163905	GS:neutral	negative	brian cushing is not out for thursday's game. he was just one of 11 #texans who did not practice on monday: 
+521741100269453312	GS:negative	positive	 pulis sold 4000 fans short in valencia by letting them pay good money, talking up the europa league, then picking a 2nd team!
+520055337563353088	GS:neutral	positive	this will be me when nash's new video with skylynn its up tomorrow 
+523096605767913474	GS:negative	positive	us sen. rand paul calls #ebola 'incredibly contagious,' says white house should be honest about how it spreads. 
+523069739375935488	GS:neutral	negative	west indies go home after the dharamsala 4th odi. no fifth odi. no one-off t20. no three-test series. #shokingnews #indvswi
+522391065421025280	GS:neutral	negative	a reminder that while christian ponder may be a terrible nfl qb, he's a terrific community member --- 
+523051333864390656	GS:neutral	positive	parliament adjourned until monday. maseru is calm with heavy police presence in the city streets.
+522208173286256641	GS:neutral	negative	what was the running bet? i would get a tramp stamp of stoops face if we won saturday??? yall would each give me a grand if we lost.,.
+522519926985076738	GS:neutral	positive	what made aaron rodgers so good in the final moments during sunday's win vs. mia... - 
+520507717949992960	GS:neutral	negative	report about sunandas death inconclusive police: delhi police said friday the forensic evidence available abou... 
+520369779371024384	GS:positive	neutral	2,552,211 people could have seen 'brian cushing' since its 1st mention until it became a trending topic. #trndnl
+522881330065842176	GS:negative	neutral	it's not like a guy who's now a 3rd stringer behind christian ponder and teddy bridgewater could lead the pats to 11 wins one year....
+519554692658253824	GS:neutral	negative	should we say that ruto is now the 5th president of kenya ? yes or no
+519268243664805889	GS:negative	neutral	#texans linebacker brian cushing (knee) listed as out for #colts on thursday night football  #nfl"" are you serious...
+521527486060847105	GS:positive	neutral	rss: october 2: new photo of justin with lenny kravitz at...  
+523052964312006656	GS:positive	neutral	there's something about friday night lights, you just get chills thinking about it .
+522938259585105920	GS:positive	neutral	im going to disney world on october 3rd. so if you want to come one down, come on down !
+522922217072783360	GS:positive	negative	katy perry performing at the super bowl halftime show in feb. damn sure wouldn't mind a wardrobe malfunction..
+522910894486196225	GS:positive	neutral	back in california, come watch some asu hockey at ucla tonight and sdsu tomorrow and saturday, i'll be your friend if you do
+519902306146713600	GS:neutral	negative	ukenyatta jetting into the country tomorrow yet ruto hasnt even shed enough tears about his acting presidency position
+520349970122424321	GS:positive	neutral	nash is bae, nash is life but skash (skylynn and nash) videos are just the whole package. thursday hurry up pls   #nashsnewvideo
+521120330136297472	GS:negative	positive	way to fix those problems james franklin...not. you may be a good recruiter but you can't coach for shit.
+523041162203258880	GS:positive	negative	disney tomorrow just hope this cold lets up :(
+523080625251950592	GS:neutral	negative	west indies team to go home after the 4th odi in dharamsala. no 5th odi, no one-off t20 and no three-test series.... 
+523028488496762880	GS:positive	neutral	 i'm going to disney world on october 3rd! if you wanna come on down, come on down!
+522811012299636736	GS:positive	negative	if todd gurley isn't the 1st overall pick idk what the hell these nfl scouts are watching, he's by far the most dominant player in cfb
+519985135517585408	GS:negative	positive	#wcw goes to the little 3rd grader i said that's better than christian ponder. let's name her christiana 
+522800419467051008	GS:negative	neutral	q: why #javedhashmi resignd in d 1st place if he wantd to remain part of parliament? &amp; why he left  &amp; aftrwrds acceptd thr support?
+520539824777093121	GS:negative	positive	 dwayne allen destroyed brian cushing on the 1st down run. such a complete te  of many great blocks
+522878375098994688	GS:negative	neutral	rodgers: ""i've read we sent dossiers to the fa on sterling/sturridge &amp; having showdown talks with hodgson on sunday &amp; all sorts of rubbish""
+523069646522441730	GS:neutral	negative	west indies pull off from the india tour after the 4th odi in dharamsala owing to pay dispute with their board.
+521705116068757506	GS:neutral	positive	 got asiata @ start of wk2, let him get two good games and sent him in a trade for a '15 2nd, same guy just offrd him bk for 3rd
+523037163819401216	GS:positive	neutral	it's friday so i'm washing my hair with loreal kids (the red one) and watching the katy perry movie #treatyoself
+523071699235782658	GS:negative	neutral	very unfair: west indies players to fly back on their own expense after the 4th odi in dharamsala (timesnow) #indvswi #westindies
+521291975166033920	GS:neutral	negative	  asiata may have a tough time against det run d but i'd still lean him if i was playing it safe.
+522185942178607104	GS:negative	neutral	we might as well bring back orr and mclaren if carlyle continues to play three lines. in my opinion he's not using kozun properly. 4th line?
+523075903203450880	GS:negative	neutral	he he he he "" west indies players to fly back on their own expense after the 4th odi in dharamsala (timesnow)""
+522889692874674176	GS:neutral	positive	if empire is the starting point then our history is the history of 1/3rd of the planet. nkrumah, gandhi, marley it all becomes our history..
+520296143616352256	GS:neutral	positive	this is just like watching a europa league game. bonus points for putting it on thursday night as well
+523098302183911424	GS:negative	positive	dishwasher repair canceled. ..sears coming out tuesday...grrrr...can't wait to see annabelle with david misty... 
+523047601365843968	GS:neutral	negative	wanna watch annabelle tomorrow but who the hell wants to hang out with me lol k
+520171760797241344	GS:positive	neutral	can we just talk about another #nashlynn video tomorrow you go nash and skylynn
+522739696938405888	GS:neutral	positive	   it may have not been the best idea to name our mascot the beaver...still better than ducks
+522686794718928896	GS:neutral	positive	next: latest on the 2nd nurse to test positive for ebola, aaron rodgers meets his look-alike, &amp;  with your forecast.
+522758600973115392	GS:positive	neutral	live as if you were to die tomorrow. learn as if you were to live forever. gandhi
+522595007526887424	GS:negative	positive	   im terrified of needles and hiv and sex can give hiv and condoms may protect from it
+521366972815400961	GS:negative	neutral	game plan for the 2nd half. don't pass it to asiata.
+519867580354662400	GS:positive	neutral	ruto should declare tomorrow a holiday ya kuwelcome kamwana, after all how will we remember he was in-charge for 2days
+522795792038649856	GS:neutral	positive	alright #nflfantasy players, i need help this week! start the red hot on fire tom brady for tonight? or keep aaron rodgers in for sunday?
+523013877840502784	GS:positive	negative	defo going five guys and to watch annabelle tomorrow even if i have no one to go with hahaha
+523010580194414593	GS:negative	neutral	advertising is getting so aggressive, just saw a billboard asking ""will you get hiv today? will you get hiv tonight? how about tomorrow?""
+520178891881992192	GS:negative	neutral	so has ruto finished his 1st term you twitter constitution lawyers seems you've gone back to your daily hustles
+519963379365314561	GS:neutral	negative	if you aren't already, subscribe to nash's youtube channel! he's posting a new video with skylynn tomorrow! 
+522938787412733952	GS:neutral	positive	my phone interview with disney world for the web design internship is tomorrow!
+522698590171721729	GS:positive	neutral	live as if you were going to die tomorrow. learn as if you were to live forever. - gandhi #wisewords
+521061739925110784	GS:negative	positive	asif i just got sacked by everton for coming 6th reaching fa cup final and winning the europa league #mad
+519694493285502976	GS:neutral	negative	andre johnson did not practice today for the #texans. arian foster limited. brian cushing out. all expected to play thursday.
+523017608979701760	GS:negative	neutral	32 year old man rapes and infects two kids with hiv: a 32-year-old man, mr. terkura iorpuu, was on thursday ar... 
+522867929444925441	GS:neutral	positive	aaron rodgers: good in the 4th qtr, but too cautious overall? 
+522850860939104257	GS:positive	neutral	it may not be the right fit for everyone, but prep therapy can prevent the spread of hiv, read here:  #hivprevention
+519264108408217601	GS:neutral	negative	brian cushing is not listed as out for thursday's game. he did not participate in practice today. mistake was made inputting to the nfl site
+522944088224845825	GS:negative	neutral	watching tvd while ishrat will be the death of me tomorrow
+521178877494702080	GS:neutral	negative	the pdf of the forward press magazine issue that delhi police illegally confiscated:  read it, share it, save it.
+523090188420280322	GS:negative	neutral	3rd time at disney land this weekend and if thunder mountain is closed again, i'm gonna drive the fucker myself.
+522936354116612096	GS:neutral	positive	a rep from ucla will be at the pilot center tomorrow during lunch. see you there!
+521687545684303872	GS:neutral	negative	the third leading receiver in the b1g didn't see much of the field on sat, and james franklin didn't really say why: 
+523092078264606720	GS:neutral	negative	david coulthard says fernando alonso may have lost some leverage in negotiations with mclaren, adding that merc... 
+522996299348848640	GS:positive	neutral	the big showdown nov 10 :-) are you guys coming to vancouver for the ducks game? 
+519193007837696001	GS:neutral	positive	this tnf game will be brian cushing's 1st time going against andrew luck.  #houstontexans
+522541732810858496	GS:negative	positive	this  fine thing sounds like the ejection rule in cfb. yes the ejection may be called back, but hey, you still get the penalty!
+522825209368559616	GS:neutral	positive	alpha sigma is partaking the walk to end hiv on october 25. please support our efforts by making a donation. 
+522735811696271360	GS:positive	negative	tomorrow  brings eu referendum bill back to parliament! hope labour &amp; lib dems won't again try to block the public having a say
+523101168399294464	GS:positive	neutral	rodgers just confirmed that both allen and can are fit, and will be back in the squad for sunday's trip to qpr. #lfc
+521025030118207488	GS:negative	positive	stoops admits he wouldn't believe they'd be 2nd in the country in interceptions. ""i gotta be honest there.""
+521019560636710912	GS:neutral	positive	stoops got the record 10th win against saxet!
+522912071797977088	GS:positive	neutral	looks like the  defense will be getting a a on sunday. my hypothesis? aaron rodgers will be eating a lot of mud pies.#keeppounding
+522857323128033281	GS:positive	negative	 loved subtweeting ur tweets about how ugly katy perry was in 9th grade
+522832734578692096	GS:neutral	positive	 i'm thinking the same thing. they may try it like they did ucla.
+522920116858531840	GS:neutral	negative	ucla study shows why one of the biggest obamacare fears may not come to pass - california healthline 
+520378801570598913	GS:negative	positive	if the nfl wants better thursday games, they'll need to get qbs other than christian ponder and ryan fitzpatrick playing #ugly #blowout
+522973960749596673	GS:positive	neutral	if they question you about nov just say thanksgiving, it's the white house, they'll understand &amp; pardon you and a turkey #scandal
+522366026269622272	GS:negative	neutral	it was unnecessary drama; cord about uhuru hand over to ruto in parliamentary debate on uhuru address on oct 6
+523095753615757313	GS:positive	neutral	whatever else may go on there, to a number of people, the white house is still a home.... 
+523005387705188352	GS:neutral	negative	i swear, the night before i leave for an away football weekend, i can't sleep. it's like grown up-lotsa beer-12th man towel disney world
+522091919405752320	GS:neutral	negative	 yeah i trotted out the struggle team of hillman and asiata on sunday lol
+519380103776968704	GS:positive	neutral	hey there my bro  may you help shed like on the presidency issue in your country .what's going on re: uhuru kenyatta and ruto?
+523094986590781440	GS:neutral	positive	last match of the tour #noindvwi simply outstanding, dramatic dharamsala ! india 330-6, 50 overs #indvwi 20th odi... 
+523078733608275968	GS:neutral	negative	  i've not actually tried the mclaren, but i came 5th in the toro rosso, would have been 4th without a mistake.
+522969136758939649	GS:positive	neutral	 similarity between #mohandas gandhi &amp; #narendra modi: have you seen dandi march video clips? both r working through  pace.
+522787787930484736	GS:neutral	negative	if anybody remembers nostradamus and his predictions. i think the mysterious leader described by him may be narendra modi.
+520003080537272320	GS:neutral	positive	subscribe to nash's channel to see when his new youtube video with skylynn is uploaded tomorrow!  
+522976384868974592	GS:positive	neutral	red bull will be the drink of choice after work tomorrow
+522964717040455680	GS:positive	neutral	everyone wanna skip work/school tomorrow and have a bulls party to get hyped for the season?
+518233924942569472	GS:neutral	positive	 aaron samuels asked cady heron in math class what day it was. and cady responded with october 3rd :d
+522190956838547456	GS:neutral	negative	i may not like the seahawks as a team, but russell wilson is the real deal when it comes to role models.
+523099550303932416	GS:neutral	positive	in the playoffs, there are no favourites. -   speaking on #gameon  ahead of tomorrow's clash with the bulls!
+518252714774388736	GS:neutral	negative	i feel really compelled to write some oct 3rd fanfic where aaron samuels' dies on oct 3rd and his last words are ""what day is it?""
+522845612706766848	GS:neutral	positive	 i watched cowboys totally manhandle seahawks sunday. score was way, way closer than the game on the field. #cowboysrforreal
+522816763801915392	GS:positive	neutral	coach presents...  an21  friday 21 november 2014. in association with ace of clubs. support from hix and niall... 
+522991398065147904	GS:neutral	positive	 leaving disneyland after only an hour to buy impromptu floor seats to the show in la on niall's 21st birthday #millionmemories
+523003987470352386	GS:positive	neutral	redskins see a titan opportunity this weekend: the redskins know sunday's game against the 2-4 tennessee titan... 
+522965801007980544	GS:positive	neutral	bulls came back butler went crazy in the 4th
+521931721973850112	GS:neutral	positive	well it's been 13 years since 9/11, the day all our 1st responders rushed into action and got all the saudis out of the country bill maher
+522910802026586112	GS:positive	neutral	seeing gone girl for the 3rd time 85% because i'm obsessed with the movie 15% because i'm obsessed with ben affleck  
+522513893214937088	GS:positive	neutral	 thought ben affleck played ""schlubby"" well in gone girl, he may give russell crowe a run for his money in that dept...
+522605185881743360	GS:positive	neutral	the  bullpen's impression of 7th inning kershaw was spot on tonight
+523072815868952576	GS:neutral	positive	on a scale of 1 to rebecca black how happy are you that it's friday
+521313072367951872	GS:neutral	positive	   sam harris isn't liberal. he may think he is, but that's the same as bill maher thinking he's funny.
+522957242589798400	GS:neutral	positive	  i hope you're referring to the ole miss game.  play bama on the 4th saturday
+523068534503403520	GS:positive	neutral	get ready the royals have an opponent in the world series! the boys in blue will take on the san francisco giants! first game tuesday in kc!
+522970254113529856	GS:neutral	negative	 like if you just label yourself liberal, it's different. hell bill maher literally said ""c'mon guys i'm not a tea partier!""
+522951269271339008	GS:negative	positive	  2nd best in luck draft? rg3 if u are talking as prospects and russell wilson if u talking about pro careers. lame
+521315004289912832	GS:positive	neutral	i may or may not be driving an hour and a half just to see the wwat film but i know it will be 100% worth it
+522895988361412608	GS:positive	negative	 if the vols step up to the challenge of ole miss, don't expect the vols to go down without a 4th quarter dogfight
+522438076149538816	GS:positive	neutral	 went to see wwa film on saturday mate....... they didnt have it up outside but i took a pic anyway 
+521122038782902272	GS:positive	negative	tomorrow i'll go to the movies and i'll watch wwat again. don't look at me like that, that's the only way i'll see them.
+523001087025229824	GS:neutral	positive	1992 the sports page, cowboys, the kingfish &amp;the oaks everywhere to get to you,taurus may 4th fontenot love 
+522496702985801730	GS:positive	neutral	 woooo i'll look into for next wednesday, just wanna see ben affleck
+519126634645819392	GS:neutral	positive	i had a dream aaron samuels wasn't happy it was october 3rd.....
+522881659398791168	GS:positive	neutral	this is seems relevant with both mississipppi teams in the top 5. article from april from a writer with ole miss ties 
+523097328559734784	GS:neutral	positive	scouting the 12th blue !  get your chelsea home/away jersey with customized printing now!  
+521871362563272704	GS:positive	neutral	bill maher may be a little out there, but he does make some points.
+522846625455030272	GS:neutral	negative	i predict cowboys may be 8-2 (at worst) going into bye week with the possible loss being to arizona.   thoughts?
+522891552855564288	GS:negative	positive	i don't want to go to school on monday. i would love to cuddle with niall instead. but this will never ever happen, lol.
+523090691165921281	GS:neutral	positive	 does kittleson still play rebecca black every friday, if he doesn't you should remind him how much he played that song lol!
+523099822824247299	GS:neutral	negative	 hey, you never know with these 2nd, 3rd round guys. look at russell wilson and kap.
+523081046678831105	GS:positive	neutral	royals rumblings for october 17. the royals are the future of baseball, expensive ws tix and #bringbacksungwoo 
+522965763746193409	GS:negative	positive	school tomorrow just killed the awesome vibe i was just in
+522595821599342592	GS:neutral	negative	realized i didn't get to see the redskins get that beatdown on sunday.
+523097460991094784	GS:neutral	positive	only 10 seats remaining for nov 15 mother/son bulls game outing!  click here for tickets:    don't miss it.
+523088836105342976	GS:neutral	negative	 hell, uk is 16th, but i doubt that number is accurate.  other teams have played better comp.  stanford, ole miss are the best.
+522833226662813696	GS:positive	negative	ben affleck and henry cavill are in my city. sucks to know that i'm only the 3rd sexiest dude here for a day.
+523072337030422529	GS:positive	neutral	it's friday, friday gotta get down on friday everybody's lookin' forward to the weekend, weekend -. rebecca black
+520875345386291201	GS:neutral	positive	just remember...the wwat isn't over until sunday evening ;)
+522944746881572864	GS:neutral	positive	oct 25!! night of the living cover bands! the coma recovery as depeche mode * cowboys and indian as motley crue * distances as garbage *...
+522776936481701888	GS:neutral	negative	i can't tell if red bull are about to sell or if they're just waiting until jozy is available in january. #mls
+523044096857096193	GS:positive	neutral	 see you saturday - got to tell you i have a soft spot for the royals after how they have played the post season
+522106265192116224	GS:positive	neutral	a few cinemas will be showing the wwa concert film again on friday 17th so if you haven't seen it yet go
+522982157640151041	GS:neutral	positive	what if oakland beat the royals in the bot of the 12th.... it would have been a bay bridge series all over again. maybe a 7.2 earthquake too
+522833402236379137	GS:neutral	negative	#seahawks qb russell wilson was asked about an incident on sideline last sunday where cameras appeared to have caught an angry doug baldwin.
+522926556151562240	GS:neutral	positive	 always loved you as a player.  as an analyst, not so much.  watch saturday to see if ole miss is winning with talent or emotion
+523083554264461313	GS:neutral	positive	mom i know its friday you don't need to parade around the house singing rebecca black
+522936048159301634	GS:positive	negative	he was using that sat. during the lsu game  i hope california is paying jesse palmer to say ""3rd and california"" this many times.
+521140331908042752	GS:neutral	negative	real time with bill maher march 9 2012 poor white conservatives from mississippi 720p 
+522209210277564416	GS:negative	positive	for all the talk of russell wilson's greatness, seattle's passing offense is 31st in league. 
+519282680031367168	GS:neutral	positive	aaron samuels in the house... wearing pink and it ain't even wednesday! #meangirls #dwts
+523067815746867201	GS:neutral	positive	es open interest. +74k new shorts on wednesday, -64k short covering yesterday. not that many shorts out there, today its all about the bulls
+522625094074761216	GS:neutral	positive	jan hooks: batman returns (bilingual) [import]: the legendary hero returns to do battle against the mysterious cat wo 
+522836208951377920	GS:positive	negative	i ordered the crossed out monday shirt that niall wore on tour at 1 am this morning. why? because i can't be stopped.
+518436394143068160	GS:negative	neutral	it's october 4th. let's be real, aaron samuels probably asked her the date then too. that guy was a tool. #meangirls
+522972443397615616	GS:neutral	positive	 yeah, i know. she's supposed to be on the school roof mon, tue, thurs, and sat. but aint. is it cause yukiko hasn't recovered?
+523101844718252032	GS:positive	neutral	 john terry is due to captain chelsea from the start for the 500th occasion tomorrow...    playing legend
+522703793092558848	GS:neutral	positive	i had a dream abt going to wwa tomorrow
+520776483032158209	GS:positive	negative	a highlight for my friday nights is watching real time with bill maher listening to him &amp; his guests bitch about the government
+522827783685570560	GS:positive	neutral	i got lots of tweets asking for shoutouts to niall, if i think about it i will give shoutouts to niall when i get back from work tomorrow!!
+523001718448332801	GS:neutral	negative	it's weird that russell wilson and i have the same birthrate november 29. same height 5'11. same weight 205 lbs. what a coincidence lol
+522888894572806145	GS:neutral	positive	goshen defeats northwood 6-0 in boys soccer regional. the redskins will meet the penn-st. joe winner in the finale saturday at 1 p.m.
+522866655836131328	GS:positive	neutral	two cans of red bull may give you x-ray vision, but five cans give you the ability to hear oxygen.
+522918307574603776	GS:positive	negative	matt adams ties it up - 1st hr bumgarner has allowed this post-season. adams can't hit lefties, but he's taken madbum &amp; kershaw deep. #nlcs
+522929165599653888	GS:positive	neutral	might be going for the lsu game saturday!
+521284530531876864	GS:neutral	positive	love, joy, feminism women over there have it worse!: as some of you may know, bill maher ...  via 
+522907638590222336	GS:negative	neutral	drinking all the red bull and still yawning and sleepy. at least it's friday?
+522789008405839872	GS:neutral	positive	  listen to the lyrics. soreal  jan hooks tribute: love is a dream 
+521285361486815232	GS:neutral	negative	your sunday read. mt   on why bill maher isn't the only one who misunderstands religion. 
+522926723860410368	GS:negative	neutral	guys will think twice about bringing their familiesgiants owner said cowboys will get disease fir 
+522953732422922240	GS:neutral	positive	#tbt to the first time  and i visited ole miss, fall 2011 - see you tomorrow, oxford! 
+522947176851595265	GS:negative	positive	wow.  elizabeth pena and jan hooks in the same week.  so sad.  and both so young...makes you think.
+522994636113985538	GS:positive	negative	the 1st time i saw them live &amp; started crying &amp; wouldnt stfu about how niall had balloons #wwat #millionmemories 
+521981767050616832	GS:negative	positive	 yup, saw it on bill maher documentary on crazy folk lol apparently their mock palm sunday festival is a big hit. #sarcasm
+522908389115183104	GS:neutral	negative	looks a lot like the redskins fumble from this past sunday.
+522918143581503488	GS:negative	neutral	saturday ill be at the lsu game with a ""fire les miles"" sign big faded
+523053488822317056	GS:positive	neutral	 how old? the royals were the 1st wild card team. they'd have been in either way.
+522898920830410752	GS:positive	negative	and overall, #uga units combined rank 3rd nationally in team efficiency points, just behind ole miss and auburn. 
+522925871737602049	GS:positive	neutral	finally finished my presentation for tomorrow. before midnight and without the aid of red bull.   so grown up of me.
+523091076866129920	GS:negative	neutral	chelsea striker diego costa is a doubt for the blues' clash against crystal palace on saturday through injury. 
+522881837094301696	GS:negative	neutral	ugh someone just hang out with me tomorrow. all my friends are either always working or still at lsu
+522943891524554754	GS:neutral	positive	 trying to get a meet &amp; greet for my niece at the ole miss game saturday, is that possible??
+523052638594551808	GS:neutral	positive	 i'm gonna yell it out at school on monday. thank you
+523097469501308928	GS:positive	neutral	tomorrow an hour from now chelsea look to further their impressive start. will they do it? #cfc #cpfc 
+522395253668855808	GS:neutral	positive	i went to wwat in spain 11 july you promise follow me in  ???? it's impossible that you see this.. 
+522977471290155010	GS:neutral	negative	 i will have a column on rex for tomorrow. i just don't feel like talking jets right now with the royals doing so well.
+522916845742215171	GS:positive	negative	 niall, would you follow us if we ran down the hallways at school tomorrow blasting steal my girl?
+522981100612624384	GS:neutral	negative	cardinals wainwright tried to mimic kershaw's mechanics. realized that after he tried dragging out his delivery leg kick. in wain of the 7th
+523101658000420865	GS:positive	neutral	what a weekend. big blue madness tonight, cats at lsu tomorrow, hawks preds tomorrow, and  just bought hawks isles tickets for us
+523098757488209920	GS:neutral	positive	it's friday, friday! gotta drink tea on friday! (did you sing it like you were rebecca black?!)
+522228061027438593	GS:positive	negative	so i didn't tweet about it yet but i went to go so the wwa concert movie on sunday with my mom bc my friends were all working hahaha
+522928942005911553	GS:neutral	negative	i have a feeling ut will give ole miss all they want saturday. may be a trap game for om. depends on ut ol. ole miss has fierce pass rush.
+522961898946699264	GS:neutral	positive	  see you guys there. flying from chicago tomorrow. i'll be in ole miss shirt &amp; daughter in dress. easy to spot.
+523079816438763520	GS:positive	neutral	jimmy g buckets gets buckets!!! bulls down 20pts in 4th, jimmy with 20pts in the 4th #clutch
+522824867075600384	GS:neutral	positive	win tickets for redskins vs the titans. stop by our new location at  to sign up and win! today at 6pm-saturday 10pm
+522887763205849089	GS:negative	neutral	i may not know what i'm doing with my life right now, but i do know what songs i'd choose if i had to lip sync battle jimmy fallon.
+522688009234169856	GS:negative	neutral	if the wild rumours about alonso's 2015 salary being thrown around are true, that diamond encrusted mono-brow comb may be getting closer...
+522343031173689344	GS:positive	neutral	afc's top running backs to meet on monday night football: arian foster and le'veon bell are the ...  #nfl, #texans
+522388344840679424	GS:positive	neutral	just sat here casually daydreaming about norman reedus, you know, as you do at 3:10 on a wednesday afternoon! love xxx 
+518413274006978560	GS:positive	neutral	what a game here between valencia and atleti. 3-1 at the break. join  and i for 2nd half on 
+523078763920523264	GS:neutral	negative	it still hasn't hit me yet that i'm going to see demi lovato on monday,
+522932925491585026	GS:positive	neutral	due to nine weeks testing, the pep rally will begin at 1:30 tomorrow, october 17. go vikings!!
+522813090149462016	GS:positive	neutral	panthers are about to smack green bay sunday. starting to look healthier out there 
+522934626705084417	GS:negative	neutral	if you thought designing brightest windmill is jokehave your last laugh at sangam university bhilwara 9 nov 2014 
+522523656270790656	GS:neutral	negative	shows how much you can trust drivers answering these questions. alonso was still saying on monday that ferrari split is ""just a rumor."" #f1
+522692670893088768	GS:neutral	positive	 are you giving away meet and greet passes for demi lovato on monday??
+519977618276622336	GS:positive	neutral	perhaps i need a life, but i am really interested to see the fec's draft citizens united rules, which they'll take up tomorrow.
+522249779833622529	GS:neutral	negative	just bought my ticket for knott's friday and i'm not entirely sure if i did things correctly hopefully i can print my ticket tomorrow
+519288294451187712	GS:negative	neutral	 agreed. although it seemed like atleti was still hungover from the juve game. any chance of the azzurri game on saturday?
+522973487111999488	GS:positive	neutral	i really wanna go to knott's on the 31st
+523020726845317120	GS:negative	positive	my uan was created in jul'14 &amp; modi unveiled it yesterday! he is just an attention seeker. fooling people by eating credits &amp; pr activities
+522931280829489152	GS:neutral	negative	 that the date was november 30th. aka the day where the patriots kill the packers
+522897315057897472	GS:neutral	positive	dan tyler comes right back with the vikings 3rd goal of the half
+518439772323598337	GS:positive	neutral	goal neymar! 0-2, reminds me of the game before between valencia &amp; atleti just at the end of the 1st half! #fcblive #rayfcb
+518658029227503616	GS:positive	negative	our deep condolences for lee soo man's family, may she rest in peace :(
+523047188251697152	GS:positive	negative	watched 'draft day' tonight and it deserves a big thumbs up. don't know much about nfl so i'm going to buy the nfl game on ps3 tomorrow.
+522853493678149632	GS:neutral	positive	ron rivera says cam newton is playing the best football of his career. are the packers in trouble on sunday?... 
+522763117626146818	GS:positive	neutral	  demi lovato is in concert this sunday at the bell center sweety! there's still some places available! evenko.ca
+522847082206744576	GS:positive	neutral	   will tie his season high when he catches his 4th td sunday! go colts!
+523076537873362944	GS:negative	positive	 all congress party members have stopped taking bath as it may mean they are support modi's #swachhhtaabhiyaan
+518405929734529024	GS:neutral	positive	be back from the gym in the 10th minute i said, you won't miss much of the atleti game i said...
+521508920335282177	GS:positive	negative	not gonna lie.. every sunday, after the walking dead, i feel the need to watch the boondock saints. norman reedus is entirely responsible.
+523096629562589186	GS:positive	neutral	had a dream last night that ej started sunday against the vikings and threw for over 400 yards and 5 tds...a man can dream right?
+522359054874595329	GS:neutral	negative	hi  sorry we don't have po in sm north edsa but you may try our post office at nia road quezon city.
+518357039790059520	GS:neutral	positive	01 oct 2014 rock on dandiya nite at sangam university bhilwara just beat it - video1 
+523083416820916224	GS:neutral	positive	 you may just google the name of the hoodie too and it may come up that way. that's worked for me sometimes too.
+522938208523649024	GS:neutral	positive	seeing demi lovato for the first time in 6 years tomorrow and feeling like i'm 9 again 
+522936826039123968	GS:positive	neutral	lumber jack out tomorrow as we take down the colts!
+521374109226512384	GS:positive	neutral	 tomorrow then announces that alonso is going to ferrari and vettel signing? greetings.
+523043360647294977	GS:positive	neutral	 1st day aftr elex &amp; modi has got new cea,potatoe imports r on &amp;    but folks see conspiracy everywhere
+523035899408703488	GS:positive	neutral	how about a day of action and meetups on sat oct 18th  with jacqui gingras  9:30 am for coffee @ cafe mazzega in #lumby we'll be there :)
+522828397894848512	GS:neutral	positive	today is thirsty thursday! get a beer + cold shot combo for only $5 all day long. join us for the green bay... 
+522682602264616960	GS:neutral	negative	oct 16: habibur shiekh (most wanted) operative of the terror module and 'trainer' at the simulia madrassa arrested by nia #burdwanterror
+522800050339319809	GS:positive	negative	just saw that i don't have to stream the panthers vs packers game this sunday #fuckyes
+518901327179812864	GS:neutral	negative	report: russian hackers behind jpmorgan chase attack - they may have struck about nine other financial inst... 
+520861366115385344	GS:neutral	positive	 megatron listed as doubtful and is benched by lowe! but arian foster scores big thursday night to give the pigeons a start!!
+523066577004941312	GS:neutral	negative	nia reportedly found material suggesting that an abandoned madrasa may have been used as a hub  to make bombs exported to bangladesh.
+523008115026198528	GS:neutral	positive	i dont say modi is the best pm, but its the first time i watched pm's speech other than that on 15th august i... 
+523076953554026496	GS:neutral	negative	#cardinals make up for lousy pass d with tough run defense. they are 3rd in nfl, allowing 75.8 rushing yards per game.
+522969831143141376	GS:negative	neutral	hey  why is the ohio state/rutgers game on sat not being shown in hd on espn2 in co? guide is showing ucla/cal on abc &amp; espn2
+523090190647435264	GS:positive	neutral	the buccaneers have a bye week this weekend. they are practicing hard for their game on october 26th vs the vikings. #lwlive
+521001763696951296	GS:neutral	positive	 well, choices wise may be it makes sense recognizing his form. but i'm just saying atleti's system has a lot of say in it.
+520645468121206784	GS:positive	negative	people said i was dumb for picking arian foster with my first pick..which was the 11th pick. he's the 5th best rb so far
+523082790490087424	GS:negative	neutral	#bjpblackmoneydhokha  chowkidar modi is sun cahoots with black money hoarders
+521307906734837760	GS:positive	neutral	i just saw norman reedus in his car and i there may or may not be a tear in the corner of my eye because that's daddy
+518640209882132481	GS:positive	negative	to lee soo man, our deepest sympathy goes out to you &amp; your family as you struggle through the grief and sadness. may ur wife rest in peace
+523083439004991488	GS:neutral	negative	gigaom search facebook may have solved mobile, but google is still struggling with it 
+522699620494094338	GS:positive	neutral	fec approves n2.7bn for abuja roads rehabilitation  the federal executive council on wednesday approved the sum... 
+521374563721281536	GS:positive	neutral	i may or may not be looking through all of norman reedus' filmography so i can watch all of it
+523052490825031681	GS:neutral	positive	 still get abc and sbs, gotta be the aerial. looks like i'll be making the climb tomorrow.
+521504529385549826	GS:positive	neutral	if i could go back in time i'd definitely do it. i'd go back to thursday october 9 2014 at 6pm to put in arian foster in fantasy
+518688609239453696	GS:positive	neutral	maybe this is the reason why lee soo man find another ceo. condolence and may he comeback soon
+522342687014658049	GS:positive	neutral	afc's top running backs to meet on monday night football - arian foster and le'veon bell are the afc's top two rus... 
+523061057862918144	GS:positive	neutral	my friday night is consisting of watching jimmy fallon on youtube you could say i walk on the wild side
+522930360942739456	GS:neutral	negative	dooley gets a huge kill for a much-needed sideout and und adds another to force a vikings timeout. it's 20-16 psu in the 4th.
+522956653734686721	GS:neutral	positive	 oh man i had the same feeling sunday when my packers hung on to beat the dolphins lol
+520944939006300162	GS:positive	neutral	sangam university bhilwara salutes nobel laureates united nations international day of the girl child 11 oct 2014 
+523020945955762176	GS:neutral	positive	#friday #goodmorning #weekendishere what nfl game do you dream of attending this season? make it a reality   
+522223399053967360	GS:positive	neutral	 when i go to the store i'll take one w. a mask xd get money so we can go to knott's saturday!!!
+523069211963588608	GS:negative	neutral	 u turn/hypocrisy whatever #aaptards may say  modi govt close to getting what we want from the swiss .
+519978762713042944	GS:positive	neutral	fec approves $1.1bn for two locomotives: the federal executive council (fec) thursday approved a n1.1 billion for the design, manufac...
+521500491789115392	GS:positive	negative	i may not like the walking dead but norman reedus is pretty attractive.
+523078872330272769	GS:neutral	positive	this sunday nfl playoffs come and watch your favorite nfl teams on 1 of our many hd flat screen tv's inside the... 
+522615366280048640	GS:neutral	negative	  sitting sat. wasn't going to be there in time to stand, as travel arrangements were already made b4 nia announced
+522244846439137280	GS:neutral	negative	anyone going to knott's scary farm saturday and can i come
+523072088773378049	GS:neutral	positive	 anytime you even mention the thursday night nfl game, that is the definition of 610am give up
+522613561957548032	GS:positive	negative	 ohhhh shit sir!! just fired up blade ii for the 1st time in awhile and was just like ""damn, that's norman reedus!!"" boss! :)
+519844958149558272	GS:negative	neutral	#mercedes' niki lauda also dismisses the report telling spanish media: ""the agreement (between alonso and mclaren) was signed last thursday""
+518608877915348992	GS:positive	negative	rest in peace lee soo man's wife . my deep condolences  , bereaved family it may be given consolation ..
+522891348513280000	GS:negative	positive	 i'm bout to run yu just wait till monday night when arian foster finish yu off!
+519913496922701824	GS:positive	neutral	fec approves $1.1bn for locomotives: the federal executive council (fec) thursday approved a n1.1 billion for the design, manufacture...
+522967555292409857	GS:negative	positive	not at all happy that we can't play fall ball on saturday, i always look forward to the green bay fall ball team's games, really bummed out
+523074162748047360	GS:neutral	positive	i think modi government may have diplomatic issue in disclosing black money holders name but it'll be great if he publicly clarifies on this
+523096783678078977	GS:positive	neutral	i may agree with modi is communal politics men for this time
+518779539154296832	GS:negative	neutral	 yep,we should get niki lauda to judge nxt time.he said on sat that there's no way he would be racing if he was a current driver
+523071407413284864	GS:neutral	negative	not a lot has changed ... i'm sat with coffee right now lol   
+523101241925447680	GS:positive	neutral	settled in. coffee in hand. docs open.  on. let the morning begin #friday #morning #work #officethings #cbc
+520752395803197440	GS:positive	negative	going to kms because i didn't check fantasy before thursday and left arian foster on my bench... he got 25 points
+522975354533990400	GS:negative	neutral	arian foster / arian foster was limited in thursday's practice with a groin  #nfl #hou
+523066256539131904	GS:positive	neutral	 man friday of modi is credited with the success. but modi galvanised the cadre through his rallies. he caught peoples emagination
+522925262624030720	GS:neutral	negative	after careful bar calculations and algorithms plus some algebra i have determined that the vikings will lose sunday. 
+522921171151364096	GS:positive	neutral	 i may give the panthers too much credit, but i think they'll beat green bay. the dolphins? who knows? will beat chicago.
+523064686669885440	GS:positive	neutral	#noles in the nfl - thursday action review: stork inactive in patriots' win  via 
+523084377136574465	GS:positive	negative	being able to wake up before the sun rises and not depend on coffee is pretty convenient...still gonna buy some joe tho lol
+521356237447761921	GS:neutral	negative	norman reedus, 'the walking dead' cast crash the audience at paleyfest new york (bostonherald): share with fri... 
+523083857441329153	GS:positive	neutral	we can get your website to the 1st page of google searches in bristol for your industry? 
+520538807855501312	GS:positive	neutral	big shout out to arian foster and ty hilton this am. going into sunday with 53 points. nbd
+522953072784732160	GS:negative	positive	right down to an uncomfortably close win over the jets the pats and packers are mirror teams...both will be bounced by championship sunday
+523094977514315776	GS:neutral	negative	so what is it about coffee that may protect individuals from such major harms? and if coffee consumption is in... 
+518428138872008704	GS:neutral	negative	(via  alessio cerci thought he'd scored for atleti, ref deemed handball, 2nd yellow, off. harsh. 
+521427691002953729	GS:positive	neutral	niki lauda became a formula 1 world champion for the 4th time yesterday as the leader of the mercedes amg f1... 
+521480283648843776	GS:positive	neutral	 well.. norman reedus said he'd drop everything he's doing to film the 3rd boondock saints. just a heads up haha.
+523053183250493440	GS:positive	neutral	 i'd like to get a seat on the nfl today this sunday
+522984875797012481	GS:positive	neutral	almost 2 am on the east coast. 11 hour work day ahead. and this game is going to 2ot. lots of coffee will be bought at the co-op tomorrow
+522951812853542912	GS:negative	positive	 that 4th down play in the colts game back in 09 is one of the dumbest decisions i've ever seen
+522937146622349312	GS:neutral	positive	who are you tomorrow? will you make me smile or just bring me sorrow? #hottieoftheweek demi lovato
+520595242156711937	GS:positive	negative	 ahahaha, you're right,, btw actually idk why sm ceo right now kym, how bout lee soo man? may you tell me why?
+521781100604301314	GS:neutral	negative	norman reedus is there going to be a 6th season of the walking dead
+520947211165659136	GS:positive	neutral	sangam university bhilwara salutes nobel laureates united nations international day of the girl child 11 oct 2014 
+523054405159878656	GS:neutral	negative	 modi will come and go...dynasties may emerge again but if the system is fool-proof no politician can loot the treasury.
+522601580692905985	GS:neutral	positive	if you coming to my house saturday in the morning you aren't coming back lol i'm going to knott's
+522571152255094784	GS:neutral	negative	guess i'm going to knott's scary farm on wednesday
+523049475389259776	GS:negative	neutral	  aaah ...1st fixture list i saw earlier had valencia and sevilla in the same half as atleti ...must've been wrong
+523006898443132928	GS:neutral	positive	abc: giant pandas may be cute, but it takes a lot of work to support their lives in captivity: 
+522650373040128000	GS:positive	negative	so knott's tomorrow lmao ima have my bro drive since he licensed. aye  you drivin? lmao not my car thov
+520219347386925057	GS:positive	neutral	just means two of atleti, real or barca will be in pot two along with 2nd and 3rd from the prem league. groups still tough for some #uefa
+522949024132112384	GS:neutral	positive	the day after newark ill be able to say ""i met demi lovato yesterday and im meeting demi lovato tomorrow""

@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="lib/xom-1.2.10.jar"/>
 	<classpathentry kind="lib" path="lib/stanford-corenlp-3.5.2.jar"/>
 	<classpathentry kind="lib" path="lib/ark-tweet-nlp-0.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/webis-1.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
