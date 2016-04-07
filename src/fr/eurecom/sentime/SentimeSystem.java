@@ -30,9 +30,11 @@ public class SentimeSystem {
 		System.err.println("-arrfname         Specify the name of arffs which are used to store the model");
 		System.err.println("-testmodel        Only test one sub-classifier, use 0-4 to specify which sub-classifier to be tested");
 		System.err.println("-trainmodel       Only train one sub-classifier, use 0-3 to specify which sub-classifer to be trained");
-		System.err.println("-bsize            Enable bagging training process and specify the size of bootstrap samples.");
+		System.err.println("-bsize            Enables bagging training process and specify the size of bootstrap samples.");
 		System.err.println("-experiment       Using <nostanford> to disable Stanford Sentiment System; using <noteamx> to exclude TeamX; using <nost> to exclude both systems");
 		System.err.println("-disablefilter    Disable the default filter mechanism: using <train> to disable duplicate input tweets; using <test> to disable duplicate tweet filtering when scoring.");
+		System.err.println("-format           Change the train input format to xml which converts to txt files.Use <xml> for xml input or <txt> for txt input training dataset");
+		System.err.println("-folder        	  Choose the folder of the 10 fold cross-validation folder: using <1> for the first folder, <2 for the second>...");
 	}
 	
 	public static void main(String[] args) throws Exception{
@@ -60,7 +62,8 @@ public class SentimeSystem {
 		boolean without = false;        // When true, disable TeamX
 		boolean nofilter = false;       // When true, do not filter out duplicate tweet
 		boolean score = false;          // When true, use the same scoring mechanism as SemEval2015
-		
+		boolean xml = false;			// When true, training dataset is in xml format.
+		int folder = 0;		// When true, training dataset is in 10 folds.
 		// Parse the arguments
 		if(args.length<1){
 			System.out.println("Usage: <System Mode> <tweet corpus> [parameters] ...\nUsing -help to see detail information.");
@@ -74,16 +77,18 @@ public class SentimeSystem {
 		options.addOption("experiment", true, "Enable different experiment modes");
 		options.addOption("bsize", true, "Using Bagging algorithm and set the size of bootstrap samples");
 		options.addOption("disablefilter", true, "Disable filtering mechanism");
+		options.addOption("format", true, "Training dataset are xml files");
+		options.addOption("folder", true, "Training datasets in 10 folds");
 		options.addOption("help", false, "Offering tutorials");
 		
 		CommandLineParser parser = new GnuParser();
 		try {
 			CommandLine line = parser.parse(options, args);
 			if(line.hasOption("arffname")){
-				nameOfNRCarff = "Trained-Features-NRC_" + line.getOptionValue("arffname");
-				nameOfGUMLTarff = "Trained-Features-GUMLTLT_" + line.getOptionValue("arffname");
-				nameOfKLUEarff = "Trained-Features-KLUE_" + line.getOptionValue("arffname");
-				nameOfTeamXarff = "Trained-Features-TeamX_" + line.getOptionValue("arffname");
+				nameOfNRCarff = "Trained-Features-NRC" + line.getOptionValue("arffname");
+				nameOfGUMLTarff = "Trained-Features-GUMLTLT" + line.getOptionValue("arffname");
+				nameOfKLUEarff = "Trained-Features-KLUE" + line.getOptionValue("arffname");
+				nameOfTeamXarff = "Trained-Features-TeamX" + line.getOptionValue("arffname");
 				nameOfOutput = line.getOptionValue("arffname");
 			}
 			if(line.hasOption("testmodel")){
@@ -128,6 +133,56 @@ public class SentimeSystem {
 					return;
 				}
 			}
+			if(line.hasOption("format")){
+				switch(line.getOptionValue("format")){
+				case "xml":
+					xml = true;
+					break;
+				case "txt":
+					xml=false;
+					break;
+				default:
+					System.err.println("Wrong parameters for -format!!\nUsing -help to see detail information.");
+				return;
+				}
+			}
+			if(line.hasOption("folder")){
+				switch(line.getOptionValue("folder")){
+				case "1":
+					folder = 1;
+					break;
+				case "2":
+					folder = 2;
+					break;
+				case "3":
+					folder = 3;
+					break;
+				case "4":
+					folder = 4;
+					break;
+				case "5":
+					folder = 5;
+					break;
+				case "6":
+					folder = 6;
+					break;
+				case "7":
+					folder = 7;
+					break;
+				case "8":
+					folder = 8;
+					break;
+				case "9":
+					folder = 9;
+					break;
+				case "10":
+					folder = 10;
+					break;
+				default:
+					System.err.println("Wrong parameters for -folder!!\nUsing -help to see detail information.");
+				return;
+				}
+			}			
 			if(line.hasOption("help")){
 				help();
 				return;
@@ -135,8 +190,9 @@ public class SentimeSystem {
 	
 			// Initialize the SentiME system and pass tweet corpus and parameters to it.
 			String[] argList = line.getArgs();
+			
 			PATH = argList[1];
-			SentimeRequestHandler sentimentanalysis = new SentimeRequestHandler(PATH, nofilter, score);
+			SentimeRequestHandler sentimentanalysis = new SentimeRequestHandler(PATH, nofilter, score, xml, folder);
 			
 			switch (argList[0]){
 			case "train":
@@ -153,7 +209,7 @@ public class SentimeSystem {
 					}
 					sentimentanalysis.trainSystem(trainmodelmode, nameOfTheOne);
 				} else if (bagging){
-					sentimentanalysis.bootstrapAllSystems(trainmodelmode, nameOfOutput, bootstrapNumber, without);
+					sentimentanalysis.bootstrapAllSystems(trainmodelmode, nameOfOutput, bootstrapNumber, without, folder);
 				} else {
 					sentimentanalysis.trainAllSystems(trainmodelmode, nameOfOutput);
 				}
@@ -169,10 +225,12 @@ public class SentimeSystem {
 					break;
 					case 3: nameOfTheOne = nameOfTeamXarff;
 					break;
+					case 4: nameOfTheOne = nameOfTeamXarff;
+					break;
 					}
 					sentimentanalysis.testSystem(evalmodelmode, nameOfTheOne);
 				} else {
-					sentimentanalysis.testAllSystem(nameOfNRCarff, nameOfGUMLTarff, nameOfKLUEarff, nameOfTeamXarff, stanford, without);
+					sentimentanalysis.testAllSystem(nameOfNRCarff, nameOfGUMLTarff, nameOfKLUEarff, nameOfTeamXarff, stanford, without, folder);
 				}
 				break;
 			case "single":
@@ -191,7 +249,7 @@ public class SentimeSystem {
 			System.err.println("Parsing failed.  Reason: " + exp.getMessage());
 		}
 		long endTime = System.currentTimeMillis();
-        System.out.println("It took " + ((endTime - startTime) / 1000) + " seconds");	
+        System.out.println("Time: " + ((endTime - startTime) / 60000) + " minutes");	
 	}
 	
 }

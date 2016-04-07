@@ -43,7 +43,10 @@ public class SentimentSystemStanford {
 	    tokenizerProps.setProperty("ssplit.eolonly", "true");
 	    StanfordCoreNLP tokenizer = new StanfordCoreNLP(tokenizerProps);
 	    StanfordCoreNLP pipeline = new StanfordCoreNLP(pipelineProps);
+	    int i=0;
 	    for (Tweet tweet: tweetList){
+	    	i++;
+	    	System.out.println("Sentence No:" +  i);
 	    	preProcessTweet(tweet);
 	    	Annotation annotation = tokenizer.process(tweet.getTweetString());
 	    	pipeline.annotate(annotation);
@@ -93,7 +96,10 @@ public class SentimentSystemStanford {
 	    tokenizerProps.setProperty("ssplit.eolonly", "true");
 	    StanfordCoreNLP tokenizer = new StanfordCoreNLP(tokenizerProps);
 	    StanfordCoreNLP pipeline = new StanfordCoreNLP(pipelineProps);
+	    int i=0;
 	    for (Tweet tweet: tweetList){
+	    	i++;
+	    	System.out.println("Sentence No:" +  i);
 	    	preProcessTweet(tweet);
 	    	Annotation annotation = tokenizer.process(tweet.getTweetString());
 	    	pipeline.annotate(annotation);
