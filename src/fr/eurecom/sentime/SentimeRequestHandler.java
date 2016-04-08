@@ -331,8 +331,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 				double[] useSentiArray = {0,0,0};
 				for (int i = 0; i < 3; i++){
 					useSentiArray[i] = (senti.getResultDistribution()[i]);
+					System.out.println("getResultDistribution()[i]: " +  senti.getResultDistribution()[i]);
 				}
-				int useSenti = 1;
+				int useSenti = 0;
 				if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2]){
 					useSenti = 0;
 				}
@@ -355,8 +356,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	            double[] useSentiArray = {0,0,0};
 				for (int i = 0; i < 3; i++){
 					useSentiArray[i] = (senti.getResultDistribution()[i]);
+					System.out.println("getResultDistribution()[i]: " +  senti.getResultDistribution()[i]);
 				}
-				int useSenti = 1;
+				int useSenti = 0;
 				if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2]){
 					useSenti = 0;
 				}

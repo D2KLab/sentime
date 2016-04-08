@@ -76,6 +76,7 @@ public class SentimentSystemStanford {
 	        	resultDistribution[1] = vector.get(2);
 	        	resultDistribution[0] = vector.get(3) + vector.get(4);
 	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
+	        	System.out.println("result:"+result);
 	        }
 	    }
 	    return results;
