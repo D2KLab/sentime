@@ -41,6 +41,7 @@ import en.weimar.webis.SentimentSystemTeamX;
 import en.weimar.webis.SentimentanalysisSemEval;
 import en.weimar.webis.Tweet;
 
+
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.SAXParser;
@@ -120,7 +121,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	        			//System.out.println("Summary : " + eElement.getElementsByTagName("summary").item(0).getTextContent());
 	        			//System.out.println("Domain : " + eElement.getElementsByTagName("domain").item(0).getTextContent());
 	        			//System.out.println("Text : " + str);
-	        		    File txt = new File("resources/tweets/" + path + ".txt");
+	        		    File txt = new File("resources/Amazon-reviews/" + path + ".txt");
 	        		    try{
 	        		        if(txt.exists()==false){
 	        		                System.out.println("We had to make a new file.");
@@ -145,7 +146,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	           	    }
 	           	  }
 	        	
-	               //System.out.println("data saved to: " + "resources/tweets/" + path + ".txt");
+	               //System.out.println("data saved to: " + "resources/Amazon-reviews/" + path + ".txt");
 	           }
 	       }
 		
@@ -239,7 +240,6 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		bootstrapTweets = this.bootstrapTweet(realNumber);
 		SentimentSystemNRC nrcSystem = new SentimentSystemNRC(bootstrapTweets);
 		//comment
-		//
 		if (folder != 0 ){
 			nrcSystem.train(savename + "_" + folder);
 		}
