@@ -72,11 +72,26 @@ public class SentimentSystemStanford {
 	        		result = 2;
 	        		break;
 	        	}
-	        	resultDistribution[2] = vector.get(0) + vector.get(1);
+	        	
+	        	//mapping for 3 classifications
+	        	resultDistribution[2] = vector.get(0)+vector.get(1);
 	        	resultDistribution[1] = vector.get(2);
 	        	resultDistribution[0] = vector.get(3) + vector.get(4);
+	        	
+	        	//mapping for binary classification
+	        	//hybrid neutral ;) 
+	        	if(vector.get(2) > vector.get(0) && vector.get(2) > vector.get(1) && vector.get(2) > vector.get(3) && vector.get(2) > vector.get(4)){
+	        		resultDistribution[1] = 0;
+	        		if(resultDistribution[0] > resultDistribution[2]){
+	        			resultDistribution[0] = vector.get(2) + vector.get(3) + vector.get(4);
+	        		}
+	        		else{
+	        			resultDistribution[2] = vector.get(0) + vector.get(1) + vector.get(2);
+	        		}
+	        	}
+	        	
 	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
-	        	System.out.println("result:"+result);
+	        	//System.out.println("result:"+result);
 	        }
 	    }
 	    return results;
@@ -129,7 +144,7 @@ public class SentimentSystemStanford {
 	        	resultDistribution[0] = vector.get(4);
 	        	resultDistribution[1] = vector.get(3);
 	        	resultDistribution[2] = vector.get(2);
-	        	resultDistribution[3] = 0;
+	        	resultDistribution[3] = vector.get(1);
 	        	resultDistribution[4] = vector.get(0);
 	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
 	        }

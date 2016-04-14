@@ -33,7 +33,7 @@ public class SentimeSystem {
 		System.err.println("-bsize            Enables bagging training process and specify the size of bootstrap samples.");
 		System.err.println("-experiment       Using <nostanford> to disable Stanford Sentiment System; using <noteamx> to exclude TeamX; using <nost> to exclude both systems");
 		System.err.println("-disablefilter    Disable the default filter mechanism: using <train> to disable duplicate input tweets; using <test> to disable duplicate tweet filtering when scoring.");
-		System.err.println("-format           Change the train input format to xml which converts to txt files.Use <xml> for xml input or <txt> for txt input training dataset");
+		System.err.println("-format           Change the input format to xml which converts to txt files.Use <xml> for xml input or <txt> for txt input dataset");
 		System.err.println("-folder        	  Choose the folder of the 10 fold cross-validation folder: using <1> for the first folder, <2 for the second>...");
 	}
 	
@@ -187,7 +187,7 @@ public class SentimeSystem {
 				help();
 				return;
 			}
-			//..sad
+			
 			// Initialize the SentiME system and pass tweet corpus and parameters to it.
 			String[] argList = line.getArgs();
 			

@@ -85,7 +85,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		//for (File file : files) {
 		//	System.out.println("file: " + file.getCanonicalPath());
 		//}
-	       File folder = new File("resources/Amazon-reviews/Amazon-train");
+	       File folder = new File("resources/Amazon-reviews/cross_validation");
 	       //File[] files = folder.listFiles();
 	       String[] extensions = new String[] { "xml"};
 	       List<File> files = (List<File>) FileUtils.listFiles(folder, extensions, true);
@@ -145,7 +145,6 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	           		e.printStackTrace();
 	           	    }
 	           	  }
-	        	
 	               //System.out.println("data saved to: " + "resources/Amazon-reviews/" + path + ".txt");
 	           }
 	       }
@@ -153,11 +152,13 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	
 	protected void loadTweets(String path, boolean nofilter, boolean xml, int fold) throws IOException{
 		File file = new File("resources/Amazon-reviews/" + path + ".txt"); // General case
-		
+		if (xml==false && fold == 0 ){
+		System.out.println("The file opened " + file.getCanonicalPath());
+		}
 		if (xml == true){
 			this.CreateTrainDataset(path); //Creating the .txt file from the folders of .xml files
 			file = new File("resources/Amazon-reviews/" + path + ".txt");
-			//System.out.println("The file opened ");
+			System.out.println("The file opened " + file.getCanonicalPath());
 		}
 		
 		if (fold!=0){
@@ -178,14 +179,14 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 				//System.out.println("Line: " + storeTweetUni(line[3], line[2], line[1]));
 				if (line[0].equals("NA")){
 					if (!storeTweetUni(line[3], line[2], line[1])){
-						//System.out.println("Tweet already in list: " + line[1]);
+						System.out.println("Tweet already in list: " + line[1]);
 						multiple++;
 					}
 				}
 				else{
 					if(!line[3].equals("Not Available")){
 						if (!storeTweetUni(line[3], line[2], line[0])){
-							//System.out.println("Tweet already in list: " + line[0]);
+							System.out.println("Tweet already in list: " + line[0]);
 							if(nofilter){
 								storeTweetUni(line[3], line[2], String.valueOf(multiple));
 							}
@@ -239,7 +240,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		Set<Tweet> bootstrapTweets;
 		bootstrapTweets = this.bootstrapTweet(realNumber);
 		SentimentSystemNRC nrcSystem = new SentimentSystemNRC(bootstrapTweets);
-		//comment
+		
 		if (folder != 0 ){
 			nrcSystem.train(savename + "_" + folder);
 		}
@@ -325,21 +326,28 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		classValue.put("negative", 2);
 		Map<String, Integer> resultMapToPrint = new HashMap<String, Integer>();
 		if(!SCORE){
+			int j=0;
 			for (Map.Entry<String, ClassificationResult> tweet : resultMap.entrySet()){
+				j++;
+				System.out.println("Sentence No:" + j);
 				String tweetID = tweet.getKey();
+				System.out.println("tweetID:" + tweetID);
 				ClassificationResult senti = tweet.getValue();
+				System.out.println("classificalion:" + senti);
 				double[] useSentiArray = {0,0,0};
 				for (int i = 0; i < 3; i++){
 					useSentiArray[i] = (senti.getResultDistribution()[i]);
 					System.out.println("getResultDistribution()[i]: " +  senti.getResultDistribution()[i]);
 				}
-				int useSenti = 0;
+				System.out.println("\n------------------------------------");
+				int useSenti = 1;
 				if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2]){
 					useSenti = 0;
 				}
 				if(useSentiArray[2] > useSentiArray[0] && useSentiArray[2] > useSentiArray[1]){
 					useSenti = 2;
 				}
+				
 				resultMapToPrint.put(tweetID, useSenti);
 				if (!tweet.getValue().getTweet().getSentiment().equals("unknwn")){
 					Integer actualSenti = classValue.get(tweet.getValue().getTweet().getSentiment());
@@ -349,16 +357,22 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		} else {
 			File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
 			Scanner scanner = new Scanner(file);
+			int j=0;
 			while (scanner.hasNextLine()) {
+				j++;
+				System.out.println("Sentence No:" + j);
 				String[] line = scanner.nextLine().split("\t");
 				String tweetID = line[0];
+				System.out.println("tweetID:" + tweetID);
 	            ClassificationResult senti = resultMap.get(tweetID);
+				System.out.println("tweetID:" + senti);
 	            double[] useSentiArray = {0,0,0};
 				for (int i = 0; i < 3; i++){
 					useSentiArray[i] = (senti.getResultDistribution()[i]);
 					System.out.println("getResultDistribution()[i]: " +  senti.getResultDistribution()[i]);
 				}
-				int useSenti = 0;
+				System.out.println("\n------------------------------------");
+				int useSenti = 1;
 				if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2]){
 					useSenti = 0;
 				}
@@ -503,7 +517,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		if (matrix.length != 0){
 			score(matrix);
 		}
-		printResultToFile(resultMapToPrint);
+		printResultToXMLFile(resultMapToPrint);
 	}
 
 	protected void evalAllModels(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> teamxResult) throws Exception {
@@ -884,6 +898,78 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
 
+	protected void printResultToXMLFile (Map<String, Integer> resultMapToPrint) throws FileNotFoundException {
+		int errorcount = 0;
+		int multiple = 0;
+	    Map<Integer, String> classValue = new HashMap<Integer, String>();
+	    classValue.put(0, "positive");
+	    //classValue.put(1, "neutral");
+	    classValue.put(2, "negative");
+	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
+	    //PrintStream tweetPrintStream = new PrintStream(new File("output/RightClassification.txt"));
+	    //PrintStream tweetPrintStreamError = new PrintStream(new File("output/WrongClassification.txt"));
+	    PrintStream scoringFile = new PrintStream(new File("output/result.xml"));
+	    //tweetPrintStream.println("    TweetId    Tweet_Number   Golden_Standard            Tweet_Text");
+	    //tweetPrintStreamError.println("    TweetId     Golden_Standard   Classification          Tweet_Text");
+	    Scanner scanner = new Scanner(file);
+	    scoringFile.println("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>");
+        scoringFile.println("<Sentences>");
+	    while (scanner.hasNextLine()) {
+	        String[] line = scanner.nextLine().split("\t");
+	        String id = line[0];
+	        if (line[0].equals("NA")){
+	        	id = line[1];
+	        }
+	        if(this.id_cache.add(id)){
+	            if (line.length == 4 && !line[3].equals("Not Available")){        
+	                String senti = classValue.get(resultMapToPrint.get(id));
+	                String tell = line[2];
+	                if (senti != null){
+	                    line[2] = senti;
+	                    scoringFile.println("\t<sentence id="+"\""+line[0]+"\""+">");
+	                    scoringFile.println("\t\t<text>");
+	                    scoringFile.println("\t\t\t"+line[3]);
+	                    scoringFile.println("\t\t</text>");
+	                    scoringFile.println("\t\t<polarity>");
+	                    scoringFile.println("\t\t"+line[2]);
+	                    scoringFile.println("\t\t</polarity>");
+	                    scoringFile.println("\t</sentence>");
+	                } else {
+	                    System.out.println("Error while printResultToFile: tweetID:" + id);
+	                    errorcount++;
+	                    line[2] = "neutral";
+	                }
+	            } else if (line.length == 4 && line[3].equals("Not Available")){
+	                errorcount++;
+	            } else {
+	            	System.out.println(line[0]);
+	            }
+	        } else {
+	        	String senti = classValue.get(resultMapToPrint.get(id));
+	        	line[2] = senti;
+	        	scoringFile.println("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>");
+                scoringFile.println("<Sentences>");
+                scoringFile.println("\t<sentence id="+"\""+line[0]+"\""+">");
+                scoringFile.println("\t\t<text>");
+                scoringFile.println("\t\t\t"+line[3]);
+                scoringFile.println("\t\t</text>");
+                scoringFile.println("\t\t<polarity>");
+                scoringFile.println("\t\t"+line[2]);
+                scoringFile.println("\t\t</polarity>");
+                scoringFile.println("\t</sentence>");
+	        	multiple ++;
+	        }
+	    }
+	    scoringFile.println("</Sentences>");
+	    scanner.close();
+	    //tweetPrintStream.close();
+	    //tweetPrintStreamError.close();
+	    scoringFile.close();
+	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
+	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
+	}
+	
+	
 	public void process(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE) throws Exception{
 		String classification = null;
 		SentimentSystemNRC nrcSystem = new SentimentSystemNRC(inputTweet);
@@ -928,13 +1014,18 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		classValue.put("neutral", 1);
 		classValue.put("negative", 2);
 		Map<String, Integer> resultMapToPrint = new HashMap<String, Integer>();
+		int j=0;
 		for (Map.Entry<String, ClassificationResult> tweet : resultMap.entrySet()){
+			j++;
+			System.out.println("Sentence No:" + j);
 			String tweetID = tweet.getKey();
 			ClassificationResult senti = tweet.getValue();
 			double[] useSentiArray = {0,0,0,0,0};
 			for (int i = 0; i < 5; i++){
 				useSentiArray[i] = (senti.getResultDistribution()[i]);
+				System.out.println("senti.getResultDistribution()[i]:" + senti.getResultDistribution()[i]);
 			}
+			System.out.println("\n------------------------------------");
 			int useSenti = 1;
 			if(useSentiArray[0] > useSentiArray[1] && useSentiArray[0] > useSentiArray[2] && useSentiArray[0] > useSentiArray[3] && useSentiArray[0] > useSentiArray[4]){
 				useSenti = 0;
