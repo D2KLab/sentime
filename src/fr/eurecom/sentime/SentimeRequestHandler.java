@@ -85,7 +85,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		//for (File file : files) {
 		//	System.out.println("file: " + file.getCanonicalPath());
 		//}
-	       File folder = new File("resources/Amazon-reviews/cross_validation");
+	       File folder = new File("resources/Amazon-reviews/test_xml");
 	       //File[] files = folder.listFiles();
 	       String[] extensions = new String[] { "xml"};
 	       List<File> files = (List<File>) FileUtils.listFiles(folder, extensions, true);
@@ -517,6 +517,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		if (matrix.length != 0){
 			score(matrix);
 		}
+		convertTXTtoXML();
 		printResultToXMLFile(resultMapToPrint);
 	}
 
@@ -908,7 +909,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
 	    //PrintStream tweetPrintStream = new PrintStream(new File("output/RightClassification.txt"));
 	    //PrintStream tweetPrintStreamError = new PrintStream(new File("output/WrongClassification.txt"));
-	    PrintStream scoringFile = new PrintStream(new File("output/result.xml"));
+	    PrintStream scoringFile = new PrintStream(new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH +"_CL"+ ".xml"));
 	    //tweetPrintStream.println("    TweetId    Tweet_Number   Golden_Standard            Tweet_Text");
 	    //tweetPrintStreamError.println("    TweetId     Golden_Standard   Classification          Tweet_Text");
 	    Scanner scanner = new Scanner(file);
@@ -968,7 +969,30 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
 	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
-	
+	protected void convertTXTtoXML () throws FileNotFoundException {
+		//convert txt golden standard file to xml golden standard file
+	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
+	    PrintStream convertedfile = new PrintStream(new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH +"_GS"+ ".xml"));
+	    Scanner scanner = new Scanner(file);
+	    convertedfile.println("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>");
+	    convertedfile.println("<Sentences>");
+	    while (scanner.hasNextLine()) {
+	        String[] line = scanner.nextLine().split("\t");
+	        
+	        convertedfile.println("\t<sentence id=\""+line[0]+"\">");
+	        convertedfile.println("\t\t<text>");
+	        convertedfile.println("\t\t\t"+line[3]);
+	        convertedfile.println("\t\t</text>");
+	        convertedfile.println("\t\t<polarity>");
+	        convertedfile.println("\t\t"+line[2]);
+	        convertedfile.println("\t\t</polarity>");
+	        convertedfile.println("\t</sentence>");
+	        
+	    }
+	    convertedfile.println("</Sentences>");
+                scanner.close();
+                convertedfile.close();
+	}
 	
 	public void process(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE) throws Exception{
 		String classification = null;
