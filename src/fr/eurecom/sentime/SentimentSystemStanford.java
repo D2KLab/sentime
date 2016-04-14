@@ -79,7 +79,7 @@ public class SentimentSystemStanford {
 	        	resultDistribution[0] = vector.get(3) + vector.get(4);
 	        	
 	        	//mapping for binary classification
-	        	//hybrid neutral ;) 
+	        	//hybrid neutral 
 	        	if(vector.get(2) > vector.get(0) && vector.get(2) > vector.get(1) && vector.get(2) > vector.get(3) && vector.get(2) > vector.get(4)){
 	        		resultDistribution[1] = 0;
 	        		if(resultDistribution[0] > resultDistribution[2]){
