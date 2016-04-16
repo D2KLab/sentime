@@ -28,7 +28,7 @@ public class SentimeSystem {
 		System.err.println("single: This mode is used for classifying a single tweet.\n");
 		System.err.println("PARAMETERS: ");
 		System.err.println("-arrfname         Specify the name of arffs which are used to store the model");
-		System.err.println("-testmodel        Only test one sub-classifier, use 0-4 to specify which sub-classifier to be tested");
+		System.err.println("-testmodel        Only test one sub-classifier, use 0-4 to specify which sub-classifier to be tested. Use 5 to test only the original Stanford Sentiment System.");
 		System.err.println("-trainmodel       Only train one sub-classifier, use 0-3 to specify which sub-classifer to be trained");
 		System.err.println("-bsize            Enables bagging training process and specify the size of bootstrap samples.");
 		System.err.println("-experiment       Using <nostanford> to disable Stanford Sentiment System; using <noteamx> to exclude TeamX; using <nost> to exclude both systems");

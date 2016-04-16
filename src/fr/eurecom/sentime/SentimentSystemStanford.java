@@ -25,7 +25,7 @@ public class SentimentSystemStanford {
 	public SentimentSystemStanford(Set<Tweet> tweetList) {
 		this.tweetList = tweetList;
 	}
-	
+	//Test Stanford Sentiment System for 3 and 2 polarities. Change of mapping.
 	@SuppressWarnings("null")
 	public Map<String,ClassificationResult> test() throws Exception{
 		System.out.println("Starting Stanford Test");
@@ -80,6 +80,7 @@ public class SentimentSystemStanford {
 	        	
 	        	//mapping for binary classification
 	        	//hybrid neutral 
+	        	
 	        	if(vector.get(2) > vector.get(0) && vector.get(2) > vector.get(1) && vector.get(2) > vector.get(3) && vector.get(2) > vector.get(4)){
 	        		resultDistribution[1] = 0;
 	        		if(resultDistribution[0] > resultDistribution[2]){
@@ -89,14 +90,13 @@ public class SentimentSystemStanford {
 	        			resultDistribution[2] = vector.get(0) + vector.get(1) + vector.get(2);
 	        		}
 	        	}
-	        	
 	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
 	        	//System.out.println("result:"+result);
 	        }
 	    }
 	    return results;
 	}
-	
+	//Test original Stanford Sentiment System for 5 polarities
 	@SuppressWarnings("null")
 	public Map<String,ClassificationResult> standfordTest(String nameOfTrain) throws Exception{
 		System.out.println("Starting Stanford Test");
@@ -129,16 +129,16 @@ public class SentimentSystemStanford {
 	        		result = 0;
 	        		break;
 	        	case "very positive":
-	        		result = 0;
-	        		break;
-	        	case "neutral":
 	        		result = 1;
 	        		break;
-	        	case "negative":
+	        	case "neutral":
 	        		result = 2;
 	        		break;
+	        	case "negative":
+	        		result = 3;
+	        		break;
 	        	case "very negative":
-	        		result = 2;
+	        		result = 4;
 	        		break;
 	        	}
 	        	resultDistribution[0] = vector.get(4);
@@ -151,7 +151,7 @@ public class SentimentSystemStanford {
 	    }
 	    return results;
 	}
-	
+	//Pre-process for sentences
 	private void preProcessTweet(Tweet tweet){
 		String rawTweet = tweet.getRawTweetString();
 		rawTweet = rawTweet.toLowerCase();

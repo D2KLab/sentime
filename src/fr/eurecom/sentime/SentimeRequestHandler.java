@@ -76,17 +76,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	public SentimeRequestHandler(Tweet sgTweet) {
 		this.inputTweet.add(sgTweet);
 	}
-	
+	//Creating .txt file containing all the elements needed from .xml files (ESWC2016 challenge)
 	public void CreateTrainDataset(String path) throws IOException {
-		//File dir = new File("resources/tweets/" + path);
-
-		//System.out.println("Getting all files in " + dir.getCanonicalPath() + " including those in subdirectories");
-		//List<File> files = (List<File>) FileUtils.listFiles(dir, TrueFileFilter.INSTANCE, TrueFileFilter.INSTANCE);
-		//for (File file : files) {
-		//	System.out.println("file: " + file.getCanonicalPath());
-		//}
 	       File folder = new File("resources/Amazon-reviews/test_xml");
-	       //File[] files = folder.listFiles();
 	       String[] extensions = new String[] { "xml"};
 	       List<File> files = (List<File>) FileUtils.listFiles(folder, extensions, true);
 	       for (File file : files) {
@@ -97,30 +89,19 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	           	DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 	        	DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 	        	Document doc = dBuilder.parse(file);
-	        	//System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
 	        	NodeList nList = doc.getElementsByTagName("sentence");
 				
-	        	//System.out.println("----------------------------");	
 	        	for (int temp = 0; temp < nList.getLength(); temp++) {
 
 	        		Node nNode = nList.item(temp);
 	        				
-	        		//System.out.println("\nCurrent Element :" + nNode.getNodeName());
-	        				
 	        		if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 	        			Element eElement = (Element) nNode;
-	        			
 	        			String str;
-
 	        	        str = eElement.getElementsByTagName("text").item(0).getTextContent();
 	        	        str = str.replaceAll("(\\r|\\n|\\t)", "");
-	        			
-	        			//System.out.println("Sentence id : " + eElement.getAttribute("id"));
-	        			//System.out.println("Polarity : " + eElement.getElementsByTagName("polarity").item(0).getTextContent());
-	        			//System.out.println("Summary : " + eElement.getElementsByTagName("summary").item(0).getTextContent());
-	        			//System.out.println("Domain : " + eElement.getElementsByTagName("domain").item(0).getTextContent());
-	        			//System.out.println("Text : " + str);
+	        	        
 	        		    File txt = new File("resources/Amazon-reviews/" + path + ".txt");
 	        		    try{
 	        		        if(txt.exists()==false){
@@ -128,14 +109,10 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	        		                txt.createNewFile();
 	        		        }
 	        		        PrintWriter out = new PrintWriter(new FileWriter(txt, true));
-	        		        //System.out.println("taggg "+eElement.getElementsByTagName("polarity").item(0).getTextContent());
 	        		        out.print("");
-	        		        //out.close();
 	        		        out.append(eElement.getAttribute("id") + "\t" + eElement.getAttribute("id") + "\t" + eElement.getElementsByTagName("polarity").item(0).getTextContent() + "\t" + str + "\n");	 
-	        		        //out.append("\t"+eElement.getElementsByTagName("polarity").item(0).getTextContent()+ "\t" + str + "\n");
 	        		        
 	        		        out.close();
-	        		        //System.out.println("WRITEEEEEEEE DONE");
 	        		        }catch(IOException e){
 	        		            System.out.println("COULD NOT LOG!!");
 	        		        }
@@ -145,38 +122,34 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	           		e.printStackTrace();
 	           	    }
 	           	  }
-	               //System.out.println("data saved to: " + "resources/Amazon-reviews/" + path + ".txt");
 	           }
 	       }
 		
-	
+	//Loading all the sentences.
 	protected void loadTweets(String path, boolean nofilter, boolean xml, int fold) throws IOException{
 		File file = new File("resources/Amazon-reviews/" + path + ".txt"); // General case
 		if (xml==false && fold == 0 ){
-		System.out.println("The file opened " + file.getCanonicalPath());
+		System.out.println("The .txt file opened " + file.getCanonicalPath());
 		}
 		if (xml == true){
 			this.CreateTrainDataset(path); //Creating the .txt file from the folders of .xml files
 			file = new File("resources/Amazon-reviews/" + path + ".txt");
-			System.out.println("The file opened " + file.getCanonicalPath());
+			System.out.println("The .txt created from .xml file, opened " + file.getCanonicalPath());
 		}
 		
 		if (fold!=0){
 			file = new File("resources/Amazon-reviews/cross_validation/" + fold + "/" + path + ".txt"); // For 10 fold cross validation
-			System.out.println("The file opened: " + file.getCanonicalPath());
+			System.out.println("FOLD: " + fold);
+			System.out.println("The .txt file opened: " + file.getCanonicalPath());
 		}
 		
 		Scanner scanner = new Scanner(file);
-		//System.out.println("Scan begun ");
 		int multiple = 0;
-		int lines = 0;
+		int lines = 0;//counter for lines of the file will be scanned
 		while (scanner.hasNextLine()) {
 			lines++;
-			//System.out.println("Line: " + lines);
-			//System.out.println("Scanner next line: " + scanner.hasNextLine());
 			String[] line = scanner.nextLine().split("\t");
 			if (line.length == 4){
-				//System.out.println("Line: " + storeTweetUni(line[3], line[2], line[1]));
 				if (line[0].equals("NA")){
 					if (!storeTweetUni(line[3], line[2], line[1])){
 						System.out.println("Tweet already in list: " + line[1]);
@@ -201,14 +174,14 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 				}
 			}
 			else{
-			    //System.out.println("Wrong format: " + line[0]);
+			    System.out.println("Wrong format: " + line[0]);
 			}
 		}
-		//System.out.println("multiple Tweets: " + multiple);
+		System.out.println("multiple Tweets: " + multiple);
 		scanner.close();
 	     
 	}
-
+//Generating bootsrtap dataset.
 	private Set<Tweet> bootstrapTweet (int bootstrapnumber) {
 		System.out.println("\n-------------------\nGenerating bootstrap tweets");
 		Set<Tweet> bootstrapTweets = new HashSet<>();
@@ -220,16 +193,15 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		
 		for (int i = 0; i < bootstrapnumber; i++) {
 			Tweet tweetInList = allTweet.get(random.nextInt(randomSize));
-			//System.out.println("random.nextInt(randomSize): " + random.nextInt(randomSize));
 			Tweet tweetTraining = new Tweet(tweetInList.getRawTweetString(), tweetInList.getSentiment(), String.valueOf(i));
 			bootstrapTweets.add(tweetTraining);
-			
 		}
 		
 		System.out.println("The bootstrap tweets' size: " + bootstrapTweets.size());
 		return bootstrapTweets;
 	}
-
+	
+//Generating bootstrap datasets for all the classifiers 
 	public void bootstrapAllSystems(int system, String savename, int bootstrapnumber, boolean without, int folder) throws IOException, ClassNotFoundException {
 		
 		int realNumber = bootstrapnumber;
@@ -240,7 +212,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		Set<Tweet> bootstrapTweets;
 		bootstrapTweets = this.bootstrapTweet(realNumber);
 		SentimentSystemNRC nrcSystem = new SentimentSystemNRC(bootstrapTweets);
-		
+		// for 10 fold cross validation
 		if (folder != 0 ){
 			nrcSystem.train(savename + "_" + folder);
 		}
@@ -250,7 +222,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		
 		bootstrapTweets = this.bootstrapTweet(realNumber);
 		SentimentSystemGUMLTLT gumltltSystem = new SentimentSystemGUMLTLT(bootstrapTweets);
-		
+		// for 10 fold cross validation
 		if (folder != 0 ){
 			gumltltSystem.train(savename + "_" + folder);
 		}
@@ -260,7 +232,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		
 		bootstrapTweets = this.bootstrapTweet(realNumber);
 		SentimentSystemKLUE klueSystem = new SentimentSystemKLUE(bootstrapTweets);
-		
+		// for 10 fold cross validation
 		if (folder != 0 ){
 			klueSystem.train(savename + "_" + folder);
 		}
@@ -271,7 +243,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		if(!without){
 			bootstrapTweets = this.bootstrapTweet(realNumber);
 			SentimentSystemTeamX teamXSystem = new SentimentSystemTeamX(bootstrapTweets);
-			
+			// for 10 fold cross validation
 			if (folder != 0 ){
 				teamXSystem.train(savename + "_" + folder);
 			}
@@ -283,7 +255,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	
 	}
 	
-	
+	// Test a single system
 	@Override
 	public void testSystem(int system, String trainname) throws Exception {
 		switch (system){
@@ -316,6 +288,8 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 	}
 	
+	//Evaluate a single model
+	
 	protected void evalModel(Map<String, ClassificationResult> resultMap) throws Exception {
 		System.out.println("Starting eval Model");
 		System.out.println("Tweets: " +  tweetList.size());
@@ -326,18 +300,14 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		classValue.put("negative", 2);
 		Map<String, Integer> resultMapToPrint = new HashMap<String, Integer>();
 		if(!SCORE){
-			int j=0;
+			//int j=0;
 			for (Map.Entry<String, ClassificationResult> tweet : resultMap.entrySet()){
-				j++;
-				System.out.println("Sentence No:" + j);
+				//j++;
 				String tweetID = tweet.getKey();
-				System.out.println("tweetID:" + tweetID);
 				ClassificationResult senti = tweet.getValue();
-				System.out.println("classificalion:" + senti);
 				double[] useSentiArray = {0,0,0};
 				for (int i = 0; i < 3; i++){
 					useSentiArray[i] = (senti.getResultDistribution()[i]);
-					System.out.println("getResultDistribution()[i]: " +  senti.getResultDistribution()[i]);
 				}
 				System.out.println("\n------------------------------------");
 				int useSenti = 1;
@@ -392,7 +362,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		printResultToFile(resultMapToPrint);
 	}
-
+//Test all 5 systems 
 	public void testAllSystem(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE, String trainnameTeamX, boolean stanford, boolean without, int folder) throws Exception {
 		result_storage = new File("output/result/"+trainnameNRC+this.PATH);
 		result_stream = new PrintStream(result_storage);
@@ -434,7 +404,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		
 	}
-	
+	//Evaluate all 5 systems 
 	protected void evalAllModelsWithStanford(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> teamxResult,Map<String, ClassificationResult> stanfordResult) throws Exception {
 		System.out.println("\n\n--------------------\nSentiME System: ");
 		double[][] matrix = new double[3][3];
@@ -520,7 +490,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		convertTXTtoXML();
 		printResultToXMLFile(resultMapToPrint);
 	}
-
+//Evaluate all 4 models without Stanford
 	protected void evalAllModels(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> teamxResult) throws Exception {
 		System.out.println("\n\n--------------------\nOur Replicate System: ");
 		double[][] matrix = new double[3][3];
@@ -619,7 +589,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		printResultToFile(resultMapToPrint);
 	}
-
+//Evaluate 3 models excluding TeamX
 	protected void evalWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult) throws Exception{
 			System.out.println("\n\n--------------------\nOur Replicate System Without TeamX");
 			double[][] matrix = new double[3][3];
@@ -704,7 +674,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			}
 			printResultToFile(resultMapToPrint);
 		}
-
+//Evaluating 4 systems including Stanford , excluding TeamX
 	protected void evalWithStanfordWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> stanfordResult) throws Exception{
 		System.out.println("\n\n--------------------\nOur Sentime System Without TeamX");
 		double[][] matrix = new double[3][3];
@@ -787,7 +757,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		printResultToFile(resultMapToPrint);
 	}
-
+//SemEval2015 scoring
 	protected void score(double[][] matrix){
 		double precisionA = matrix[0][0] / (matrix[0][0] + matrix[1][0] + matrix[2][0]);
 		double precisionB = matrix[1][1] / (matrix[1][1] + matrix[2][1] + matrix[0][1]);
@@ -829,7 +799,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		result_stream.println(recallC);
 		result_stream.close();
 	}
-
+//Pre-process sentences.Then prints results to file. 
 	@Override
 	protected void printResultToFile (Map<String, Integer> resultMapToPrint) throws FileNotFoundException {
 		int errorcount = 0;
@@ -839,6 +809,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    classValue.put(1, "neutral");
 	    classValue.put(2, "negative");
 	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
+	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for further research.
 	    //PrintStream tweetPrintStream = new PrintStream(new File("output/RightClassification.txt"));
 	    //PrintStream tweetPrintStreamError = new PrintStream(new File("output/WrongClassification.txt"));
 	    PrintStream scoringFile = new PrintStream(new File("output/result.txt"));
@@ -898,15 +869,16 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
 	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
-
+//Prints results to a .xml file. (ESWC2016 challenge)
 	protected void printResultToXMLFile (Map<String, Integer> resultMapToPrint) throws FileNotFoundException {
 		int errorcount = 0;
 		int multiple = 0;
 	    Map<Integer, String> classValue = new HashMap<Integer, String>();
 	    classValue.put(0, "positive");
-	    //classValue.put(1, "neutral");
+	    classValue.put(1, "neutral");
 	    classValue.put(2, "negative");
 	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
+	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for further research.
 	    //PrintStream tweetPrintStream = new PrintStream(new File("output/RightClassification.txt"));
 	    //PrintStream tweetPrintStreamError = new PrintStream(new File("output/WrongClassification.txt"));
 	    PrintStream scoringFile = new PrintStream(new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH +"_CL"+ ".xml"));
@@ -969,6 +941,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
 	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
+	//Converts .txt Golden Standard to .xml Golden Standard form (ESWC2016 challenge) 
 	protected void convertTXTtoXML () throws FileNotFoundException {
 		//convert txt golden standard file to xml golden standard file
 	    File file = new File("resources/Amazon-reviews/cross_validation/" + this.FOLDER + "/" + this.PATH + ".txt");
@@ -1028,7 +1001,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			}
 		}
 	}
-
+//Original Stanford Sentiment System Evaluation
 	protected void stanfordEval(Map<String, ClassificationResult> resultMap) throws Exception {
 		System.out.println("Starting eval Model");
 		System.out.println("Tweets: " +  tweetList.size());
@@ -1038,16 +1011,16 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		classValue.put("neutral", 1);
 		classValue.put("negative", 2);
 		Map<String, Integer> resultMapToPrint = new HashMap<String, Integer>();
-		int j=0;
+		//int j=0;
 		for (Map.Entry<String, ClassificationResult> tweet : resultMap.entrySet()){
-			j++;
-			System.out.println("Sentence No:" + j);
+			//j++;
+			//System.out.println("Sentence No:" + j);
 			String tweetID = tweet.getKey();
 			ClassificationResult senti = tweet.getValue();
 			double[] useSentiArray = {0,0,0,0,0};
 			for (int i = 0; i < 5; i++){
 				useSentiArray[i] = (senti.getResultDistribution()[i]);
-				System.out.println("senti.getResultDistribution()[i]:" + senti.getResultDistribution()[i]);
+				//System.out.println("senti.getResultDistribution()["+i+"]:" + senti.getResultDistribution()[i]);
 			}
 			System.out.println("\n------------------------------------");
 			int useSenti = 1;
