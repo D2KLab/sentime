@@ -929,8 +929,6 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	        } else {
 	        	String senti = classValue.get(resultMapToPrint.get(id));
 	        	line[2] = senti;
-	        	scoringFile.println("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>");
-                scoringFile.println("<Sentences>");
                 scoringFile.println("\t<sentence id="+"\""+line[0]+"\""+">");
                 scoringFile.println("\t\t<text>");
                 scoringFile.println("\t\t\t"+line[3]);
@@ -939,7 +937,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
                 scoringFile.println("\t\t"+line[2]);
                 scoringFile.println("\t\t</polarity>");
                 scoringFile.println("\t</sentence>");
-	        	multiple ++;
+	        	//multiple ++;
 	        }
 	    }
 	    scoringFile.println("</Sentences>");
@@ -948,7 +946,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    //tweetPrintStreamError.close();
 	    scoringFile.close();
 	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
-	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
+	    //if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
 	}
 	//Converts .txt Golden Standard to .xml Golden Standard form (ESWC2016 challenge) 
 	protected void convertTXTtoXML () throws FileNotFoundException {
