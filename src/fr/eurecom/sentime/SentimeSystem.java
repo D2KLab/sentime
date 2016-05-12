@@ -190,8 +190,8 @@ public class SentimeSystem {
 			
 			// Initialize the SentiME system and pass tweet corpus and parameters to it
 			String[] argList = line.getArgs();
-			
 			PATH = argList[1];
+			
 			SentimeRequestHandler sentimentanalysis = new SentimeRequestHandler(PATH, nofilter, score, xml, folder);
 			
 			switch (argList[0]){

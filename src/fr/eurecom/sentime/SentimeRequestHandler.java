@@ -77,7 +77,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		this.inputTweet.add(sgTweet);
 	}
 	//Creating .txt file containing all the elements needed from .xml files (ESWC2016 challenge)
-	public void CreateTrainDataset(String path) throws IOException {
+	public void createTrainDataset(String path) throws IOException {
 	       File folder = new File("resources/Amazon-reviews/test_xml");
 	       String[] extensions = new String[] { "xml"};
 	       List<File> files = (List<File>) FileUtils.listFiles(folder, extensions, true);
@@ -132,12 +132,12 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		System.out.println("The .txt file opened " + file.getCanonicalPath());
 		}
 		if (xml == true){
-			this.CreateTrainDataset(path); //Creating the .txt file from the folders of .xml files
+			this.createTrainDataset(path); //Creating the .txt file from the folders of .xml files
 			file = new File("resources/Amazon-reviews/" + path + ".txt");
 			System.out.println("The .txt created from .xml file, opened " + file.getCanonicalPath());
 		}
 		
-		if (fold!=0){
+		if (fold!=0) {
 			file = new File("resources/Amazon-reviews/cross_validation/" + fold + "/" + path + ".txt"); // For 10 fold cross validation
 			System.out.println("FOLD: " + fold);
 			System.out.println("The .txt file opened: " + file.getCanonicalPath());
@@ -361,8 +361,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			score(matrix);
 		}
 		printResultToFile(resultMapToPrint);
+		printResultToXMLFile(resultMapToPrint);
 	}
-//Test all 5 systems 
+//Select which 5 systems will be tested 
 	public void testAllSystem(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE, String trainnameTeamX, boolean stanford, boolean without, int folder) throws Exception {
 		result_storage = new File("output/result/"+trainnameNRC+this.PATH);
 		result_stream = new PrintStream(result_storage);
@@ -488,6 +489,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			score(matrix);
 		}
 		convertTXTtoXML();
+		printResultToFile(resultMapToPrint);
 		printResultToXMLFile(resultMapToPrint);
 	}
 //Evaluate all 4 models without Stanford
@@ -587,7 +589,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		if (matrix.length != 0){
 			score(matrix);
 		}
+		convertTXTtoXML();
 		printResultToFile(resultMapToPrint);
+		printResultToXMLFile(resultMapToPrint);
 	}
 //Evaluate 3 models excluding TeamX
 	protected void evalWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult) throws Exception{
@@ -672,7 +676,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			if (matrix.length != 0){
 				score(matrix);
 			}
+			convertTXTtoXML();
 			printResultToFile(resultMapToPrint);
+			printResultToXMLFile(resultMapToPrint);
 		}
 //Evaluating 4 systems including Stanford , excluding TeamX
 	protected void evalWithStanfordWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> stanfordResult) throws Exception{
@@ -755,7 +761,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		if (matrix.length != 0){
 			score(matrix);
 		}
+		convertTXTtoXML();
 		printResultToFile(resultMapToPrint);
+		printResultToXMLFile(resultMapToPrint);
 	}
 //SemEval2015 scoring
 	protected void score(double[][] matrix){
@@ -768,6 +776,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		double recallA = matrix[0][0] / (matrix[0][0] + matrix[0][1] + matrix[0][2]);
 		double recallB = matrix[1][1] / (matrix[1][1] + matrix[1][2] + matrix[1][0]);
 		double recallC = matrix[2][2] / (matrix[2][2] + matrix[2][0] + matrix[2][1]);
+		
 		double recall = (recallA + recallB + recallC) / 3;
 		
 		double f1 = 2 * ((precision * recall) / (precision + recall));
@@ -908,7 +917,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                    scoringFile.println("\t\t</polarity>");
 	                    scoringFile.println("\t</sentence>");
 	                } else {
-	                    System.out.println("Error while printResultToFile: tweetID:" + id);
+	                    System.out.println("Error while printResultToXMLFile: tweetID:" + id);
 	                    errorcount++;
 	                    line[2] = "neutral";
 	                }
