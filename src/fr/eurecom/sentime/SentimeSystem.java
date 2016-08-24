@@ -33,7 +33,7 @@ public class SentimeSystem {
 		System.err.println("-bsize            Enables bagging training process and specify the size of bootstrap samples.");
 		System.err.println("-experiment       Using <nostanford> to disable Stanford Sentiment System; using <noteamx> to exclude TeamX; using <nost> to exclude both systems");
 		System.err.println("-disablefilter    Disable the default filter mechanism: using <train> to disable duplicate input tweets; using <test> to disable duplicate tweet filtering when scoring.");
-		System.err.println("-format           Change the input format to xml which converts to txt files.Use <xml> for xml input or <txt> for txt input dataset");
+		System.err.println("-format           Change the input format to xml which converts to tsv files.Use <xml> for xml input or <tsv> for tsv input dataset");
 		System.err.println("-folder        	  Choose the folder of the 10 fold cross-validation folder: using <1> for the first folder, <2 for the second>...");
 	}
 	
@@ -138,7 +138,7 @@ public class SentimeSystem {
 				case "xml":
 					xml = true;
 					break;
-				case "txt":
+				case "tsv":
 					xml=false;
 					break;
 				default:
@@ -239,7 +239,7 @@ public class SentimeSystem {
 				String str = strin.readLine();
 				singleTweet= new Tweet(str, "neutral", "1");
 				SentimeRequestHandler sentimentpipline = new SentimeRequestHandler(singleTweet);
-				sentimentpipline.process(nameOfNRCarff, nameOfGUMLTarff, nameOfKLUEarff);
+				sentimentpipline.process(nameOfNRCarff, nameOfGUMLTarff, nameOfKLUEarff, nameOfTeamXarff);
 				break;
 			default:
 				throw new IllegalArgumentException("Invalid mode: " + argList[0]);

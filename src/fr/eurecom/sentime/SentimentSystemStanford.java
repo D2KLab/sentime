@@ -74,13 +74,18 @@ public class SentimentSystemStanford {
 	        	}
 	        	
 	        	//mapping for 3 classifications
+	        	
 	        	resultDistribution[2] = vector.get(0)+vector.get(1);
 	        	resultDistribution[1] = vector.get(2);
 	        	resultDistribution[0] = vector.get(3) + vector.get(4);
 	        	
+	        	//System.out.println("Positive confident:"+resultDistribution[2]);
+	        	//System.out.println("Neutral confident:"+resultDistribution[1]);
+	        	//System.out.println("Negative confident:"+resultDistribution[0]);
+	        	//System.out.println("Stanford confident:"+result);
 	        	//mapping for binary classification
 	        	//hybrid neutral 
-	        	
+	        	/*
 	        	if(vector.get(2) > vector.get(0) && vector.get(2) > vector.get(1) && vector.get(2) > vector.get(3) && vector.get(2) > vector.get(4)){
 	        		resultDistribution[1] = 0;
 	        		if(resultDistribution[0] > resultDistribution[2]){
@@ -90,8 +95,10 @@ public class SentimentSystemStanford {
 	        			resultDistribution[2] = vector.get(0) + vector.get(1) + vector.get(2);
 	        		}
 	        	}
-	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
+	        	
 	        	//System.out.println("result:"+result);
+	        	*/
+	        	results.put(tweet.getTweetID(), new ClassificationResult(tweet, resultDistribution, result));
 	        }
 	    }
 	    return results;
