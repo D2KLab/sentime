@@ -454,15 +454,13 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	ArrayList<Double> temaxscore = new ArrayList<Double>();
 	ArrayList<Double> stanfordscore = new ArrayList<Double>();
 	
-	ArrayList<Double> classificationScores = new ArrayList<Double>();
-	
 	Map<String, String> sentence = new HashMap<String, String>();
 	
 	Map<String, Integer> classValue = new HashMap<String, Integer>();
 	classValue.put("positive", 0);
 	classValue.put("neutral", 1);
 	classValue.put("negative", 2);
-
+	ArrayList<Double> classificationScores =  new ArrayList<Double>();
 	Map<String, ArrayList<Double>> resultMapToPrint = new HashMap<String, ArrayList<Double>>();
 	if((nrcResult != null && gumltltResult != null && klueResult != null && teamxResult != null && stanfordResult != null)  && (nrcResult.size() == gumltltResult.size()) && (nrcResult.size() == klueResult.size()) && (klueResult.size() == stanfordResult.size()) && (stanfordResult.size() == teamxResult.size())){
 		if(!SCORE){
@@ -471,14 +469,17 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			Map<String, ClassificationResult> treeMap = new TreeMap<String, ClassificationResult>(nrcResult);
 			for (Map.Entry<String, ClassificationResult> tweet : treeMap.entrySet()){
 				String tweetID = tweet.getKey();
+
+				classificationScores = new ArrayList<Double>();
 				
 				ClassificationResult nRCSenti = tweet.getValue();
 				ClassificationResult gUMLTLTSenti = gumltltResult.get(tweet.getKey());
 				ClassificationResult kLUESenti = klueResult.get(tweet.getKey());
 				ClassificationResult teamxSenti = teamxResult.get(tweet.getKey());
 				ClassificationResult stanfordSenti = stanfordResult.get(tweet.getKey());
-				//System.out.println("\nNRC Distribution:" + nRCSenti.getResultDistribution()[0]);
+				//System.out.println("\nNRC Senti:" + nRCSenti);
 				nrcscore.add(nRCSenti.getResult());
+				//System.out.println("\nnrc scoreee:" + nrcscore.add(nRCSenti.getResult()));
 				gumltltscore.add(gUMLTLTSenti.getResult());
 				kluescore.add(kLUESenti.getResult());
 				temaxscore.add(teamxSenti.getResult());
@@ -491,10 +492,16 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		        //System.out.println("Stanford"+c+":"+stanfordscore.get(c));
 				
 		        classificationScores.add(nrcscore.get(c));
+		        //System.out.println("\nListtttt1:" + classificationScores);
 		        classificationScores.add(gumltltscore.get(c));
+		        //System.out.println("\nListtttt2:" + classificationScores);
 		        classificationScores.add(kluescore.get(c));
+		        //System.out.println("\nListtttt3:" + classificationScores);
 		        classificationScores.add(temaxscore.get(c));
+		        //System.out.println("\nListtttt4:" + classificationScores);
 		        classificationScores.add(stanfordscore.get(c));
+		        
+		        //System.out.println("\nListtttt5:" + classificationScores);
 		        
 				for (int i = 0; i<3; i++){
 					classificationScores.add(nRCSenti.getResultDistribution()[i]);
@@ -509,6 +516,9 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 				
 				if(gUMLTLTSenti != null && kLUESenti != null && stanfordSenti != null && teamxSenti != null){
 					double[] useSentiArray = {0,0,0};
+
+					
+					
 					for (int i = 0; i < 3; i++){
 						useSentiArray[i] = (nRCSenti.getResultDistribution()[i] + gUMLTLTSenti.getResultDistribution()[i] + kLUESenti.getResultDistribution()[i] + stanfordSenti.getResultDistribution()[i] + teamxSenti.getResultDistribution()[i]) / 5;
 					}
@@ -521,6 +531,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 					}		
 					classificationScores.add(new Double(useSenti));
 					//System.out.println("\nListtttt:" + classificationScores);
+					//System.out.println("\ntweetID:" + tweetID);
 					resultMapToPrint.put(tweetID, classificationScores);
 					sentence.put(tweetID, tweet.getValue().getTweet().getTweetString());
 					if (!tweet.getValue().getTweet().getSentiment().equals("unknwn")){
@@ -577,7 +588,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		score(matrix);
 	}
 	convertTSVtoXML();
-	printResultToFile(resultMapToPrint, sentence);
+	printResultToFile(resultMapToPrint, sentence, trainnameNRC);
 	printResultToXMLFile(resultMapToPrint, sentence);
 	}
 //Evaluate all 4 models without Stanford
@@ -898,7 +909,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	}
 	
 	//Pre-process sentences.Then prints results to file. 
-	protected void printResultToFile (Map<String, ArrayList<Double>> resultMapToPrint, Map<String, String> sentence) throws Exception {
+	protected void printResultToFile (Map<String, ArrayList<Double>> resultMapToPrint, Map<String, String> sentence, String trainnameNRC) throws Exception {
 		int errorcount = 0;
 		int multiple = 0;
 	    Map<Double, String> classValue = new HashMap<Double, String>();
@@ -906,11 +917,11 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    classValue.put(1.0, "neutral");
 	    classValue.put(2.0, "negative");
 	    File file = new File("resources/Amazon-reviews/eval_tsv/" + this.PATH + ".tsv");
-	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for further research.
-	    PrintStream tweetPrintStream = new PrintStream(new File("output/SentiMEa/"+ this.PATH +"_RightClassification.tsv"));
-	    PrintStream tweetPrintStreamError = new PrintStream(new File("output/SentiMEa/"+ this.PATH +"_WrongClassification.tsv"));
+	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for error analysis.
+	    PrintStream tweetPrintStream = new PrintStream(new File("output/SentiMEa/"+ trainnameNRC + "_" + this.PATH +"_RightClassification.tsv"));
+	    PrintStream tweetPrintStreamError = new PrintStream(new File("output/SentiMEa/"+ trainnameNRC+ "_" + this.PATH +"_WrongClassification.tsv"));
 	    PrintStream scoringFile = new PrintStream(new File("output/result.tsv"));
-	    tweetPrintStream.println("TweetId	Golden_Standard		NRC		GUMLTLT		KLUE	TeamX	Stanford	  	Tweet_Text");
+	    tweetPrintStream.println("TweetId	Golden_Standard		NRC R	NRC_POS	NRC_NEU	NRC_NEG		GUMLTLT_R	GUMLTLT_POS	GUMLTLT_NEU	GUMLTLT_NEG		KLUE_R	KLUE_POS	KLUE_NEU	KLUE_NEG	TeamX_R	TeamX_R	TeamX_POS	TeamX_NEU	TeamX_NEG	Stanford_R	Stanford_POS	Stanford_NEU	Stanford_NEG	  	Tweet_Text");
 	    tweetPrintStreamError.println("    TweetId    Golden_Standard   Classification  NRC	GUMLTLT		KLUE	TeamX	Stanford      Tweet_Text");
 	    Scanner scanner = new Scanner(file);
 	    
@@ -952,32 +963,16 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                		//error analysis code
 	                    	tweetPrintStreamError.print(line[0] + "\t" + tell + "\t" + line[2] + "\t" );
 	                    	
-	                    	
-	                    	tweetPrintStreamError.print("NRC R:" + treeMap1.get(id).get(0) + "\t");
-	                    	tweetPrintStreamError.print("NRC P:" + treeMap1.get(id).get(5) + "\t");
-	                    	tweetPrintStreamError.print("NRC NEU:" + treeMap1.get(id).get(10) + "\t");
-	                    	tweetPrintStreamError.print("NRC NEG:" + treeMap1.get(id).get(15) + "\t");
-	                    	
-	                    	
-	                    	tweetPrintStreamError.print("GUMLTLT R:" + treeMap1.get(id).get(1) + "\t");
-	                    	tweetPrintStreamError.print("GUMLTLT P:" + treeMap1.get(id).get(6) + "\t");
-	                    	tweetPrintStreamError.print("GUMLTLT NEU:" + treeMap1.get(id).get(11) + "\t");
-	                    	tweetPrintStreamError.print("GUMLTLT NEG:" + treeMap1.get(id).get(16) + "\t");
-	                    	
-	                    	tweetPrintStreamError.print("KLUE R:" + treeMap1.get(id).get(2) + "\t");
-	                    	tweetPrintStreamError.print("KLUE P:" + treeMap1.get(id).get(7) + "\t");
-	                    	tweetPrintStreamError.print("KLUE NEU:" + treeMap1.get(id).get(12) + "\t");
-	                    	tweetPrintStreamError.print("KLUE NEG:" + treeMap1.get(id).get(17) + "\t");
-	                    	
-	                    	tweetPrintStreamError.print("TeamX R:" + treeMap1.get(id).get(3) + "\t");
-	                    	tweetPrintStreamError.print("TeamX P:" + treeMap1.get(id).get(8) + "\t");
-	                    	tweetPrintStreamError.print("TeamX NEU:" + treeMap1.get(id).get(13) + "\t");
-	                    	tweetPrintStreamError.print("TeamX NEG:" + treeMap1.get(id).get(18) + "\t");
-	                    	
-	                    	tweetPrintStreamError.print("Stanford R:" + treeMap1.get(id).get(4) + "\t");
-	                    	tweetPrintStreamError.print("Stanford P:" + treeMap1.get(id).get(9) + "\t");
-	                    	tweetPrintStreamError.print("Stanford NEU:" + treeMap1.get(id).get(14) + "\t");
-	                    	tweetPrintStreamError.print("Stanford NEG:" + treeMap1.get(id).get(19) + "\t");
+	                    	//NRC
+	                    	tweetPrintStreamError.print(treeMap1.get(id).get(0) + "\t" + treeMap1.get(id).get(5) + "\t" + treeMap1.get(id).get(10) + "\t" + treeMap1.get(id).get(15) + "\t");
+	                    	//GUMLT-LT
+	                    	tweetPrintStreamError.print(treeMap1.get(id).get(1) + "\t" + treeMap1.get(id).get(6) + "\t" + treeMap1.get(id).get(11) + "\t" + treeMap1.get(id).get(16) + "\t");
+	                    	//KLUE
+	                    	tweetPrintStreamError.print(treeMap1.get(id).get(2) + "\t" + treeMap1.get(id).get(7) + "\t" + treeMap1.get(id).get(12) + "\t" + treeMap1.get(id).get(17) + "\t");
+	                    	//TeamX
+	                    	tweetPrintStreamError.print(treeMap1.get(id).get(3) + "\t" + treeMap1.get(id).get(8) + "\t" + treeMap1.get(id).get(13) + "\t" + treeMap1.get(id).get(18) + "\t");
+	                    	//Stanford
+	                    	tweetPrintStreamError.print(treeMap1.get(id).get(4) + "\t" + treeMap1.get(id).get(9) + "\t" + treeMap1.get(id).get(14) + "\t" + treeMap1.get(id).get(19) + "\t");
 	                    	
 	                    	tweetPrintStreamError.print(treeMap2.get(id));
 	                    	tweetPrintStreamError.println();
@@ -1053,7 +1048,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    classValue.put(1, "neutral");
 	    classValue.put(2, "negative");
 	    File file = new File("resources/Amazon-reviews/eval_tsv/" + this.PATH + ".tsv");
-	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for further research.
+	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for error analysis.
 	    //PrintStream tweetPrintStream = new PrintStream(new File("output/"+ this.PATH +"_RightClassification.tsv"));
 	    //PrintStream tweetPrintStreamError = new PrintStream(new File("output/"+ this.PATH +"_WrongClassification.tsv"));
 	    PrintStream scoringFile = new PrintStream(new File("resources/Amazon-reviews/output_xml/" + this.PATH + "_CL" + ".xml"));
