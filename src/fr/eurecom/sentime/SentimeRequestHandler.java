@@ -920,6 +920,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    //Comments below are for testing reasons. Right and wrong classified sentences categorized into 2 files for error analysis.
 	    PrintStream tweetPrintStream = new PrintStream(new File("output/SentiMEa/"+ trainnameNRC + "_" + this.PATH +"_RightClassification.tsv"));
 	    PrintStream tweetPrintStreamError = new PrintStream(new File("output/SentiMEa/"+ trainnameNRC+ "_" + this.PATH +"_WrongClassification.tsv"));
+	    PrintStream classifiersScores = new PrintStream(new File("output/"+ trainnameNRC+ "_" + this.PATH +"_Classifiers_scores+GS.tsv"));
 	    PrintStream scoringFile = new PrintStream(new File("output/result.tsv"));
 	    tweetPrintStream.println("TweetId	Golden_Standard		NRC R	NRC_POS	NRC_NEU	NRC_NEG		GUMLTLT_R	GUMLTLT_POS	GUMLTLT_NEU	GUMLTLT_NEG		KLUE_R	KLUE_POS	KLUE_NEU	KLUE_NEG	TeamX_R	TeamX_R	TeamX_POS	TeamX_NEU	TeamX_NEG	Stanford_R	Stanford_POS	Stanford_NEU	Stanford_NEG	  	Tweet_Text");
 	    tweetPrintStreamError.println("    TweetId    Golden_Standard   Classification  NRC	GUMLTLT		KLUE	TeamX	Stanford      Tweet_Text");
@@ -963,7 +964,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                		//error analysis code
 	                    	tweetPrintStreamError.print(line[0] + "\t" + tell + "\t" + line[2] + "\t" );
 	                    	
-	                    	//NRC
+	                    	//NRC result + NRC positive distribution + NRC neutral distribution + NRC negative distribution
 	                    	tweetPrintStreamError.print(treeMap1.get(id).get(0) + "\t" + treeMap1.get(id).get(5) + "\t" + treeMap1.get(id).get(10) + "\t" + treeMap1.get(id).get(15) + "\t");
 	                    	//GUMLT-LT
 	                    	tweetPrintStreamError.print(treeMap1.get(id).get(1) + "\t" + treeMap1.get(id).get(6) + "\t" + treeMap1.get(id).get(11) + "\t" + treeMap1.get(id).get(16) + "\t");
@@ -1019,6 +1020,30 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                    errorcount++;
 	                    line[2] = "neutral";
 	                }
+	                //code for stacking experiment
+                	//creating a tsv file having all the classification of each classifier + the gold standard of the sentence
+                	/*classifiersScores.print(treeMap1.get(id).get(0) + "\t");
+                	classifiersScores.print(treeMap1.get(id).get(1) + "\t");
+                	classifiersScores.print(treeMap1.get(id).get(2) + "\t");
+                	classifiersScores.print(treeMap1.get(id).get(3) + "\t");
+                	classifiersScores.print(treeMap1.get(id).get(4) + "\t");
+                	classifiersScores.print(tell + "\n");
+                	*/
+                	//creating binary output for SVM
+	                for(int t=0;t<=4;t++){
+                		if (treeMap1.get(id).get(t)== 0.0){
+                			classifiersScores.print( 1 + "\t" + 0 + "\t" + 0 + "\t");
+                		}
+                		else if (treeMap1.get(id).get(t)== 1.0){
+                			classifiersScores.print( 0 + "\t" + 1 + "\t" + 0 + "\t");
+                		}
+                		else if (treeMap1.get(id).get(t)== 2.0){
+                			classifiersScores.print( 0 + "\t" + 0 + "\t" + 1 + "\t");
+                		}
+                		if(t==4){
+                			classifiersScores.print(tell + "\n");
+                		}
+                	}
 	            } else if (line.length == 4 && line[3].equals("Not Available")){
 	                errorcount++;
 	            } else {
@@ -1035,6 +1060,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	    scanner.close();
 	    tweetPrintStream.close();
 	    tweetPrintStreamError.close();
+	    classifiersScores.close();
 	    scoringFile.close();
 	    if (errorcount != 0) System.out.println("Not Available tweets: " + errorcount);
 	    if (multiple != 0) System.out.println("Multiple Tweets: " + multiple);
