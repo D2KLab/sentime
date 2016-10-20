@@ -1041,7 +1041,15 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
                 			classifiersScores.print( 0 + "\t" + 0 + "\t" + 1 + "\t");
                 		}
                 		if(t==4){
-                			classifiersScores.print(tell + "\n");
+                			if(tell.equals("positive")){
+                				classifiersScores.print(0 + "\n");
+                			}
+                			else if(tell.equals("neutral")){
+                				classifiersScores.print(1 + "\n");
+                			}
+                			else if(tell.equals("negative")){
+                				classifiersScores.print(2 + "\n");
+                			}
                 		}
                 	}
 	            } else if (line.length == 4 && line[3].equals("Not Available")){
