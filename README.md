@@ -1,9 +1,9 @@
 # **Sentime**
 SentiME is an ensemble system consisted by five individual sub-classifiers.
 ![image](https://github.com/MultimediaSemantics/sentime/blob/master/diagram_ISWC3.png)  
-With the red color it been illustrated the training process.  
+With the red color it has been illustrated the training process.  
   
-With the blue it been illustrated the test process. 
+With the blue it has been illustrated the test process. 
 
 Our Tweet Corpus downloaded
 ------------------------------
