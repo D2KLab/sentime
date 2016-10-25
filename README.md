@@ -1,7 +1,9 @@
 # **Sentime**
-This is an ensemble system consisted in five individual sub-classifiers.
-![image](https://docs.google.com/drawings/d/12Xa2rtz8C09qSq0Gk5rDrYbmwRn-4-_6v0Ur276OAyY/pub?w=479&h=229)
-**Note**: TeamX is not available due to some library problems. So the whole ensemble system works on the 4 remaining sub-classifiers.
+SentiME is an ensemble system consisted by five individual sub-classifiers.
+![image](https://github.com/MultimediaSemantics/sentime/blob/master/diagram_ISWC3.png)  
+With the red color it been illustrated the training process.  
+  
+With the blue it been illustrated the test process. 
 
 Our Tweet Corpus downloaded
 ------------------------------
@@ -11,9 +13,16 @@ Our Tweet Corpus downloaded
 |SemEval2013-dev-gold-B|1,315|1,654
 |SemEval2013-test-gold-B|3,072|3,813|
 |SemEval2014-test-gold-B|1,513|1,853|
+|SemEval2015-test-gold-B|2,390|2,392|
 
 ## Approach
-// to fill up
+
+SentiME system is a system created in order to classify sentences in natural language.  
+SentiME classifies tweets and Amazon reviews given in standard format.
+  
+The training of the system is done by the first 4 sub-classifiers. Each one of them classifies each sentence separately and the final classification result is computed by the average of confident scores for each one of the classes. The class with the bigger average score is the dominant. Also during the training process we aplly bagging (Bootsrap Aggregating Algorithm) of 150% of the initial dataset.
+  
+The test of the system is been done by all of the classifiers. We use the 5th (Stanford Sentiment System) sub-classifier with pre-trained models.
 
 
 ## How to run
@@ -24,40 +33,45 @@ There are a lot of external libraries needed for the Sentiment Ensemble System. 
 > package: fr.eurecom.sentime
 > SentimeSystem
 
-### Training command
+### Training commands
 You can train a single individual system using the command below:
 
-    train <training_data> -tm <which_system_to_train> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
-
+    train <training_data> -trainmodel <select the system> ...
+ 
 You can train all the system on the same training data using the command below:
 
-	trainAll <training_data> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
+	train <training_dataset> [-arffname name_of_the_arff_file]...
+Other parameters:  
 
-### **Evaluating command**
-You can evaluate a single system using the command below:
+-testmodel	Only test one sub-classifier, use 0-4 to specify which sub-classifier to be tested. Use 5 to test only the original Stanford Sentiment System.  
+-trainmodel	Only train one sub-classifier, use 0-3 to specify which sub-classifer to be trained  
+-bsize		Enables bagging training process and specify the size of bootstrap samples.  
+-experiment	Using <nostanford> to disable Stanford Sentiment System; using <noteamx> to exclude TeamX; using <nost> to exclude both systems  
+-disablefilter	Disable the default filter mechanism: using <train> to disable duplicate input tweets; using <test> to disable duplicate tweet filtering when scoring.  
+-format		Change the input format to xml which converts to tsv files.Use <xml> for xml input or <tsv> for tsv input dataset  
+-folder		Choose the folder of the 10 fold cross-validation folder: using <1> for the first folder, <2 for the second>...  
+Example  
+	java -Xms512m -Xmx120g -jar SentiMEa.jar train SemEval2013-train+dev-B -arffname _Bagging_150a -bsize 17007 -format tsv  
+###Test command
 
-	eval <testing_data> -em <which_system_to_test> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
+	test <test_dataset> [-arffname name_of_the_arff_file]
+Example  
 
-   **Note**: <kbd>-em 0</kbd> represents NRC sub-classifier. <kbd>-em 1</kbd> represents GU-MLT-LT sub-classifier. <kbd>-em 2</kbd> represents KLUE sub-classifier. <kbd>-em 3</kbd> represents TeamX sub-classifier(*dysfunctional*). <kbd>-em 4</kbd> represents **Stanford_System** sub-classifier.
+	java -Xms512m -Xmx110g -jar SentiMEb.jar test SemEval2015-test-gold-B -arffname _Bagging_150b1  -format tsv
 
-Your can evaluate the whole ensemble system using the command below:
-
-	evalAll <testing_data> [-tf system01_parameter_file] [-tf2 system02_parameter_file] ...
 
 ### Classify one Tweet
-    single
-    enter the input tweet in console
+   	java -Xms512m -Xmx110g -jar SentiMEb.jar single
+	Please enter the tweet:
 
 ### Usage
 * If you don't explicitly specify the path of system parameter file, the default system parameter files will be used.
-* The command "train" and "trainAll" are used to train the individual subsystems. You can train subsystems one by one with difference training data. Or you can train them at the same time using the same training data.
-* The command eval is used to evaluate the individual subsystem. You have to specify which system you want to evaluate.
-* The command evalAll is used to evaluate the ensemble system which will consume the classifications from the subsystems and produce the final classification.
 
 ### Input and output
-* Training and Testing data must be put into sources/tweets/  
-* The output(the classifications for input tweets) of system will be generated in output/result.txt
-* All the error classifications will be generated in output/error_anlysis/error.txt
+* Training and Testing dataset in SemEval's form (tweets) have to be put into resources/Amazon-reviews/eval_tsv/  
+* Training and Testing dataset in ESWC's form (Amazon Reviews) have to be put into resources/Amazon-reviews/eval_xml/
+* The output (the classifications for input tweets) of system will be generated in output/result.txt
+* All the wrong classifications will be generated in output/SentiMEa/ with a filename ending with "WrongClassified.tsv"
 
 ## Examples
     "I drove a Linconl and it's a truly dream" -> positive
@@ -65,9 +79,19 @@ Your can evaluate the whole ensemble system using the command below:
     "I drove a Linconl and it was awful" -> negative
 
 ## Team
+* Sygkounas Efstratios
 * Li Xianglei
-* Sygkounas Stratos
 * Giuseppe Rizzo
 * Raphael Troncy
 
+##Our publications
+* Sygkounas E., Rizzo G., Troncy R. (2016) [A Replication Study of the Top Performing Systems in SemEval Twitter Sentiment Analysis.][3] In: 15th International Semantic Web Conference (ISWC'16), resources Track, Kobe, Japan.
+  
+* Sygkounas E., Rizzo G., Troncy R. (2016) [Sentiment Polarity Detection From Amazon Reviews: An Experimental Study.][2] In: 13th Extended Semantic Web Conference (ESWC'16), Challenges Track, Heraklion, Greece.  
+
+* Sygkounas E., Rizzo G., Troncy R. (2016) [The SentiME System at the SSA Challenge.][4] In: (ESWC'16), Challenge on Fine-Grained Sentiment Analysis, Heraklion, Greece. 1st ranked system.
+
 [1]: http://www.anthology.aclweb.org/S/S15/S15-2078.pdf
+[2]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-ESWC2016Challenges.pdf
+[3]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-ISWC2016.pdf
+[4]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-SSA2016.pdf
