@@ -65,15 +65,18 @@ Example
 	Please enter the tweet:
 
 ### Usage
+
 * If you don't explicitly specify the path of system parameter file, the default system parameter files will be used.
 
 ### Input and output
+
 * Training and Testing dataset in SemEval's form (tweets) have to be put into resources/Amazon-reviews/eval_tsv/  
 * Training and Testing dataset in ESWC's form (Amazon Reviews) have to be put into resources/Amazon-reviews/eval_xml/
 * The output (the classifications for input tweets) of system will be generated in output/result.txt
 * All the wrong classifications will be generated in output/SentiMEa/ with a filename ending with "WrongClassified.tsv"
 
 ## Examples
+
     "I drove a Linconl and it's a truly dream" -> positive
 
     "I drove a Linconl and it was awful" -> negative
