@@ -400,7 +400,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			score(matrix);
 		}
 		printResultToFile(resultMapToPrint);
-		printResultToXMLFile(resultMapToPrint);
+		//printResultToXMLFile(resultMapToPrint);
 	}
 //Select which 5 systems will be tested 
 	public void testAllSystem(String trainnameNRC, String trainnameGUMLTLT, String trainnameKLUE, String trainnameTeamX, boolean stanford, boolean without, int folder) throws Exception {
@@ -536,7 +536,13 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 					sentence.put(tweetID, tweet.getValue().getTweet().getTweetString());
 					if (!tweet.getValue().getTweet().getSentiment().equals("unknwn")){
 						Integer actualSenti = classValue.get(tweet.getValue().getTweet().getSentiment());
+						try{
 						matrix[actualSenti][useSenti]++;
+						}
+						catch(NullPointerException e){
+							System.out.println("\nActualSenti\n:"+actualSenti);
+							System.out.println("\nuseSenti\n:"+useSenti);
+						}
 					}
 				}
 				else{
@@ -589,7 +595,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	}
 	convertTSVtoXML();
 	printResultToFile(resultMapToPrint, sentence, trainnameNRC);
-	printResultToXMLFile(resultMapToPrint, sentence);
+	//printResultToXMLFile(resultMapToPrint, sentence);
 	}
 //Evaluate all 4 models without Stanford
 	protected void evalAllModels(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> teamxResult) throws Exception {
@@ -690,7 +696,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		convertTSVtoXML();
 		printResultToFile(resultMapToPrint);
-		printResultToXMLFile(resultMapToPrint);
+		//printResultToXMLFile(resultMapToPrint);
 	}
 //Evaluate 3 models excluding TeamX
 	protected void evalWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult) throws Exception{
@@ -777,7 +783,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 			}
 			convertTSVtoXML();
 			printResultToFile(resultMapToPrint);
-			printResultToXMLFile(resultMapToPrint);
+			//printResultToXMLFile(resultMapToPrint);
 		}
 //Evaluating 4 systems including Stanford , excluding TeamX
 	protected void evalWithStanfordWithoutTeamX(Map<String, ClassificationResult> nrcResult, Map<String, ClassificationResult> gumltltResult, Map<String, ClassificationResult> klueResult, Map<String, ClassificationResult> stanfordResult) throws Exception{
@@ -862,7 +868,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 		}
 		convertTSVtoXML();
 		printResultToFile(resultMapToPrint);
-		printResultToXMLFile(resultMapToPrint);
+		//printResultToXMLFile(resultMapToPrint);
 	}
 //SemEval2015 scoring
 	protected void score(double[][] matrix){
@@ -943,6 +949,7 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	        //System.out.println("TeamX"+c+":"+temaxscore.get(c));
 	        //System.out.println("Stanford"+c+":"+stanfordscore.get(c));
 	        if(this.id_cache.add(id)){
+	        	//System.out.println("linelength:"+line.length);
 	            if (line.length == 4 && !line[3].equals("Not Available")){        
 	                String senti = classValue.get(treeMap1.get(id).get(20));
 	                String tell = line[2];
@@ -953,7 +960,8 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
 	                //System.out.println("Sentiiiiiii:"+senti);
 	                if (senti != null){
 	                    line[2] = senti;
-	                    scoringFile.println("NA\t" + line[1] + "\t" + line[2]);
+	                    scoringFile.println(line[1] + "\t" + line[2]);
+	                    System.out.println(line[1] + "\t" + line[2]);
 	                    if (!tell.equals(line[2])){
 	                    	String midman = line[1];
 	                    	line[1] = "GS:" + tell;
@@ -1052,10 +1060,13 @@ public class SentimeRequestHandler extends SentimentanalysisSemEval {
                 			}
                 		}
                 	}
+	                //System.out.println("000");
 	            } else if (line.length == 4 && line[3].equals("Not Available")){
 	                errorcount++;
+	                //System.out.println("111");
 	            } else {
 	            	System.out.println(line[0]);
+	            	//System.out.println("222");
 	            }
 	        } else {
 	        	String senti = classValue.get(resultMapToPrint.get(id));
