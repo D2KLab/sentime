@@ -6,16 +6,22 @@ from sklearn import grid_search
 from sklearn.metrics import f1_score
 from numpy import loadtxt
 import time
+import optparse
 
-#for x in xrange(1,10):
+parser = optparse.OptionParser()
+parser.add_option('-t','--train', dest = 'train_set', help = 'training set', default = 'Trained-Features-NRC_Everything4_Everything_Classifiers_scores+GS.tsv')
+parser.add_option('-q','--test', dest = 'test_set', help = 'test set', default = 'Trained-Features-NRC_Everything4_out_Classifiers_scores+GS.tsv')
+
+(options, args) = parser.parse_args()
+
 
 start_time = time.time()
 
 #load training and test data
 
-data_train = loadtxt('Trained-Features-NRC_Everything4_Everything_Classifiers_scores+GS.tsv',delimiter='\t')
+data_train = loadtxt(options.train_set,delimiter='\t')
 
-data_test = loadtxt('Trained-Features-NRC_Everything4_out_Classifiers_scores+GS.tsv',delimiter='\t')
+data_test = loadtxt(options.test_set,delimiter='\t')
 
 X_train = data_train[:,0:-1] 
 
