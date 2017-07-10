@@ -83,11 +83,14 @@ Example
 
 ## Team
 * Sygkounas Efstratios
-* Li Xianglei
 * Giuseppe Rizzo
 * Raphael Troncy
+* Enrico Palumbo
+* Li Xianglei
 
-##Our publications
+## Our publications
+* Palumbo E., Sygkounas E., Troncy R., Rizzo G. (2017) [SentiME++ at SemEval-2017 Task 4A: Stacking State-of-the-Art Classifiers to Enhance Sentiment Classification.][5] In International Workshop on Semantic Evaluation (SemEval), Vancouver, Canada
+
 * Sygkounas E., Rizzo G., Troncy R. (2016) [A Replication Study of the Top Performing Systems in SemEval Twitter Sentiment Analysis.][3] In: 15th International Semantic Web Conference (ISWC'16), resources Track, Kobe, Japan.
   
 * Sygkounas E., Rizzo G., Troncy R. (2016) [Sentiment Polarity Detection From Amazon Reviews: An Experimental Study.][2] In: 13th Extended Semantic Web Conference (ESWC'16), Challenges Track, Heraklion, Greece.  
@@ -98,3 +101,4 @@ Example
 [2]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-ESWC2016Challenges.pdf
 [3]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-ISWC2016.pdf
 [4]: https://github.com/MultimediaSemantics/sentime/blob/master/Sygkounas_Rizzo-SSA2016.pdf
+[5]: http://nlp.arizona.edu/SemEval-2017/pdf/SemEval107.pdf
